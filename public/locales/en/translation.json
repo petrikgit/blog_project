@@ -1,0 +1,688 @@
+{
+    "header": {
+        "todayIs": "Today is",
+        "namedayHas": "Name day for",
+        "blog": "Blog",
+        "aboutUs": "About Us",
+        "electoralProgram": "Electoral Program",
+        "contact": "Contact",
+        "elections": "Elections 2023",
+        "schoolUI": "AI in Education",
+        "financeUI": "AI in Public Finances",
+        "healthcareUI": "AI in Healthcare",
+        "sportUI": "AI in Sports"
+    },
+    "footer": {
+        "stranaSpravodlivost": "Political party Spravodlivosť",
+        "allRights": "All rights reserved.",
+        "privacy": "Privacy",
+        "mandatory": "Mandatory disclosure of information"
+    },
+    "home": {
+        "heading": "Spravodlivosť",
+        "findOutMore": "Find out more",
+        "text": "Welcome to the website of the political party Spravodlivosť - the first political party in Slovakia that utilizes artificial intelligence to achieve progress and innovation. We are convinced that progress cannot be stopped, and therefore, we want to be prepared for the new era. Artificial intelligence can be a powerful tool for improving our society if we are ready. Join us.",
+        "healthcare": {
+            "heading": "HEALTHCARE",
+            "text": "Artificial intelligence can significantly contribute to the efficiency and accuracy of diagnoses and treatments. Machine learning algorithms, for example, can analyze vast amounts of medical data, identify patterns invisible to the human eye, and predict disease development or treatment response. AI can also automate administrative tasks, freeing up doctors' time to focus on patients."
+        },
+        "school": {
+            "heading": "EDUCATION",
+            "text": "Artificial intelligence can greatly help with personalized education. Intelligent educational systems can adapt the content and pace of learning to the needs and abilities of each student, identify areas where students need to improve their skills, and provide teachers with feedback on students' progress."
+        },
+        "finance": {
+            "heading": "PUBLIC FINANCES",
+            "text": "Artificial intelligence enables more accurate forecasting of revenues and expenses for more efficient budgeting. It supports transparency by detecting fraud and corruption in transactions. It helps optimize expenditures and allocate resources more effectively. Automating administrative tasks frees up time for officials. AI thus supports more efficient management of public resources and serving citizens."
+        },
+        "anyQuestions": "Do you have any questions?",
+        "faqTitle": "Frequently Asked Questions",
+        "faq1": {
+            "heading": "What is the Justice Party?",
+            "text": "The Justice Party is a political party that focuses on progress through informed decision-making, ethical use of artificial intelligence, transparency, and objectivity in public communication."
+        },
+        "faq2": {
+            "heading": "What do you aim to achieve?",
+            "text": "We aim to improve healthcare, education, and public finances through effective reforms and optimal investments for progress and a better future."
+        },
+        "faq3": {
+            "heading": "What is your political agenda?",
+            "text": "Our political agenda includes improvements in healthcare, education, and public finances. Emphasis is placed on transparency, objectivity, and ethical use of artificial intelligence for informed decision-making, prosperity, and justice."
+        },
+        "faq4": {
+            "heading": "What is the main goal of the 'Justice' political party?",
+            "text": "Our main goal is to create a transparent and efficiently governed Slovakia using modern technologies, specifically artificial intelligence (AI), in the areas of education, healthcare, public finances, and sports."
+        },
+        "faq5": {
+            "heading": "Why do you choose to use artificial intelligence in decision-making?",
+            "text": "Artificial intelligence offers faster, more objective, and data-oriented decision-making. We believe that its use will allow us to optimize the use of public resources, reduce waste, and promote innovation."
+        },
+        "faq6": {
+            "heading": "How do you address the fact that artificial intelligence is rapidly advancing and can thus be difficult to control?",
+            "text": "It is true that the development in the field of artificial intelligence is extremely dynamic. As a party, we strive to always stay ahead to best utilize new technological possibilities, while ensuring they are in line with ethical principles and standards. We highly value collaboration with AI experts and are always open to welcoming more professionals who would like to collaborate with us on this challenge."
+        },
+        "faq7": {
+            "heading": "What are the main benefits of using artificial intelligence in the field of education?",
+            "text": "AI can assist in personalizing education, identifying students' needs, optimizing curricula, and improving the efficiency of teaching."
+        },
+        "faq8": {
+            "heading": "How can artificial intelligence contribute to improving healthcare?",
+            "text": "Artificial intelligence can support disease diagnosis, optimize the distribution of healthcare, identify patient needs, and enhance research and development in the field of medicine."
+        },
+        "faq9": {
+            "heading": "How do you plan to innovate the field of sports with the help of artificial intelligence?",
+            "text": "We plan to use AI for analyzing athletes' performances, optimizing training plans, and improving the organization of sports events for citizens."
+        },
+        "faq10": {
+            "heading": "How can artificial intelligence help in public financial management?",
+            "text": "AI can identify wasteful spending, optimize budget expenditures, predict financial trends, and enhance control over public resources."
+        },
+        "faq11": {
+            "heading": "How can I contribute or get involved with the activities of the Justice party?",
+            "text": "We welcome anyone who wants to get involved and contribute to our mission. You can contact us through our website or social media to learn more about current collaboration opportunities."
+        },
+        "faq12": {
+            "heading": "Do you plan to collaborate with international AI experts?",
+            "text": "Absolutely. We recognize that artificial intelligence is a global field and we would like to leverage the latest knowledge and experiences from international experts. If you're an expert in the field of AI or know someone who would be interesting for our collaboration, don't hesitate to contact us."
+        },
+        "services": {
+            "heading": "The public sector and AI"
+        },
+        "AI": {
+            "heading1": "Why People Shouldn't Fear AI",
+            "heading2": "What is AI?",
+            "heading3": "How AI Can Help",
+            "text1": "People shouldn't fear AI because it's a tool that can have a positive impact on society. AI can improve efficiency, innovation, and solve complex problems. However, it's important to ensure ethical and responsible use of this technology.",
+            "text2": "Artificial Intelligence (AI) is a technological concept where machines and systems simulate human intelligence, such as learning, decision-making, and problem-solving. These systems rely on algorithms and data to perform tasks that would require human intelligence. AI has a wide range of applications from autonomous vehicles to voice assistants and medical diagnoses.",
+            "text3": "AI can help improve diagnostic accuracy in healthcare by analyzing vast amounts of patient data and identifying patterns. In public finance, AI can analyze economic data and predict trends, aiding in the creation of effective fiscal policies. In education, AI can personalize learning plans and provide teachers with tools for better monitoring and enhancing student performance."
+        }
+    },
+    "about": {
+        "heading": "About Us",
+        "text": "Welcome to the Justice Family!",
+        "text2": "Our party was founded with a clear goal - to bring justice, transparency, and innovation to Slovak politics. We value the principles of democracy, freedom, and equality, and we believe that through collective effort, we can create a better future for every citizen of Slovakia.",
+        "text3": "Our Vision: We want Slovakia where:",
+        "text4": "Everyone has an equal opportunity to achieve their potential regardless of origin, education, or social status.",
+        "text5": "Public finances are distributed fairly and efficiently.",
+        "text6": "Education, sports, science, and research are key pillars of society.",
+        "text7": "Technology and artificial intelligence are used to improve citizens' lives and achieve sustainable growth.",
+        "text8": "Our Values:",
+        "text9before": "Justice",
+        "text9": ": Everything we do is guided by ethical and just principles.",
+        "text11before": "Transparency",
+        "text11": ": We believe in openness and honesty in all our actions.",
+        "text12before": "Innovation",
+        "text12": ": We embrace new ideas and welcome progress for the benefit of society.",
+        "text13before": "Collaboration",
+        "text13": ": We respect the opinions and support of every individual and collaborate with all layers of society to achieve common goals.",
+        "text14": "Progress is inseparably connected with human history – from the discovery of fire, through the beginnings of agriculture, the emergence of writing, to the digital revolution. It reflects our enduring desire for knowledge, innovation, and adaptation.",
+        "text15": "AI is not just a technological tool; it's a testament to our ability to create systems that can think, learn, and grow in ways we couldn't have imagined before. AI can help us address some of the most complex challenges of our time, from climate change to medical issues.",
+        "text16": "Our paths of progress show us that with every new innovation comes new possibilities and perspectives. Artificial intelligence is not only a reflection of our technological achievements but also a testimony to our boundless desire to expand the boundaries of human understanding and capabilities. We invite you to be part of this exciting era as we together explore and shape the future in a world where possibilities are endless."
+    },
+    "electoralProgram": {
+        "heading": "Election Program",
+        "point1": {
+            "heading": "1. Public Services Managed by Artificial Intelligence:",
+            "text": "Implement AI technologies to optimize the provision of public services, including healthcare, education, and transportation, ensuring fair access and efficient allocation of resources."
+        },
+        "point2": {
+            "heading": "2. Data-driven Decision Making:",
+            "text": "Utilize AI algorithms and data analysis to formulate evidence-based policies, ensuring that decisions are based on accurate information and transparent processes."
+        },
+        "point3": {
+            "heading": "3. Predictive Healthcare:",
+            "text": "Utilize AI and predictive modeling to identify healthcare risks and trends, enabling proactive measures for disease prevention, improving public health, and efficiently allocating healthcare resources."
+        },
+        "point4": {
+            "heading": "4. Intelligent Infrastructure Planning:",
+            "text": "Employ AI-powered systems for city planning, traffic management, and infrastructure development to increase efficiency, reduce traffic congestion, and support sustainable and healthy environments."
+        },
+        "point5": {
+            "heading": "5. Monitoring and Environmental Protection:",
+            "text": "Implement AI-driven systems for monitoring and analyzing environmental data, facilitating effective actions to combat pollution, protect ecosystems, and promote sustainable development."
+        },
+        "point6": {
+            "heading": "6. Citizen Engagement and Feedback:",
+            "text": "Developing artificial intelligence-powered platforms to engage citizens, enabling real-time feedback, participation in decision-making processes, and supporting inclusive and responsive governance."
+        },
+        "point7": {
+            "heading": "7. Ethical Guidelines for Artificial Intelligence:",
+            "text": "Implement clear guidelines and regulations for ethical development and deployment of artificial intelligence technologies, ensuring privacy, security, and protection against algorithmic bias or discrimination."
+        },
+        "point8": {
+            "heading": "8. Education and Skill Enhancement:",
+            "text": "Support AI literacy and provide educational programs to enable citizens and government employees to acquire the necessary skills for understanding and effectively engaging with AI-based systems."
+        },
+        "point9": {
+            "heading": "9. Digital Inclusion:",
+            "text": "Bridge the digital divide by ensuring access to AI technologies and digital infrastructure for all citizens, regardless of their socio-economic status, and providing support to marginalized communities."
+        },
+        "point10": {
+            "heading": "10. Collaborative Partnerships:",
+            "text": "Encourage collaboration between government, academia, and industry to support innovation, research, and development in AI applications for public administration while ensuring responsible and inclusive practices."
+        },
+        "point11": {
+            "heading": "11. Optimizing Sports Funding Using AI:",
+            "text": "One of the key challenges in the sports sector in Slovakia is the efficient and transparent allocation of funds among different sports disciplines, clubs, and individual athletes. We will create a model capable of analyzing athletes' performances, the needs of specific disciplines, current trends, and growth potential. This model will also assess the effectiveness of past investments in sports, identify areas requiring more funding, and recommend how to best allocate resources."
+        },
+        "paragraph": "* It is essential to note that the implementation of AI in public administration should be accompanied by robust legal frameworks, strong governance mechanisms, and ongoing monitoring and evaluation to address potential risks and ensure the technology is used ethically, transparently, and in the best interest of all citizens."
+    },
+    "educationUI": {
+        "title": "Artificial Intelligence in Slovak Education",
+        "heading1": "Introduction",
+        "text1": "In our section, 'Justice,' we are convinced that artificial intelligence (AI) has tremendous potential to transform education in Slovakia. In the 21st century world where technology is rapidly advancing, education can achieve higher levels of efficiency and innovation through this means. We emphasize the ethical use of AI and have clearly defined the risks and opportunities of this new technology.",
+        "heading2": "The Current State of Education in Slovakia",
+        "text2": "According to international assessments, the quality of Slovak education is moderate to lower:",
+        "text3": "PISA 2022: 43rd place out of 79 countries.",
+        "text4": "TIMSS 2019: 46rd place out of 64 countries.",
+        "text5": "PIRLS 2016: 44rd place out of 50 countries.",
+        "text6": "Reasons for Education Reform:",
+        "text7": "Practical Possibilities of Using AI in Education:",
+        "text8": {
+            "bold": "Personalized Education:",
+            "bulletText": "AI can analyze each student's learning style and needs to provide them with tailored educational resources and examples."
+        },
+        "text9": {
+            "bold": "Automated Assessment:",
+            "bulletText": "Quick and objective assessment of student assignments and tests using AI algorithms."
+        },
+        "text10": {
+            "bold": "Virtual Laboratories and Simulations:",
+            "bulletText": "Students can conduct experiments and simulate situations in a digital environment."
+        },
+        "text11": {
+            "bold": "Teacher Support Assistants:",
+            "bulletText": "Digital assistants can help teachers with lesson preparation and administrative tasks."
+        },
+        "text12": {
+            "bold": "Prediction of Student Success:",
+            "bulletText": "AI can predict student outcomes and identify students who might need additional assistance."
+        },
+        "heading3": "Proposed Solutions:",
+        "text13": {
+            "bold": "Ethical Regulation:",
+            "bulletText": "Ensure transparency and accountability in the use of AI. Establish ethical guidelines for schools and software developers."
+        },
+        "text14": {
+            "bold": "Teacher Professional Development:",
+            "bulletText": "Organize training for teachers in the field of technologies and their utilization in the educational process."
+        },
+        "text15": {
+            "bold": "Data Security:",
+            "bulletText": "Establishing standards for protecting student data and ensuring its secure storage."
+        },
+        "text16": {
+            "bold": "Integration into State Education Plans:",
+            "bulletText": "Integrate AI-based applications into the curriculum and adapt them to the needs of the Slovak education system."
+        },
+        "heading4": "Funding AI in Education:",
+        "text17": "The utilization of artificial intelligence in education can be a cost investment, but on the other hand, it brings long-term financial benefits due to savings and efficiency. Here are our proposals for securing funds and potential savings:",
+        "text18": {
+            "bold": "Budget Redistribution:",
+            "bulletText": "Through a review of the current education budget, we could reallocate around 5% of unnecessary expenditures towards the implementation of AI-based technologies. This could amount to approximately 25 million euros per year."
+        },
+        "text19": {
+            "bold": "Savings from Administrative Automation:",
+            "bulletText": "By utilizing AI, we can reduce administrative costs by approximately 15%. With the current administrative budget of 50 million euros, this would result in savings of 7.5 million euros per year."
+        },
+        "text20": {
+            "bold": "Partnership with Technology Companies:",
+            "bulletText": "Initiate partnerships with technology companies that could offer sponsorship or technical support in exchange for advertising space or research collaboration. We anticipate revenues of approximately 10 million euros per year."
+        },
+        "text21": {
+            "bold": "EU Grants:",
+            "bulletText": "Given the significance of technology and innovation in education, we could apply for grants from the European Union. The estimated grant amount could reach up to 15 million euros over the next 5 years."
+        },
+        "text22": {
+            "bold": "Savings from Digital Education:",
+            "bulletText": "With digital textbooks and materials, we can reduce costs for printed materials by approximately 20%. This would result in savings of around 3 million euros per year."
+        },
+        "text23": "Total Expected Funding and Savings:",
+        "text24": "Budget Redistribution: +25 million euros",
+        "text25": "Savings from Administration: +7.5 million euros",
+        "text26": "Partnerships: +10 million euros",
+        "text27": "EU Grants: +15 million euros (over 5 years)",
+        "text28": "Savings on Printed Materials: +3 million euros",
+        "text29": {
+            "bold": "Overall:",
+            "text": "Approximately 60.5 million euros for the first year (with gradual increase from EU grants in the following years)."
+        },
+        "text30": "With these financial resources and savings, we believe that we can successfully integrate AI into our education system and bring modern and efficient solutions to all students in Slovakia.",
+        "text31": "Risks and Opportunities:",
+        "text32": {
+            "bold": "Risks:",
+            "bulletText1": "Possible misuse of student data.",
+            "bulletText2": "Excessive dependence on technology at the expense of the human factor.",
+            "bulletText3": "Potential job loss in the field of education."
+        },
+        "text33": {
+            "bold": "Opportunities:",
+            "bulletText1": "Modernization of the education system.",
+            "bulletText2": "More efficient use of resources.",
+            "bulletText3": "Improvement in the quality of education and customization to individual student needs."
+        },
+        "text34": "We believe that with the proper utilization of artificial intelligence, we can achieve an education system that is more responsive to students' needs and prepares them for the challenges of the 21st century. Our party, 'Justice,' is committed to working transparently and emphasizing ethical principles in the implementation of these technologies"
+    },
+    "healthUI": {
+        "title": "Artificial Intelligence in Healthcare",
+        "heading1": "Introduction",
+        "text1": "In the Justice Party, we believe that Artificial Intelligence (AI) can bring a revolution to the healthcare sector. Our vision is a healthcare system that is more transparent, efficient, and tailored to the needs of citizens. However, with great potential also come challenges and risks. In this section, we will provide you with an overview of how we envision the future of healthcare with the involvement of AI, what the possibilities and risks are, and our proposed solutions.",
+        "heading2": "Practical possibilities of using AI in healthcare:",
+        "text2": {
+            "bold": "Diagnosis and Treatment",
+            "text": ": AI can analyze patients' clinical data faster and more accurately, assisting doctors in diagnosis and determining the best treatment."
+        },
+        "text3": {
+            "bold": "Personalized Medicine",
+            "text": ": Based on genetic information, AI can suggest tailor-made treatments for individual patients."
+        },
+        "text4": {
+            "bold": "Hospital Operations Optimization",
+            "text": ": Through AI, we can better manage hospital supplies, staff, and equipment, reducing costs and shortening waiting times for patients."
+        },
+        "text5": {
+            "bold": "Virtual Health Assistants",
+            "text": ": Patients can have access to virtual assistants that provide advice regarding treatment, medications, or lifestyle."
+        },
+        "text6": {
+            "bold": "High Diagnostic Accuracy",
+            "text": ": AI can identify diseases with higher accuracy than human doctors, for example, breast cancer with 99% accuracy."
+        },
+        "text7": {
+            "bold": "Cost Savings",
+            "text": ": It is estimated that by 2030, AI can reduce healthcare costs in Slovakia by up to 1 billion euros annually."
+        },
+        "text8": {
+            "bold": "Reduction of Administration",
+            "text": ": Task automation can reduce doctors' administrative burden by up to 50%."
+        },
+        "heading3": "Risks and Challenges:",
+        "text9": {
+            "bold": "Data Protection",
+            "text": ": Ensuring the security of sensitive health information is crucial. We must ensure that this data is not misused or compromised."
+        },
+        "text10": {
+            "bold": "Dependency on Technology",
+            "text": ": We must not fully rely on AI at the expense of human judgment and interaction."
+        },
+        "text11": {
+            "bold": "Ethical Dilemmas",
+            "text": ": AI can raise questions regarding morality and ethics, such as in the field of genetic engineering."
+        },
+        "heading4": "Our Proposed Solutions:",
+        "text12": {
+            "bold": "Establishment of Regulatory Framework",
+            "text": ": We will actively work towards creating legislation that ensures the use of AI in healthcare is safe, transparent, and ethical."
+        },
+        "text13": {
+            "bold": "Collaboration with Experts",
+            "text": ": We will collaborate with doctors, scientists, and other experts to ensure that the technology aligns with medical practice."
+        },
+        "text14": {
+            "bold": "Education and Awareness",
+            "text": ": We inform the public about the benefits and risks of AI in healthcare and promote the education of healthcare personnel in the field of new technologies."
+        },
+        "heading5": "Funding and Efficient Resource Utilization:",
+        "text15": "Artificial intelligence offers not only clinical benefits but also opportunities to improve financial efficiency in healthcare. Below, we outline how we plan to fund the development and implementation of AI solutions and where we see opportunities for savings.",
+        "text16": {
+            "heading": "Sources of Funding:",
+            "bold1": "From EU Funds",
+            "text1": ": Based on our research, there are several European grants focused on healthcare innovations, from which we could secure up to 15 million EUR.",
+            "bold2": "Private Sector Partnerships",
+            "text2": ": Through partnerships with technology companies and development laboratories, we could secure co-financing for projects. We anticipate approximately 10 million EUR over the next three years.",
+            "bold3": "National Grants for Research and Development",
+            "text3": ": From these sources, we estimate acquiring 5 million EUR."
+        },
+        "text17": {
+            "heading": "Expected Savings and Efficiency:",
+            "bold1": "Hospital Operations Optimization",
+            "text1": ": With the implementation of AI in hospital resource management, we anticipate savings of 8 million EUR over three years through waste reduction and more efficient resource utilization.",
+            "bold2": "Diagnostic Efficiency",
+            "text2": ": Faster and more accurate diagnostics can shorten hospitalization periods and reduce costs related to unnecessary tests, potentially leading to savings of approximately 5 million EUR annually.",
+            "bold3": "Personalized Medicine",
+            "text3": ": Targeted treatment based on genetic information can reduce the need for expensive drugs and procedures. Estimated savings in this segment are 4 million EUR annually."
+        },
+        "text18": "Total expected savings over three years could reach approximately 50 million EUR. These savings would then be reinvested back into the healthcare system, further research and innovation, and most importantly, the improvement of patient care.",
+        "text19": "In the country of Justice, we commit to the transparent and responsible use of public funds. With the help of artificial intelligence, we see a real opportunity for Slovakia to become a leader in healthcare innovations, while efficiently managing and utilizing financial resources for the benefit of all citizens."
+    },
+    "financeUI": {
+        "title": "Artificial Intelligence in Public Finances",
+        "text1": "Welcome to the section dedicated to the revolutionary field of artificial intelligence (AI) and its potential in managing public finances. The Justice Party advocates for transparency, efficiency, and a better life for all citizens. In this section, you can learn how AI can assist us in achieving these goals.",
+        "heading1": "Practical AI Applications:",
+        "text2": {
+            "bold": "Predictive Analysis",
+            "text": ": AI can forecast future expenditures and revenues of the state budget based on historical data and current trends, enabling better planning and resource allocation."
+        },
+        "text3": {
+            "bold": "Fraud Detection",
+            "text": ": AI can scan and analyze thousands of transactions per second to detect unusual patterns or suspicious activities, thereby safeguarding public funds."
+        },
+        "text4": {
+            "bold": "Budget Optimization",
+            "text": ": With the help of algorithms, we can optimize budget allocations to meet the needs of citizens and ensure the highest value for invested funds."
+        },
+        "text5": {
+            "bold": "Automated Management",
+            "text": ": Many routine and time-consuming tasks can be automated, reducing costs and increasing efficiency."
+        },
+        "heading2": "Solution Proposals:",
+        "text6": {
+            "bold": "Transparency and Oversight",
+            "text": ": We will create a platform where citizens can track in real-time how public funds are being utilized and provide feedback."
+        },
+        "text7": {
+            "bold": "Ethical AI Utilization",
+            "text": ": We are implementing strict ethical guidelines for the use of AI in public finances to protect citizens' personal data and ensure fairness."
+        },
+        "text8": {
+            "bold": "Education",
+            "text": ": We are investing in training and educational programs for officials to understand and effectively utilize AI."
+        },
+        "text9": {
+            "bold": "Collaboration with Experts",
+            "text": ": We will collaborate with AI scientists and experts to ensure that our solutions remain at the forefront of technological advancement."
+        },
+        "heading3": "Funding and Efficiency through AI",
+        "text10": "One of the main goals of using artificial intelligence in public finances is to achieve more efficient resource utilization and allocation. Below, we focus on specific areas where we believe AI can lead to significant cost savings or revenue increases.",
+        "text11": "Potential Cost Savings:",
+        "text12": {
+            "bold": "Automation of Routine Tasks",
+            "text": ": By reducing manual work, we can save approximately 15% of administrative costs, potentially resulting in annual savings of up to 50 million EUR."
+        },
+        "text13": {
+            "bold": "Fraud Detection and Illegal Transactions",
+            "text": ": Through advanced fraud detection algorithms, we estimate that we can reduce fraud by up to 20%. This could potentially return up to 100 million EUR annually to the state treasury."
+        },
+        "text14": {
+            "bold": "Optimization of Public Procurements",
+            "text": ": AI can help identify overpriced contracts and streamline the public procurement process, potentially saving hundreds of millions of EUR."
+        },
+        "text15": "Potential Revenue Increases:",
+        "text16": {
+            "bold": "Predictive Analysis of Tax Revenues",
+            "text": ": Thanks to AI, we can better predict tax revenues and adapt to economic fluctuations. This could increase tax collection efficiency and contribute to a 5% revenue boost, potentially adding 200 million EUR annually."
+        },
+        "text17": {
+            "bold": "Automated Monitoring of Tax Evaders",
+            "text": ": AI can help identify companies and individuals evading tax obligations, potentially gaining an additional 50 million EUR annually."
+        },
+        "text18": "Overall, due to the benefits and opportunities offered by artificial intelligence, we estimate that we can achieve savings and revenue increases of up to 400 million EUR annually. These funds could then be reinvested in key areas such as education, healthcare, and sports, for a better life for all citizens.",
+        "heading4": "Risks and Opportunities:",
+        "text19": "When utilizing AI in public finances, it is important to recognize both risks and opportunities. While the technology offers tremendous opportunities for efficiency and transparency, we must remain vigilant against possible abuses, algorithmic biases, or misinterpretations of data. Our goal is to combine the strengths of AI with ethical principles and active citizen engagement to collectively build a strong and fair system for managing public finances.",
+        "text20": "Join us in our effort to create a more transparent and efficient Slovakia through artificial intelligence."
+    },
+    "sportUI": {
+        "title": "Artificial Intelligence in Sports",
+        "heading1": "Introduction",
+        "text1": "In the Justice Party, we believe that artificial intelligence (AI) has immense potential to improve many areas of our social life. When it comes to sports, this technology can help us optimize training programs, analyze athletes' performance, and enhance the health and safety of participants. Throughout all of this, we adhere to strong ethical principles and strive for transparency in all our actions.",
+        "heading2": "Practical Applications of AI in Sports:",
+        "text2": {
+            "bold": "Performance Analysis",
+            "text": ": With the use of AI, it is possible to analyze athletes' movements, techniques, and endurance in detail. Using this data, we can adjust training plans to maximize their potential."
+        },
+        "text3": {
+            "bold": "Personalized Training Programs",
+            "text": ": AI can analyze the unique physical attributes and abilities of each athlete, enabling the creation of individualized training programs."
+        },
+        "text4": {
+            "bold": "Injuries and Prevention",
+            "text": ": AI can help predict the risk of injuries through the analysis of athletes' data and training routines, allowing coaches and doctors to tailor procedures and minimize the risk of injuries."
+        },
+        "text5": {
+            "bold": "Interactive Decision-making",
+            "text": ": The use of AI can assist referees in making more precise decisions in controversial situations, such as in football, hockey, or tennis."
+        },
+        "heading3": "Proposed Solutions:",
+        "text6": {
+            "bold": "Transparency in Data Usage",
+            "text": ": We commit to processing all data obtained from athletes with the utmost respect for privacy and security."
+        },
+        "text7": {
+            "bold": "Educational Programs",
+            "text": ": We will ensure that coaches, athletes, and all involved parties have access to education about how AI works and how they can utilize it to their advantage."
+        },
+        "text8": {
+            "bold": "Ethical Use of AI",
+            "text": ": In the development and implementation of AI solutions, we will rigorously adhere to ethical standards and principles."
+        },
+        "text9": {
+            "bold": "Collaboration with Society",
+            "text": ": We will actively listen to the opinions of sports communities and experts in artificial intelligence to ensure that our solutions align with real needs and interests."
+        },
+        "heading4": "Concrete Financing Solution",
+        "text10": {
+            "bold": "Establishment of an AI-based Sports Fund",
+            "text": ": The fund would be filled with resources from public funds, sponsorship agreements, and other revenue sources. AI would subsequently analyze which sports and athletes have the greatest potential on the international stage and where investments would yield success and a positive image for Slovakia. This way, we would ensure that finances are directed where they have the greatest impact."
+        },
+        "text11": {
+            "bold": "Transfer of a Portion of Revenue from Gambling",
+            "text": ": Implementation of legislation to redirect a portion of revenues from state lotteries and other gambling activities directly to the sports fund. This model has been successfully used in many countries."
+        },
+        "text12": {
+            "bold": "Sports Lottery",
+            "text": ": Establishment of a special sports lottery, with proceeds directly supporting sports."
+        },
+        "text13": {
+            "bold": "Increase in Taxes on Alcohol and Tobacco",
+            "text": ": A slight increase in consumption taxes on products associated with an unhealthy lifestyle, such as alcohol and tobacco products. These additional revenues would be directly allocated to support sports and a healthy lifestyle."
+        },
+        "text14": {
+            "bold": "Partnership with the Private Sector",
+            "text": ": Activation of partnerships with the private sector through sponsorships, advertisements, and commercial rights related to major sports events."
+        },
+        "text15": {
+            "bold": "Environmental Fees",
+            "text": ": A portion of the environmental fees paid by companies for waste production or pollution could be allocated to support sports activities that contribute to a healthier lifestyle and a better environment."
+        },
+        "text16": {
+            "bold": "Tourist Tax",
+            "text": ": A portion of the revenue from the tourist tax could be directed towards supporting sports infrastructure that attracts more tourists, such as cycling routes, hiking trails, sports facilities, etc."
+        },
+        "heading5": "Conclusion",
+        "text17": "In the Justice Party, we see countless opportunities that artificial intelligence can bring to the sports sector. At the same time, we are aware of the risks and aim to work transparently and ethically to maximize benefits and minimize potential drawbacks. We believe that through well-guided AI utilization in sports, we can contribute to a better and healthier sports environment for all citizens of Slovakia."
+    },
+    "contact": {
+        "heading": "Contact us",
+        "street": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+        "text": "SPRAVODLIVOSŤ, a political party registered with the Ministry of Interior of the Slovak Republic under registration number OVVS 3 – 2011/029916, registered office: Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovak Republic, Identification Number (IČO): 42 257 441, Tax Identification Number (DIČ): 2820011898, banking connection: Tatra banka, a.s., account number: SK68 1100 0000 0029 2086 6869, email: spravodlivost.politicka.strana@gmail.com"
+    },
+    "privacy": {
+        "heading": "PRIVACY",
+        "whatFor": {
+            "heading": "What are these pieces of information for?",
+            "text": "These information about the processing and protection of your personal data explain who we are, why and how we process personal data, what your rights are in case you are a person affected by this processing, and how you can contact us if needed."
+        },
+        "whoAreWe": {
+            "heading": "Who are we?",
+            "text": "We are the political party SPRAVODLIVOSŤ, with headquarters at Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovak Republic, Identification Number (IČO): 42 257 441, registered in the Registry of Political Parties maintained by the Ministry of Interior of the Slovak Republic under No. OVVS 3 – 2011/029916. We are considered the so-called 'data controller', authorized to process your personal data in accordance with the relevant legislation, particularly Law No. 18/2018 Coll. on the protection of personal data, and these information. We process your personal data in compliance with applicable legal regulations. Our contact details are: [provide contact details].",
+            "text2": "SPRAVODLIVOSŤ, a political party registered with the Ministry of Interior of the Slovak Republic under registration number OVVS 3 – 2011/029916.",
+            "text3": "Address: Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovak Republic",
+            "text4": "IČO: 42 257 441",
+            "text5": "DIČ: 2820011898",
+            "text6": "Bank connection: Tatra banka, a.s.",
+            "text7": "Account number: SK68 1100 0000 0029 2086 6869",
+            "text8": "Email: spravodlivost.politicka.strana@gmail.com"
+        },
+        "when": {
+            "heading": "When do we process your personal data?",
+            "text": "We can process your personal data in the following cases:",
+            "list": {
+                "item1": "You have registered on our websites.",
+                "item2": "You have subscribed to receive our newsletters in the form of a newsletter.",
+                "item3": "You have participated in our events.",
+                "item4": "You have signed our petitions or sheets to support the formation of the movement.",
+                "item5": "You have become or are interested in becoming our member, volunteer, or donor.",
+                "item6": "You comment, 'like,' or have other interactions with our content on our websites or profiles established on social networks, including the personal profiles of our election leaders."
+            },
+            "text2": "In all of these cases, we could have obtained your personal data directly from you, for example, through our website, our social media accounts, by personally filling out a questionnaire, or on other occasions."
+        },
+        "whatKind": {
+            "heading": "How do we process your personal data?",
+            "text": "The personal data we process mainly include:",
+            "list": {
+                "item1": "Your name and surname;",
+                "item2": "Your date of birth and nationality, if you have become or are interested in becoming our member;",
+                "item3": "Your contact details, including your permanent address, phone number, email address, social media accounts, and other personal or work-related contact information.",
+                "item4": "Data related to expressions of sympathy, comments, or other interactions with content on our social media profiles (so-called fanpages) or on our websites."
+            },
+            "heading2": "Information obtained from our mutual communication",
+            "text2": "In addition to personal data, we may obtain and subsequently process other data and information that you provide to us or that result from our mutual communication through phone, email, our website, social networks, or other means."
+        },
+        "information": {
+            "heading": "Information obtained from using cookies.",
+            "text1": "Our website uses so-called cookies. Cookies are small text files that are stored on your computer and can be saved by your web browser for the purpose of identifying your device and technically improving or customizing the functioning of our site, as well as obtaining statistical and analytical data. The cookies used on our website do not allow for specific user identification, and the data obtained from cookies is usually collected in an aggregated form.",
+            "text2": "Accepting cookies is not a necessary requirement to allow you to visit our website. Most internet browsers automatically accept cookies, but you can freely adjust these settings in your browser. If you decide not to accept cookies, some features of our site may not function properly.",
+            "text3": "The most commonly used cookies by us are temporary cookies (so-called session cookies), which will be deleted after the browser session ends. In addition, there are also persistent cookies, which enable us to recognize your device from which you have previously visited our site. Cookies do not cause any damage to your device and do not contain viruses or harmful code.",
+            "text4": "Our website exclusively uses third-party cookies that provide us with services, and you can find more information about them on the following pages:",
+            "list": {
+                "item1": "Google Analytics;",
+                "item2": "Facebook;",
+                "item3": "eTarget;",
+                "item4": "Nation Builder;",
+                "item5": "Quorum."
+            }
+        },
+        "informationSocialMedia": {
+            "heading": "Information obtained from interactions on social networks",
+            "text1": "For marketing activities, we only process ordinary categories of personal data as specified above. We do not process any special categories of personal data for these purposes. Data about potential sympathies, expressed interests, and interactions with digital content about our political party SPRAVODLIVOSŤ are not considered as your political opinions or political beliefs, as we believe that both our sympathizers and political opponents follow us in the online space. Personal profiles of our political leaders or candidates are considered part of the processing carried out by SPRAVODLIVOSŤ.",
+            "heading2": "How do we process your personal data?",
+            "text2": "We process your personal data for the following purposes:",
+            "list": {
+                "item1": "Providing information about our activities, including sending emails, SMS messages, or phone calls about our news and/or responding to questions you directly sent to us;",
+                "item2": "Managing and organizing our relationships with members, supporters, volunteers, or individuals interested in our activities; and",
+                "item3": "Managing our website and social media accounts to display content as efficiently as possible, based on testing and data analysis."
+            },
+            "heading3": "Who do we disclose your personal data to?",
+            "text3": "We may disclose or make your personal data available based on the decision of a court or other state authorities authorized to request their disclosure and/or availability and in accordance with the obligations imposed by relevant legal regulations.",
+            "heading4": "What is the legal basis for processing your personal data?",
+            "text4": "We primarily process your personal data based on your consent, which you provided before the start of the processing. The options for revoking consent for processing are described below in this document.",
+            "text5": "If necessary, we may further process your personal data in the following cases:",
+            "list2": {
+                "item1": "If you have concluded or plan to conclude a contract with us, for the necessity of contract performance, or in connection with pre-contractual negotiations before concluding such a contract; or",
+                "item2": "For the necessity of fulfilling our legal obligations."
+            }
+        },
+        "where": {
+            "heading": "Where do we process your personal data?",
+            "text1": "We primarily process your personal data within the territory of the European Union or in the territory of states that are part of the European Economic Area agreement.",
+            "text2": "However, some of our suppliers, especially those whose services we use to operate our website, may process various data in the United States of America (USA), including personal data.",
+            "text3": "The transfer of personal data to the USA is possible based on the implementing decision of the European Commission (EU) 2016/1250 of July 12, 2016, on the adequacy of the protection provided by the EU-U.S. Privacy Shield.",
+            "heading2": "How long do we process your personal data?",
+            "text4": "We process your personal data only for the time necessary to achieve the purpose for which your personal data was obtained. Personal data processed based on your consent may be processed for the entire duration of the validity of your consent, which is five years from the date of its granting.",
+            "text5": "After this period, your personal data will be erased, except in cases where further processing is necessary to ensure compliance with our legal obligations or for other legitimate reasons in accordance with applicable laws.",
+            "heading3": "What are your rights?",
+            "text6": "In connection with the processing of your personal data, you have the following rights:",
+            "list": {
+                "item1": "You have the right to request access to your personal data we process.",
+                "item2": "You have the right to request the correction of inaccurate personal data we process.",
+                "item3": "You have the right to request the erasure of your personal data we process.",
+                "item4": "You have the right to withdraw your consent to the processing of your personal data; after the receipt of your withdrawal, we will no longer process your personal data. The withdrawal of your consent does not affect the lawfulness of the processing carried out before its withdrawal.",
+                "item5": "You have the right to lodge a complaint regarding the unlawful processing of personal data. You can address your complaint to us at any time or submit it to the Office for Personal Data Protection of the Slovak Republic."
+            }
+        },
+        "howTo": {
+            "heading": "How to exercise your rights regarding the processing of personal data?",
+            "text1": "You can exercise any of the above-mentioned rights by sending a message to our email address: spravodlivost.politicka.strana@gmail.com or to our postal address:",
+            "text2": "SPRAVODLIVOSŤ",
+            "text3": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+            "text4": "Please note that before providing you with any information in this regard, we are entitled to request additional data and information from you for the purpose of verifying your identity.",
+            "heading2": "Office for Personal Data Protection of the Slovak Republic",
+            "text5": "The Office for Personal Data Protection of the Slovak Republic is a governmental authority responsible for supervising the protection of personal data in the territory of the Slovak Republic.",
+            "text6": "The Office is authorized to handle your complaints related to the processing of your personal data. Additionally, the Office can provide you with further information about your rights and obligations regarding your personal data."
+        }
+    },
+    "category": {
+        "header": "",
+        "categoriesHeader": "Categories",
+        "readMoreHeader": "Read more",
+        "searchPlaceholder": "Search",
+        "notFound": "No articles were found."
+    },
+    "404": {
+        "heading": "404 - Page not found",
+        "text": "We are sorry. Page could not be found.",
+        "readMoreHeading": "Read more",
+        "noArticles": "No articles were found."
+    },
+    "mandatory": {
+        "heading": "Additional information required",
+        "text": "Mandatory published information from 2 May 2023"
+    },
+    "mandatoryFrom": {
+        "heading": "Mandatory published information from 2 May 2023",
+        "text": "Mandatory published information until 1 May 2023"
+    },
+    "mandatoryTo": {
+        "heading1": "Mandatory published information until 1st May 2023",
+        "text1": "Information published according to § 22 para. 5 of the Act No. 85/2005 Coll. on Political Parties and Political Movements as amended by subsequent legal regulations:",
+        "text2": "Information published according to § 22 para. 5 of the Act No. 85/2005 Coll. on Political Parties and Political Movements as amended by subsequent legal regulations:",
+        "text3": "1. Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916",
+        "text4": "did not receive any contributions from individuals contributing to its activities",
+        "text5": "in monetary form",
+        "text6": "whose sum exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance;",
+        "text7": "Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916",
+        "text8": "did not receive any contributions from individuals contributing to its activities",
+        "text9": "in monetary form",
+        "text10": "whose sum exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance;",
+        "text11": "Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916",
+        "text12": "received, in the calendar year 2019, contributions from individuals who contributed to its activities",
+        "text13": "in non-monetary form",
+        "text14": "whose sum exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance;",
+        "text15": "Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916",
+        "text16": "received, in the calendar year 2019, contributions from the following individuals who contributed to its activities",
+        "text17": "in monetary form",
+        "text18": "Ing. Pavel Weiss, Vysoká 7116/16, 811 06 Bratislava - Staré Mesto, amount of the monetary gift: 5,000 euros",
+        "text19": "Ing. JUDr. Soňa Snopková, Anízova 20409/25, 821 04 Bratislava - Vrakuňa, amount of the monetary gift: 3,000 euros",
+        "text20": "RNDr. Ferdinand Búci, Hrobákova 9, 851 02 Bratislava, amount of the monetary gift: 3,000 euros",
+        "text21": "Ing. Martin Halás, Baltská 33, 821 07 Bratislava, amount of the monetary gift: 3,000 euros",
+        "text22": "JUDr. Ester Tvrdoň Flóra, Bratislavská 53/31, 900 21 Svätý Jur, amount of the monetary gift: 3,000 euros",
+        "text23": "Empire Services s.r.o., Trnavská 6/c, 821 08 Bratislava, Identification Number: 35 835 346, amount of the monetary gift: 2,000 euros.",
+        "text24": "4. Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916 received, in the calendar year 2019, other gratuitous benefits whose value exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance from Mgr. Ivan Weiss, Mikulášska 7015/25, 811 01 Bratislava, in the amount of 8,031 euros (value of the gratuitous benefit) as the value of ordinary interest on an interest-free loan (subject of the gratuitous benefit).",
+        "text25": "Information published: 18th March 2020",
+        "text26": "1. Information about the List of Donors based on the provision of § 23 para. 4 of the Act of the National Council of the Slovak Republic No. 85/2005 Coll. on Political Parties and Political Movements as amended by subsequent regulations:",
+        "text27": "a.) Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916 did not receive any contributions from individuals in the calendar year 2018 who contributed to its activities in the form of a monetary gift or membership contribution, the sum of which exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance.",
+        "text28": "a.) Political party 99% - Civic Voice, b.) Political party 99% - Civic Voice, Klariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916 received, in the calendar year 2018, other gratuitous benefits whose value exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptanceKlariská 330/1, 811 03 Bratislava, Identification Number: 42257441, registered in the Political Parties Registry kept by the Ministry of Interior of the Slovak Republic on 6th December 2011, under No. OVVS 3 - 2011/029916 did not receive any contributions from individuals , who contributed to its activities in the form of a monetary gift or membership contribution, the sum of which exceeded twice the minimum wage of an employee receiving a monthly wage applicable at the time of acceptance.",
+        "text29": "from Mgr. Ivan Weiss, Mikulášska 7015/25, 811 01 Bratislava, in the amount of 8,031 euros (value of the gratuitous benefit) as the value of ordinary interest on an interest-free loan (subject of the gratuitous benefit).",
+        "text30": "Information published: 29th March 2019",
+        "text31": "2. Report on funds used for the pre-election campaign",
+        "text32": "Report on funds used for the pre-election campaign – elections to the bodies of local self-government in 2018",
+        "text33": "Report on funds expended on the election campaign by the political party for the elections to the bodies of local self-government in the year 2022",
+        "docText": {
+            "text1": "3. Information about the List of Donors based on the provision of § 23 para. 4 of the Act of the National Council of the Slovak Republic No. 85/2005 Coll. on Political Parties and Political Movements as amended by subsequent regulations:",
+            "text2": "In the 1st quarter of 2016, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text3": "Information published: 30th April 2016",
+            "text4": "In the 2nd quarter of 2016, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text5": "Information published: 30th July 2016",
+            "text6": "In the 3rd quarter of 2016, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text7": "Information published: 30th October 2016",
+            "text8": "In the 4th quarter of 2016, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text9": "Information published: 26th January 2017",
+            "text10": "In the 1st quarter of 2017, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text11": "Information published: 28th April 2017",
+            "text12": "In the 2nd quarter of 2017, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text13": "Information published: 27th July 2017",
+            "text14": "In the 3rd quarter of 2017, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text15": "Information published: 26th October 2017",
+            "text16": "In the 4th quarter of 2017, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text17": "Information published: 26th January 2018",
+            "text18": "In the 1st quarter of 2018, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text19": "Information published: 25th April 2018",
+            "text20": "In the 2nd quarter of 2018, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text21": "Information published: 25th July 2018",
+            "text22": "In the 3rd quarter of 2018, political party 99% - Civic Voice did not receive any gifts and did not account for any received gifts.",
+            "text23": "Information published: 29th October 2018",
+            "text24": "Last update of the list of donors: 29th October 2018"
+        }
+    },
+    "articles": {
+        "readMoreHeading": "Read more"
+    },
+    "article": {
+        "readMoreHeading": "Read more",
+        "readMoreHeadingBtn": "Read more",
+        "addedBy": "Added By",
+        "onDay": "on",
+        "resource": "Resource",
+        "fixedBy": "Modified by",
+        "home": "Home"
+    }
+}

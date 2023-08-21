@@ -1,0 +1,688 @@
+{
+    "header": {
+        "todayIs": "Dnes je",
+        "namedayHas": "meniny má",
+        "blog": "Blog",
+        "aboutUs": "O nás",
+        "electoralProgram": "Volebný program",
+        "contact": "Kontakt",
+        "elections": "Voľby 2023",
+        "schoolUI": "AI v školstve",
+        "financeUI": "AI vo verejných financiách",
+        "healthcareUI": "AI v zrdravotníctve",
+        "sportUI": "AI v športe"
+    },
+    "footer": {
+        "stranaSpravodlivost": "Strana Spravodlivosť",
+        "allRights": "Všetky práva vyhradené.",
+        "privacy": "Ochrana osobných údajov",
+        "mandatory": "Povinne zverejňované informácie"
+    },
+    "home": {
+        "heading": "SPRAVODLIVOSŤ",
+        "findOutMore": "Zistiť viac",
+        "text": "Vitajte na stránke politickej strany Spravodlivosť - prvej politickej strany na Slovensku, ktorá využíva umelú inteligenciu na dosiahnutie pokroku a inovácií. Sme presvedčení, že pokrok nie je možné zastaviť, a preto chceme byť pripravení na novú éru. Umelá inteligencia môže byť silným nástrojom na zlepšenie našej spoločnosti pokiaľ budeme pripravení. Pridajte sa k Nám.",
+        "healthcare": {
+            "heading": "ZDRAVOTNÍCTVO",
+            "text": "AI môže významne prispieť k efektivite a presnosti diagnóz a liečby. Algoritmy strojového učenia môžu napríklad analyzovať obrovské množstvá medicínskych dát, identifikovať vzory, ktoré sú pre ľudské oko neviditeľné a predpovedať vývoj chorôb alebo reakciu na liečbu. AI môže tiež automatizovať administratívne úlohy, čím uvoľní čas lekárom na koncentráciu na pacienta."
+        },
+        "school": {
+            "heading": "ŠKOLSTVO",
+            "text": "AI vie výrazne pomôcť k personalizácii výučby. Inteligentné výučbové systémy môžu adaptovať obsah a tempo výučby na potreby a schopnosti každého študenta, identifikovať oblasti, kde študenti potrebujú zlepšiť svoje schopnosti a poskytnúť učiteľom spätnú väzbu o pokroku študentov."
+        },
+        "finance": {
+            "heading": "VEREJNÉ FINANCIE",
+            "text": "AI umožňuje presnejšie predpovedať príjmy a výdavky pre efektívnejšie rozpočtovanie. Podporuje transparentnosť detekciou podvodov a korupcie v transakciách. Napomáha optimalizovať výdavky a alokovať zdroje efektívnejšie. Uvoľňuje úradníkom čas automatizáciou administratívnych úloh. AI tak podporuje efektívnejšie riadenie verejných zdrojov a slúženie občanom."
+        },
+        "anyQuestions": "Máte otázky?",
+        "faqTitle": "Často kladené otázky",
+        "faq1": {
+            "heading": "Čo je strana Spravodlivosť?",
+            "text": "Strana Spravodlivosť je politická strana, ktorá sa zameriava na pokrok prostredníctvom informovaného rozhodovania, etického využívania umelej inteligencie, transparentnosti a objektivity vo verejnej komunikácii."
+        },
+        "faq2": {
+            "heading": "Čo chcete dosiahnúť?",
+            "text": "Chceme dosiahnuť zlepšenie zdravotníctva, školstva a verejných financií, prostredníctvom efektívnych reforiem a optimálnych investícií pre pokrok a lepšiu budúcnosť."
+        },
+        "faq3": {
+            "heading": "Aký je váš politický program?",
+            "text": "Náš politický program zahŕňa zlepšenia v zdravotníctve, školstve a verejných financiách. Dôraz kladie na transparentnosť, objektivitu a etické využitie umelej inteligencie na informované rozhodovanie pre prosperitu a spravodlivosť."
+        },
+        "faq4": {
+            "heading": "Čo je hlavným cieľom politickej strany 'Spravodlivosť'?",
+            "text": "Našim hlavným cieľom je vytvoriť transparentné a efektívne riadené Slovensko s využitím moderných technológií, konkrétne umelej inteligencie (AI), v oblastiach školstva, zdravotníctva, verejných financií a športu."
+        },
+        "faq5": {
+            "heading": "Prečo sa rozhodujete využívať umelú inteligenciu v rozhodovaní?",
+            "text": "Umelá inteligencia ponúka rýchlejšie, objektívnejšie a dátovo orientované rozhodovanie. Veríme, že jej využitie nám umožní optimalizovať využitie verejných zdrojov, znižovať plytvanie a podporovať inovácie."
+        },
+        "faq6": {
+            "heading": "Ako riešite skutočnosť, že umelá inteligencia sa rýchlo vyvíja a môže byť tým pádom ťažko kontrolovateľná?",
+            "text": "Je pravda, že vývoj v oblasti umelej inteligencie je mimoriadne dynamický. Ako strana sa snažíme byť vždy o krok vpred, aby sme vedeli, ako najlepšie využívať nové technologické možnosti, zároveň však zabezpečovať, že sú v súlade s etickými zásadami a štandardmi. Veľmi si ceníme spoluprácu s expertmi z oblasti AI a vždy radi privítame viac odborníkov, ktorí by chceli s nami spolupracovať na tejto výzve."
+        },
+        "faq7": {
+            "heading": "Aké sú hlavné výhody využitia umelej inteligencie v oblasti školstva?",
+            "text": "AI môže pomôcť v personalizácii vzdelávania, identifikácii potrieb študentov, optimalizácii učebných plánov a zlepšení efektívnosti výučby."
+        },
+        "faq8": {
+            "heading": "Ako môže umelá inteligencia prispieť k zlepšeniu zdravotníctva?",
+            "text": "Umelá inteligencia môže podporiť diagnostiku chorôb, optimalizovať distribúciu zdravotnej starostlivosti, identifikovať potreby pacientov a zlepšovať výskum a vývoj v oblasti medicíny."
+        },
+        "faq9": {
+            "heading": "Ako plánujete inovovať oblasť športu s pomocou umelej inteligencie?",
+            "text": "Plánujeme využívať AI na analýzu výkonov športovcov, optimalizáciu tréningových plánov a zlepšenie organizácie športových podujatí pre občanov."
+        },
+        "faq10": {
+            "heading": "Ako môže umelá inteligencia pomôcť v správe verejných financií?",
+            "text": "AI môže identifikovať plytvanie prostriedkami, optimalizovať rozpočtové výdavky, predpovedať finančné trendy a zlepšiť kontrolu nad verejnými zdrojmi."
+        },
+        "faq11": {
+            "heading": "Ako môžem prispieť alebo sa zapojiť do činnosti strany Spravodlivosť?",
+            "text": "Radi privítame každého, kto sa chce zapojiť a prispieť k našej misii. Môžete nás kontaktovať prostredníctvom našej webovej stránky alebo sociálnych médií a dozvedieť sa viac o aktuálnych možnostiach spolupráce."
+        },
+        "faq12": {
+            "heading": "Máte v pláne spolupracovať s medzinárodnými odborníkmi na AI?",
+            "text": "Určite áno. Uvedomujeme si, že umelá inteligencia je globálne pole a radi by sme využili najnovšie poznatky a skúsenosti medzinárodných expertov. Ak ste odborníkom v oblasti AI alebo poznáte niekoho, kto by bol zaujímavý pre našu spoluprácu, neváhajte nás kontaktovať."
+        },
+        "services": {
+            "heading": "Verejný sektor a AI"
+        },
+        "AI": {
+            "heading1": "Prečo by sa ľudia nemali báť AI.",
+            "heading2": "Čo je to AI?",
+            "heading3": "Ako môže AI pomôcť",
+            "text1": "Ludia by sa nemali báť AI, pretože je to nástroj, ktorý môže priniesť pozitívny vplyv na spoločnosť. AI môže zlepšiť efektivitu, inovácie a riešenie komplexných problémov. Dôležité je však zabezpečiť etické a zodpovedné využitie tejto technológie.",
+            "text2": "Umelá inteligencia (AI) je technologický koncept, kde stroje a systémy simulujú ľudskú inteligenciu, ako je učenie, rozhodovanie a riešenie problémov. Tieto systémy sa opierajú o algoritmy a dáta na vykonávanie úloh, ktoré by si vyžadovali ľudskú inteligenciu. AI má široký dosah od autonómnych vozidiel po hlasových asistentov a medicínske diagnózy.",
+            "text3": "AI môže pomôcť v zlepšovaní presnosti diagnostiky v medicíne prostredníctvom analýzy obrovského množstva pacientskych údajov a identifikácie vzorov. V oblasti verejných financií môže AI analyzovať hospodárske údaje a predpovedať vývoj, čo pomáha pri tvorbe efektívnych fiškálnych politík. V školstve môže AI personalizovať učebné plány a poskytovať učiteľom nástroje na lepšie sledovanie a zlepšovanie výkonnosti študentov."
+        }
+    },
+    "about": {
+        "heading": "O nás",
+        "text": "Vitajte v rodine Spravodlivosť!",
+        "text2": "Naša strana bola založená s jasným cieľom - priniesť spravodlivosť, transparentnosť a inováciu do slovenskej politiky. Vážime si hodnoty demokracie, slobody a rovnosti, a veríme, že spoločným úsilím môžeme vytvoriť lepšiu budúcnosť pre každého obyvateľa Slovenska.",
+        "text3": "Naša vízia: Chceme Slovensko, kde:",
+        "text4": "Každý má rovnakú príležitosť dosiahnuť svoj potenciál bez ohľadu na pôvod, vzdelanie či sociálny status.",
+        "text5": "Verejné financie sú spravodlivo a efektívne rozdistribuované.",
+        "text6": "Vzdelávanie, šport, veda a výskum sú kľúčovými piliermi spoločnosti.",
+        "text7": "Technológia a umelá inteligencia sú využívané na zlepšenie života občanov a na dosiahnutie udržateľného rastu.",
+        "text8": "Naše hodnoty:",
+        "text9before": "Spravodlivosť",
+        "text9": ": Všetko, čo robíme, sa riadi etickými a spravodlivými princípmi.",
+        "text11before": "Transparentnosť",
+        "text11": ": Veríme v otvorenosť a čestnosť vo všetkých našich činoch.",
+        "text12before": "Inovácia",
+        "text12": ": Nebojíme sa nových nápadov a vítame pokrok v prospech spoločnosti.",
+        "text13before": "Spolupráca",
+        "text13": ": Vážime si názory a podporu každého jednotlivca a spolupracujeme so všetkými vrstvami spoločnosti na dosiahnutie spoločných cieľov.",
+        "text14": "Pokrok sa neodlučiteľne spája s ľudskou históriou – od objavenia ohňa, cez začiatky poľnohospodárstva, vzniku písma až po digitálnu revolúciu. Odráža našu trvalú túžbu po poznávaní, inovácii a adaptácii.",
+        "text15": "AI nie je len technologickým nástrojom; je to odkaz našej schopnosti vytvoriť systémy, ktoré môžu myslieť, učiť sa a rásť spôsobmi, ktoré sme si predtým ani nedokázali predstaviť. AI nám môže pomôcť riešiť niektoré z najzložitejších problémov našej doby, od zmeny klímy po medicínske výzvy.",
+        "text16": "Naše cesty pokroku nám ukazujú, že s každou novou inováciou prichádzajú nové možnosti a perspektívy. Umelá inteligencia je nielen odrazom našich technologických úspechov, ale aj svedectvom o našej nekonečnej túžbe po rozšírených hraníc ľudského poznania a schopností. Pozývame vás, aby ste boli súčasťou tejto vzrušujúcej éry, keď spoločne objavujeme a tvarujeme budúcnosť vo svete, kde možnosti sú nekonečné."
+    },
+    "electoralProgram": {
+        "heading": "Volebný program",
+        "point1": {
+            "heading": "1. Verejné služby riadené umelou inteligenciou:",
+            "text": "Implementovať technológie AI na optimalizáciu poskytovania verejných služieb vrátane zdravotnej starostlivosti, vzdelávania, dopravy čím sa zabezpečí spravodlivý prístup a efektívne prideľovanie zdrojov."
+        },
+        "point2": {
+            "heading": "2. Rozhodovanie založené na údajoch: ",
+            "text": "Využívanie algoritmov AI a analýzy údajov na tvorbu politík založených na dôkazoch, čím sa zabezpečí, že rozhodnutia budú vychádzať z presných informácií a transparentných procesov."
+        },
+        "point3": {
+            "heading": "3. Prediktívna zdravotná starostlivosť: ",
+            "text": "Využívajte AI a prediktívne modelovanie na identifikáciu zdravotných rizík a trendov, čo umožní prijať proaktívne opatrenia na prevenciu prepuknutia chorôb, zlepšenie verejného zdravia a efektívne prideľovanie zdrojov zdravotnej starostlivosti."
+        },
+        "point4": {
+            "heading": "4. Inteligentné plánovanie infraštruktúry: ",
+            "text": "Využívanie systémov poháňaných umelou inteligenciou na plánovanie miest, riadenie dopravy a rozvoj infraštruktúry s cieľom zvýšiť efektívnosť, znížiť dopravné zápchy a podporiť udržateľné a zdravé životné prostredie."
+        },
+        "point5": {
+            "heading": "5. Monitorovanie a ochrana životného prostredia: ",
+            "text": "Zavádzanie systémov poháňaných umelou inteligenciou na monitorovanie a analýzu údajov o životnom prostredí, ktoré uľahčujú účinné opatrenia na boj proti znečisteniu, ochranu ekosystémov a podporu udržateľného rozvoja."
+        },
+        "point6": {
+            "heading": "6. Zapojenie občanov a spätná väzba: ",
+            "text": "Vyvíjať platformy poháňané umelou inteligenciou na zapojenie občanov, ktoré umožnia spätnú väzbu v reálnom čase, účasť na rozhodovacích procesoch a podporia inkluzívnu a citlivú vládu."
+        },
+        "point7": {
+            "heading": "7. Etické usmernenia pre umelú inteligenciu: ",
+            "text": "Zaviesť jasné usmernenia a predpisy pre etický vývoj a zavádzanie technológií umelej inteligencie, ktoré zabezpečia súkromie, bezpečnosť a ochranu pred algoritmickou zaujatosťou alebo diskrimináciou."
+        },
+        "point8": {
+            "heading": "8. Vzdelávanie a zvyšovanie kvalifikácie: ",
+            "text": "Podporujte gramotnosť v oblasti AI a poskytnite vzdelávacie programy, aby občania a štátni zamestnanci získali potrebné zručnosti na pochopenie a efektívne zapojenie systémov založených na AI."
+        },
+        "point9": {
+            "heading": "9. Digitálna inklúzia: ",
+            "text": "Preklenúť digitálnu priepasť zabezpečením prístupu k technológiám AI a digitálnej infraštruktúre pre všetkých občanov bez ohľadu na ich sociálno-ekonomický status a poskytovaním podpory marginalizovaným komunitám."
+        },
+        "point10": {
+            "heading": "10. Partnerstvá založené na spolupráci: ",
+            "text": "Podporovať spoluprácu medzi vládou, akademickou obcou a priemyslom s cieľom podporiť inovácie, výskum a vývoj v oblasti aplikácií AI pre správu vecí verejných a zároveň zabezpečiť zodpovedné a inkluzívne postupy."
+        },
+        "point11": {
+            "heading": "11. Optimalizácia financovania športu pomocou AI: ",
+            "text": "Jedným z kľúčových výziev športového sektora na Slovensku je efektívne a transparentné rozdelenie financií medzi rôznymi športovými disciplínami, klubmi a jednotlivými športovcami. Vytvoríme model, ktorý bude schopný analyzovať výkony športovcov, potreby jednotlivých disciplín, aktuálne trendy a potenciál rastu.Tento model bude tiež schopný hodnotiť efektívnosť doterajších investícií do športu, identifikovať oblasti, ktoré potrebujú viac financií, a odporučiť, ako najlepšie alokovať prostriedky."
+        },
+        "paragraph": "* Je dôležité poznamenať, že zavádzanie AI do správy vecí verejných by mali sprevádzať robustné právne rámce, silné mechanizmy riadenia a priebežné monitorovanie a hodnotenie s cieľom riešiť potenciálne riziká a zabezpečiť, aby sa technológia používala eticky, transparentne a v najlepšom záujme všetkých občanov."
+    },
+    "educationUI": {
+        "title": "Umelá inteligencia v Slovenskom školstve",
+        "heading1": "Úvod",
+        "text1": "V našej strane, Spravodlivosť, sme presvedčení, že umelá inteligencia (AI) má obrovský potenciál transformovať školstvo na Slovensku. Vo svete 21. storočia, kde technológia rýchlo napreduje, môže školstvo týmto spôsobom dosiahnuť vyššiu úroveň efektívnosti a inovácií. Zdôrazňujeme etické využívanie AI a jasne definovali riziká aj príležitosti tejto novej technológie.",
+        "heading2": "Súčasný stav školstva na Slovensku",
+        "text2": "Podľa medzinárodných hodnotení je kvalita slovenského školstva stredná až nižšia:",
+        "text3": "PISA 2022: 43. miesto zo 79 krajín.",
+        "text4": "TIMSS 2019: 46. miesto zo 64 krajín.",
+        "text5": "PIRLS 2016: 44. miesto zo 50 krajín.",
+        "text6": "Dôvody Pre Reformu Vzdelávania:",
+        "text7": "Praktické možnosti využitia AI v školstve:",
+        "text8": {
+            "bold": "Personalizované vzdelávanie:",
+            "bulletText": "AI môže analyzovať štýl učenia a potreby každého študenta, aby mu poskytla prispôsobené vzdelávacie zdroje a príklady."
+        },
+        "text9": {
+            "bold": "Automatizované hodnotenie:",
+            "bulletText": "Rýchle a objektívne hodnotenie študentských prác a testov pomocou algoritmov AI."
+        },
+        "text10": {
+            "bold": "Virtuálne laboratóriá a simulácie:",
+            "bulletText": "Študenti môžu vykonávať experimenty a modelovať situácie v digitálnom prostredí."
+        },
+        "text11": {
+            "bold": "Asistenti na podporu učiteľov:",
+            "bulletText": "Digitálni asistenti môžu pomáhať učiteľom pri príprave lekcií alebo riešení administratívnych úloh."
+        },
+        "text12": {
+            "bold": "Predikcia študentského úspechu:",
+            "bulletText": "AI môže predikovať študentské výsledky a identifikovať študentov, ktorí by mohli potrebovať dodatočnú pomoc."
+        },
+        "heading3": "Navrhované riešenia:",
+        "text13": {
+            "bold": "Etická regulácia:",
+            "bulletText": "Zabezpečiť transparentnosť a zodpovednosť pri využívaní AI. Vytvorenie etických usmernení pre školy a vývojárov programov."
+        },
+        "text14": {
+            "bold": "Odborná príprava učiteľov:",
+            "bulletText": "Organizovať školenia pre učiteľov v oblasti technológií a ich využitia v edukačnom procese."
+        },
+        "text15": {
+            "bold": "Zabezpečenie dát:",
+            "bulletText": "Vytvorenie štandardov pre ochranu študentských údajov a ich bezpečné skladovanie."
+        },
+        "text16": {
+            "bold": "Integrácia do štátnych vzdelávacích plánov:",
+            "bulletText": "Zaintegrovať aplikácie založené na AI do učebných osnov a prispôsobiť ich potrebám slovenského vzdelávacieho systému."
+        },
+        "heading4": "Financovanie AI v Školstve:",
+        "text17": "Využitie umelej inteligencie v školstve môže byť nákladová investícia, ale na druhej strane prináša dlhodobé finančné výhody vzhľadom na úspory a efektívnosť. Tu sú naše návrhy na zabezpečenie finančných prostriedkov a potenciálnych úspor:",
+        "text18": {
+            "bold": "Redistribúcia rozpočtu:",
+            "bulletText": "Z revízie súčasného rozpočtu vzdelávania by sme mohli realokovať približne 5% zbytočných výdavkov na implementáciu technológií založených na AI. Toto by mohlo znamenať sumu približne 25 miliónov eur ročne."
+        },
+        "text19": {
+            "bold": "Úspory z automatizácie administratívy:",
+            "bulletText": "S využitím AI môžeme znížiť administratívne náklady o približne 15%. Pri súčasnom rozpočte administratívy vo výške 50 miliónov eur by to znamenalo úsporu 7,5 milióna eur ročne."
+        },
+        "text20": {
+            "bold": "Partnerstvo s technologickými firmami:",
+            "bulletText": "Iniciovať partnerstvá s technologickými spoločnosťami, ktoré by mohli ponúknuť sponzorstvo alebo technickú podporu výmenou za reklamný priestor alebo výskum. Očakávame príjmy vo výške približne 10 miliónov eur ročne."
+        },
+        "text21": {
+            "bold": "Dotácie z EÚ:",
+            "bulletText": "Vzhľadom na dôležitosť technológie a inovácií v vzdelávaní by sme mohli žiadať o dotácie z Európskej únie. Predpokladaná suma dotácií môže dosiahnuť až 15 miliónov eur v priebehu nasledujúcich 5 rokov."
+        },
+        "text22": {
+            "bold": "Úspory z digitálnej edukácie:",
+            "bulletText": "S digitálnymi učebnicami a materiálmi môžeme znížiť náklady na tlačené materiály o približne 20%. To by znamenalo úsporu približne 3 milióny eur ročne."
+        },
+        "text23": "Celkové očakávané financovanie a úspory:",
+        "text24": "Redistribúcia rozpočtu: +25 mil. eur",
+        "text25": "Úspory z administratívy: +7,5 mil. eur",
+        "text26": "Partnerstvá: +10 mil. eur",
+        "text27": "Dotácie z EÚ: +15 mil. eur (za 5 rokov)",
+        "text28": "Úspory na tlačených materiáloch: +3 mil. eur",
+        "text29": {
+            "bold": "Celkovo:",
+            "text": "Približne 60,5 milióna eur za prvý rok (s postupným nárastom z dotácií EÚ v nasledujúcich rokoch)."
+        },
+        "text30": "S týmito finančnými zdrojmi a úsporami veríme, že môžeme úspešne integrovať AI do nášho vzdelávacieho systému a priniesť moderné a efektívne riešenia pre všetkých študentov na Slovensku.",
+        "text31": "Riziká a príležitosti:",
+        "text32": {
+            "bold": "Riziká:",
+            "bulletText1": "Možné nesprávne využívanie študentských dát.",
+            "bulletText2": "Nadmerná závislosť na technológii na úkor ľudského faktora.",
+            "bulletText3": "Potenciálna strata pracovných miest v oblasti vzdelávania."
+        },
+        "text33": {
+            "bold": "Príležitosti:",
+            "bulletText1": "Modernizácia vzdelávacieho systému.",
+            "bulletText2": "Efektívnejšie využívanie zdrojov.",
+            "bulletText3": "Zlepšenie kvality vzdelávania a prispôsobenie sa individuálnym potrebám študentov."
+        },
+        "text34": "Veríme, že správnym využitím umelej inteligencie môžeme dosiahnuť vzdelávací systém, ktorý bude viac reagovať na potreby študentov a pripraví ich na výzvy 21. storočia. Naša strana Spravodlivosť sa zaväzuje pracovať transparentne a s dôrazom na etické princípy pri zavádzaní týchto technológií."
+    },
+    "healthUI": {
+        "title": "Umelá inteligencia v zdravotníctve",
+        "heading1": "Úvod",
+        "text1": "V strane Spravodlivosť veríme, že umelá inteligencia (AI) môže priniesť revolúciu v oblasti zdravotníctva. Naša vízia je zdravotný systém, ktorý je transparentnejší, efektívnejší a viac prispôsobeným potrebám občanov. Avšak s veľkým potenciálom prichádzajú aj výzvy a riziká. V tejto sekcii vám ponúkneme prehľad o tom, ako vidíme budúcnosť zdravotníctva so zapojením AI, aké sú možnosti, riziká a naše návrhy riešení.",
+        "heading2": "Praktické možnosti využitia AI v zdravotníctve:",
+        "text2": {
+            "bold": "Diagnostika a liečba",
+            "text": ": AI môže analyzovať klinické dáta pacientov rýchlejšie a presnejšie, čím pomáha lekárom v diagnostike a určovaní najlepšej liečby."
+        },
+        "text3": {
+            "bold": "Personalizovaná medicína",
+            "text": ": Na základe genetických informácií môže AI navrhovať liečby šité na mieru pre jednotlivého pacienta."
+        },
+        "text4": {
+            "bold": "Optimalizácia prevádzky nemocníc",
+            "text": ": Prostredníctvom AI môžeme lepšie riadiť zásoby, personál a vybavenie nemocníc, čím sa znižujú náklady a skracuje čakacia doba pre pacientov."
+        },
+        "text5": {
+            "bold": "Virtuálni zdravotni asistenti",
+            "text": ": Pacienti môžu mať prístup k virtuálnym asistentom, ktorí poskytnú rady ohľadom liečby, liekov alebo životného štýlu."
+        },
+        "text6": {
+            "bold": "Vysoká Presnosť Diagnostiky",
+            "text": ": AI môže identifikovať ochorenia s vyššou presnosťou ako ľudskí lekári, napr. rakovina prsníka s presnosťou 99%."
+        },
+        "text7": {
+            "bold": "Úspory Nákladov",
+            "text": ": Odhaduje sa, že AI môže do roku 2030 znížiť náklady na zdravotnú starostlivosť na Slovensku až o 1 miliardu eur ročne."
+        },
+        "text8": {
+            "bold": "Zníženie Administratívy",
+            "text": ": Automatizácia úloh môže znížiť administratívne zaťaženie lekárov až o 50%."
+        },
+        "heading3": "Riziká a výzvy:",
+        "text9": {
+            "bold": "Ochrana dát",
+            "text": ": Zabezpečenie citlivých zdravotných informácií je kľúčové. Musíme zabezpečiť, aby tieto dáta neboli zneužité alebo kompromitované."
+        },
+        "text10": {
+            "bold": "Závislosť od technológie",
+            "text": ": Nesmieme sa úplne spoľahnúť na UI na úkor ľudského úsudku a interakcie."
+        },
+        "text11": {
+            "bold": "Etické dilemy",
+            "text": ": AI môže prinášať otázky týkajúce sa morálky a etiky, napríklad v oblasti genetického inžinierstva."
+        },
+        "heading4": "Naše návrhy riešení:",
+        "text12": {
+            "bold": "Vytvorenie regulačného rámca",
+            "text": ": Budeme aktívne pracovať na vytvorení legislatívy, ktorá zabezpečí, aby využitie AI v zdravotníctve bolo bezpečné, transparentné a etické."
+        },
+        "text13": {
+            "bold": "Spolupráca s odborníkmi",
+            "text": ": Budeme spolupracovať s lekármi, vedcami a inými odborníkmi, aby sme zabezpečili, že technológia je v súlade s lekárskou praxou."
+        },
+        "text14": {
+            "bold": "Vzdelávanie a osveta",
+            "text": ": Informujeme verejnosť o výhodách a rizikách AI v zdravotníctve a podporujeme vzdelávanie zdravotníckeho personálu v oblasti nových technológií."
+        },
+        "heading5": "Financovanie a efektívne využitie prostriedkov:",
+        "text15": "Umelá inteligencia ponúka nielen klinické výhody, ale aj možnosti pre zlepšenie finančnej efektívnosti v zdravotníctve. Nižšie uvádzame, ako plánujeme financovať vývoj a implementáciu AI riešení a kde vidíme príležitosti na úsporu.",
+        "text16": {
+            "heading": "Zdroje financovania:",
+            "bold1": "Z EU fondov",
+            "text1": ": Na základe našich prieskumov existuje niekoľko európskych grantov zameraných na inovácie v zdravotníctve, z ktorých by sme mohli získať až 15 miliónov EUR.",
+            "bold2": "Partnerstvo súkromného sektora",
+            "text2": ": Prostredníctvom partnerstiev s technologickými firmami a vývojovými laboratóriami by sme mohli získavať spolufinancovanie projektov. Očakávame sumu približne 10 miliónov EUR za nasledujúce tri roky.",
+            "bold3": "Národné granty na výskum a vývoj",
+            "text3": ": Z týchto zdrojov odhadujeme získať 5 miliónov EUR."
+        },
+        "text17": {
+            "heading": "Očakávané úspory a efektívnosť:",
+            "bold1": "Optimalizácia prevádzky nemocníc",
+            "text1": ": S implementáciou AI v riadení nemocničných zdrojov predpokladáme úspory v hodnote 8 miliónov EUR za tri roky vďaka znižovaniu plytvania a efektívnejšiemu využívaniu zdrojov.",
+            "bold2": "Diagnostická efektivita",
+            "text2": ": S rýchlejšou a presnejšou diagnostikou môžeme skrátiť dobu hospitalizácie a znižovať náklady na nadbytočné testy, čo by mohlo viesť k úsporám približne 5 miliónov EUR ročne.",
+            "bold3": "Personalizovaná medicína",
+            "text3": ": Cielená liečba na základe genetických informácií môže znižovať potrebu drahých liekov a postupov. Odhadovaná úspora v tomto segmente je 4 milióny EUR ročne."
+        },
+        "text18": "Celkové očakávané úspory za tri roky by tak mohli dosiahnuť hodnotu približne 50 miliónov EUR. Tieto úspory by boli následne reinvestované späť do zdravotníckeho systému, do ďalšieho výskumu a inovácií a predovšetkým do zlepšenia starostlivosti o pacientov.",
+        "text19": "V strane Spravodlivosť sa zaväzujeme k transparentnému a zodpovednému využívaniu verejných prostriedkov. S pomocou umelého intelektu vidíme reálnu príležitosť pre Slovensko stať sa lídrom v inováciách v zdravotníctve, zatiaľ, čo efektívne spravujeme a využívame finančné zdroje v prospech všetkých občanov."
+    },
+    "financeUI": {
+        "title": "Umelá inteligencia vo verejných financiách",
+        "text1": "Vítajte v sekcii, kde sa venujeme revolučnej oblasti umelej inteligencie (AI) a jej potenciálu pri správe verejných financií. Strana Spravodlivosť presadzuje transparentnosť, efektívnosť a lepší život pre všetkých občanov. V tejto sekcii si môžete prečítať, ako nám v tom môže pomôcť AI.",
+        "heading1": "Praktické možnosti využitia AI:",
+        "text2": {
+            "bold": "Prediktívna analýza",
+            "text": ": AI môže predpovedať budúce výdavky a príjmy štátneho rozpočtu na základe histórie a aktuálnych trendov, čo nám umožní lepšie plánovanie a alokáciu zdrojov."
+        },
+        "text3": {
+            "bold": "Detekcia podvodov",
+            "text": ": AI môže skenovať a analyzovať tisíce transakcií za sekundu na detekciu nezvyčajných vzorov alebo podozrivých aktivít, čo pomáha chrániť verejné prostriedky."
+        },
+        "text4": {
+            "bold": "Optimalizácia rozpočtov",
+            "text": ": S pomocou algoritmov môžeme optimalizovať rozpočtové alokácie tak, aby zodpovedali potrebám občanov a zabezpečovali najväčšiu hodnotu za investované peniaze."
+        },
+        "text5": {
+            "bold": "Automatizovaná správa",
+            "text": ": Mnoho rutinných a časovo náročných úloh môže byť automatizovaných, čo znižuje náklady a zvyšuje efektívnosť."
+        },
+        "heading2": "Návrhy riešenia:",
+        "text6": {
+            "bold": "Transparentnosť a kontrola",
+            "text": ": Vytvoríme platformu, kde občania môžu v reálnom čase sledovať, ako sú verejné prostriedky využívané, a kde môžu dávať spätnú väzbu."
+        },
+        "text7": {
+            "bold": "Etické využitie AI",
+            "text": ": Zavádzame prísne etické smernice pre využívanie AI vo verejných financiách, aby sa chránili osobné údaje občanov a zabezpečovala férovosť."
+        },
+        "text8": {
+            "bold": "Vzdelávanie",
+            "text": ": Investujeme do školení a vzdelávacích programov pre úradníkov, aby rozumeli AI a vedeli ju efektívne využívať."
+        },
+        "text9": {
+            "bold": "Spolupráca s expertmi",
+            "text": ": Budeme spolupracovať s vedcami a expertmi na AI, aby sme zabezpečili, že naše riešenia sú na čele technologického pokroku."
+        },
+        "heading3": "Financovanie a efektívnosť prostredníctvom AI",
+        "text10": "Jedným z hlavných cieľov využívania umelej inteligencie vo verejných financiách je efektívnejšie využitie a alokácia zdrojov. Nižšie sa zameriavame na konkrétne oblasti, kde veríme, že vďaka UI môžeme dosiahnuť značné úspory alebo zvýšiť príjmy.",
+        "text11": "Možnosti úspor:",
+        "text12": {
+            "bold": "Automatizácia rutinných úloh",
+            "text": ": Znižovaním manuálnej práce môžeme ušetriť približne 15% z nákladov na administratíve, čo by mohlo predstavovať úsporu až 50 miliónov EUR ročne."
+        },
+        "text13": {
+            "bold": "Detekcia podvodov a nezákonných transakcií",
+            "text": ": Odhadujeme, že vďaka pokročilým algoritmom detekcie podvodov môžeme znížiť podvody až o 20%. To by nám umožnilo vrátiť do štátnej kasy až 100 miliónov EUR ročne."
+        },
+        "text14": {
+            "bold": "Optimalizácia verejných zákaziek",
+            "text": ": AI môže pomôcť identifikovať nadhodnotené zákazky a zefektívniť proces verejného obstarávania, čím by sa mohli ušetriť stovky miliónov EUR."
+        },
+        "text15": "Možnosti zvýšenia príjmov:",
+        "text16": {
+            "bold": "Prediktívna analýza daňových príjmov",
+            "text": ": Vďaka AI môžeme lepšie predpovedať daňové príjmy a prispôsobiť sa fluktuáciám v hospodárstve. Toto by mohlo zvýšiť efektivitu výberu daní a príspevok k príjmom o 5%, čo by mohlo predstavovať zvýšenie príjmov o 200 miliónov EUR ročne."
+        },
+        "text17": {
+            "bold": "Automatizované monitorovanie daňových neplatičov",
+            "text": ": AI môže pomôcť identifikovať firmy a jednotlivcov, ktorí sa vyhýbajú daňovým povinnostiam, čím by sme mohli získať ďalších 50 miliónov EUR ročne."
+        },
+        "text18": "Celkovo, vďaka výhodám a možnostiam, ktoré ponúka umelá inteligencia, odhadujeme, že môžeme dosiahnuť úspory a zvýšiť príjmy až o 400 miliónov EUR ročne. Tieto prostriedky by sa potom mohli reinvestovať do kľúčových oblastí, ako sú školstvo, zdravotníctvo a šport, pre lepší život všetkých občanov.",
+        "heading4": "Riziká a príležitosti:",
+        "text19": "Pri využívaní AI vo verejných financiách je dôležité rozpoznať riziká a príležitosti. Zatiaľ čo technológia ponúka ohromné príležitosti pre efektívnosť a transparentnosť, musíme byť ostražití voči možným zneužitím, zaujatosti v algoritmoch alebo nesprávnym interpretáciám dát. Naším cieľom je kombinovať silné stránky AI s etickými zásadami a aktívnym zapojením občanov, aby sme spoločne vytvorili silný a spravodlivý systém správy verejných financií.",
+        "text20": "Pripojte sa k nám v našom úsilí o transparentnejšie a efektívnejšie Slovensko pomocou umelej inteligencie."
+    },
+    "sportUI": {
+        "title": "Umelá inteligencia v športe",
+        "heading1": "Úvod",
+        "text1": "V Spravodlivosť strane veríme, že umelá inteligencia (AI) má obrovský potenciál na zlepšenie mnohých oblastí nášho spoločenského života. Keď hovoríme o športe, táto technológia nám môže pomôcť optimalizovať tréningové programy, analyzovať výkonnosť športovcov a vylepšiť zdravie a bezpečnosť účastníkov. Pri všetkom tomto sa riadime pevnými etickými zásadami a usilujeme sa o transparentnosť vo všetkých našich konaniach.",
+        "heading2": "Praktické možnosti využitia AI v športe:",
+        "text2": {
+            "bold": "Analýza Výkonnosti",
+            "text": ": S použitím AI je možné detailne analyzovať pohyb, techniku a výdrž športovcov. Pomocou týchto dát môžeme prispôsobiť tréningové plány, aby sme maximalizovali ich potenciál."
+        },
+        "text3": {
+            "bold": "Personalizované Tréningové Programy",
+            "text": ": AI môže analyzovať jedinečné fyzické vlastnosti a schopnosti každého športovca, čo umožňuje vytváranie individualizovaných tréningových programov."
+        },
+        "text4": {
+            "bold": "Zranenia a Prevencia",
+            "text": ": AI môže pomôcť predpovedať riziko zranenia prostredníctvom analýzy športovcových dát a tréningových rutín, čo umožňuje trénerom a lekárom prispôsobiť postupy a minimalizovať riziko zranení."
+        },
+        "text5": {
+            "bold": "Interaktívne Rozhodovanie",
+            "text": ": Použitie AI môže pomôcť rozhodcom pri presnejšom rozhodovaní v kontroverzných situáciách, napr. pri futbale, hokeji alebo tenise."
+        },
+        "heading3": "Návrhy Riešenia:",
+        "text6": {
+            "bold": "Transparentnosť v Používaní Dát",
+            "text": ": Budeme sa zaväzovať k tomu, že všetky údaje získané od športovcov budú spracúvané s maximálnym rešpektom k súkromiu a bezpečnosti."
+        },
+        "text7": {
+            "bold": "Vzdelávacie Programy",
+            "text": ": Zabezpečíme, že tréneri, športovci a všetci zainteresovaní budú mať prístup k vzdelávaniu o tom, ako UI funguje a ako ju môžu využiť vo svoj prospech."
+        },
+        "text8": {
+            "bold": "Etické Využitie AI",
+            "text": ": Pri vývoji a implementácii AI riešení budeme dôsledne dodržiavať etické normy a zásady."
+        },
+        "text9": {
+            "bold": "Spolupráca so spoločnosťou",
+            "text": ": Budeme aktívne počúvať názory športových komunít a odborníkov na umelej inteligencii, aby sme zaistili, že naše riešenia sú v súlade so skutočnými potrebami a záujmami."
+        },
+        "heading4": "Konkrétne riešenie financovania",
+        "text10": {
+            "bold": "Vytvorenie športového fondu založeného na AI",
+            "text": ": Fond by bol naplnený prostriedkami z verejných zdrojov, sponzorských zmlúv a ďalších príjmov. AI by následne analyzovalo, ktoré športy a športovci majú najväčší potenciál na medzinárodnú scénu a kde by sa investície vrátili vo forme úspechov a pozitívneho obrazu Slovenska. Týmto spôsobom by sme zabezpečili, že financie smerujú tam, kde majú najväčší dopad."
+        },
+        "text11": {
+            "bold": "Prenos časti z príjmov z hazardných hier",
+            "text": ": Zavedenie legislatívy, ktorá by presmerovala časť príjmov zo štátnych lotérií a iných hazardných hier priamo do športového fondu. V mnohých krajinách je tento model úspešne využívaný."
+        },
+        "text12": {
+            "bold": "Športová lotéria",
+            "text": ": Založenie špeciálnej športovej lotérie, z ktorej výnosy by išli priamo na podporu športu."
+        },
+        "text13": {
+            "bold": "Zvýšenie daní na alkohol a tabak",
+            "text": ": Malé zvýšenie spotrebnej dane na produkty, ktoré sú spojené s nezdravým životným štýlom, ako sú alkohol a tabakové výrobky. Tieto dodatočné príjmy by boli priamo vložené do rozpočtu na podporu športu a zdravého životného štýlu."
+        },
+        "text14": {
+            "bold": "Partnerstvo so súkromným sektorom",
+            "text": ": Aktivácia partnerstiev so súkromným sektorom prostredníctvom sponzorstva, reklamy a komerčných práv v súvislosti s veľkými športovými udalosťami."
+        },
+        "text15": {
+            "bold": "Eko poplatky",
+            "text": ": Z časti environmentálnych poplatkov, ktoré platia firmy za produkciu odpadu alebo za znečisťovanie, by mohla ísť suma na podporu športových aktivít, ktoré prispievajú k zdravšiemu životnému štýlu a tým aj k lepšiemu životnému prostrediu."
+        },
+        "text16": {
+            "bold": "Turistická daň",
+            "text": ": Z časti príjmov z turistickej dane by mohla ísť suma na podporu športových infraštruktúr, ktoré prilákajú viac turistov, napríklad cyklotrasy, turistické chodníky, športové zariadenia atď."
+        },
+        "heading5": "Záver",
+        "text17": "V Spravodlivosť strane vidíme nespočetné príležitosti, ktoré umelá inteligencia môže priniesť športovému sektoru. Zároveň sme si vedomí rizík a chceme pracovať transparentne a eticky, aby sme maximalizovali prínosy a minimalizovali možné nevýhody. Veríme, že správne vedeným využitím AI v športe môžeme prispieť k lepšiemu a zdravšiemu športovému prostrediu pre všetkých občanov Slovenska."
+    },
+    "contact": {
+        "heading": "Kontaktujte nás",
+        "street": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+        "text": "SPRAVODLIVOSŤ, politická strana registrovaná Ministerstvom vnútra SR v registri politických strán pod číslom OVVS 3 – 2011/029916, sídlo: Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovenská republika, IČO: 42 257 441, DIČ: 2820011898, bankové spojenie: Tatra banka, a.s., číslo účtu: SK68 1100 0000 0029 2086 6869, email: spravodlivost.politicka.strana@gmail.com"
+    },
+    "privacy": {
+        "heading": "OCHRANA OSOBNÝCH ÚDAJOV",
+        "whatFor": {
+            "heading": "Na čo slúžia tieto informácie?",
+            "text": "Tieto informácie o spracúvaní a ochrane Vašich osobných údajov vysvetľujú, kto sme, prečo a ako spracúvame osobné údaje, aké sú Vaše práva v prípade, ak ste osobou dotknutou týmto spracúvaním, a ako nás môžete v prípade potreby kontaktovať."
+        },
+        "whoAreWe": {
+            "heading": "Kto sme?",
+            "text": "Sme politická strana SPRAVODLIVOŤ, so sídlom Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovenská republika, IČO: 42 257 441, zapísaná v Registri politických strán vedenom Ministerstvom vnútra Slovenskej republiky pod č. OVVS 3 – 2011/029916 a sme tzv. prevádzkovateľom, ktorý je v súlade s príslušnou legislatívou oprávnený spracúvať Vaše osobné údaje, a to v súvislosti s činnosťou politickej strany, teda zároveň spracúvame Vaše osobné údaje. Vaše osobné údaje spracúvame v súlade s príslušnými právnymi predpismi, najmä v súlade so zákonom č. 18/2018 Z. z. o ochrane osobných údajov, a týmito informáciami. Naše kontaktné údaje sú:",
+            "text2": "SPRAVODLIVOSŤ Politická strana registrovaná Ministerstvom vnútra SR v registri politických strán pod číslom OVVS 3 – 2011/029916",
+            "text3": "Sídlo: Tomášikova 3/A, 821 01 Bratislava-Ružinov, Slovenská republika",
+            "text4": "IČO: 42 257 441",
+            "text5": "DIČ: 2820011898",
+            "text6": "Bankové spojenie: Tatra banka, a.s.",
+            "text7": "Číslo účtu: SK68 1100 0000 0029 2086 6869",
+            "text8": "Email: spravodlivost.politicka.strana@gmail.com"
+        },
+        "when": {
+            "heading": "Kedy spracúvame vaše osobné údaje?",
+            "text": "Vaše osobné údaje môžeme spracúvať v nasledovných prípadoch:",
+            "list": {
+                "item1": "Zaregistrovali ste sa na našich webových stránkach.",
+                "item2": "Prihlásili ste sa na odber našich noviniek vo forme newslettra.",
+                "item3": "Zúčastnili ste sa našich udalostí.",
+                "item4": "Podpísali ste naše petície či hárky na vznik hnutia.",
+                "item5": "Stali ste alebo máte záujem stať sa naším členom/členkou, dobrovoľníkom/dobrovoľníčkou alebo darcom/darkyňou.",
+                "item6": "Komentujete, „lajkujete“ alebo máte iné interakcie s našim obsahom na našich webových stránkach alebo profiloch zriadených na sociálnych sieťach, a to aj vrátane osobných profilov našich volebných lídrov a líderiek."
+            },
+            "text2": "Vo všetkých z týchto prípadov sme Vaše osobné údaje mohli získať priamo od Vás, napríklad cez našu webovú stránku, cez naše účty na sociálnych sieťach, pri osobnom vyplnení dotazníka alebo pri inej príležitosti."
+        },
+        "whatKind": {
+            "heading": "Ako osobné údaje spracúvame?",
+            "text": "Osobné údaje, ktoré spracúvame, zahŕňajú predovšetkým:",
+            "list": {
+                "item1": "Vaše meno a priezvisko;",
+                "item2": "Váš dátum narodenia a Vaša štátna príslušnosť, v prípade ak ste sa stali alebo máte záujem stať sa naším členom;",
+                "item3": "Vaše kontaktné údaje, medzi ktoré patrí adresa Vášho trvalého bydliska, telefónne číslo, e-mailová adresa, účet na sociálnych sieťach a ďalšie osobné či pracovné kontaktné údaje.",
+                "item4": "Údaje týkajúce sa prejavov sympatií, komentárov, či iných interakcií s obsahom na našich profiloch zriadených na sociálnych sieťach (tzv. fanpages) alebo na našich webstránkach."
+            },
+            "heading2": "Informácie, ktoré získavame z našej vzájomnej komunikácie",
+            "text2": "Okrem osobných údajov môžeme získavať a následne spracúvať ďalšie údaje a informácie, ktoré nám oznámite alebo ktoré vyplývajú z našej vzájomnej komunikácie cez telefón, e-mail, našu webovú stránku, sociálne siete alebo iné prostriedky."
+        },
+        "information": {
+            "heading": "Informácie, ktoré získavame z používania cookies.",
+            "text1": "Na našej webovej stránke sú používané tzv. cookies. Cookies sú malé textové súbory, ktoré sú uložené vo Vašom počítači a môžu byť ukladané Vaším internetovým prehliadačom na účely identifikácie Vášho zariadenia a technického zlepšenia či prispôsobenia fungovania našej stránky, ako aj na získanie štatistických a analytických údajov. Cookies používané na našej webovej stránke nám neumožňujú konkrétnu identifikáciu užívateľa stránky, pričom údaje získané z cookies sú spravidla zhromažďované v agregovanej forme.",
+            "text2": "Akceptácia cookies nie je nevyhnutnou požiadavkou pre umožnenie návštevy našej webovej stránky. Väčšina internetových prehliadačov automaticky akceptuje cookies, no v nastaveniach Vášho prehliadača môžete tieto nastavenia ľubovoľne upraviť. V prípade, ak sa rozhodnete cookies neakceptovať, je možné, že niektoré funkcie našej stránky nebudú správne fungovať.",
+            "text3": "Najčastejšie nami používané cookies sú dočasné cookies (tzv. session cookies), ktoré budú vymazané po ukončení relácie prehliadača. Okrem toho existujú aj dlhodobé cookies (tzv. persistant cookies), pomocou ktorých môžeme rozpoznať Vaše zariadenie, z ktorého ste v minulosti navštívili našu stránku. Cookies nespôsobujú žiadne škody na Vašom zariadení a neobsahujú vírusy alebo škodlivé kódy.",
+            "text4": "Naša webová stránka používa výlučne cookies tretích strán, ktoré nám poskytujú služby, a o ktorých môžete nájsť bližšie informácie na nasledovných stránkach:",
+            "list": {
+                "item1": "Google Analytics;",
+                "item2": "Facebook;",
+                "item3": "eTarget;",
+                "item4": "Nation Builder;",
+                "item5": "Quorum."
+            }
+        },
+        "informationSocialMedia": {
+            "heading": "Informácie, ktoré získavame z interakcii na sociálnych sieťach",
+            "text1": "pri marketingových aktivitách spracúvane len bežné kategórie  osobných údajov špecifikované vyššie. žiadne osobitné kategórie  osobných údajov na tieto účely nespracúvame. údaje o potenciálnych  sympatiách, prejavenom záujme a interakciách s digitálnym obsahom  o našej politickej strane spravodlivosť nepovažujeme za vaše  politické názory, či politické presvedčenie nakoľko veríme, že nás  v online priestore sledujú aj naši ne-sympatizanti a politickí  súperi. osobné profily našich politických lídrov prípadne našich  kandidátov považujeme za súčasť spracúvania, ktoré vykonáva  spravodlivosť.",
+            "heading2": "Ako spracúvame Vaše osobné údaje?",
+            "text2": "Vaše osobné údaje spracúvame za účelom:",
+            "list": {
+                "item1": "poskytovania informácií o našej činnosti, a to vrátane  zasielania e-mailov, sms správ či telefonických hovorov o našich  novinkách a/alebo za účelom odpovedania na otázky, ktoré ste nám  priamo zaslali;",
+                "item2": "správy a organizácie našich vzťahov s členmi/členkami,  podporovateľmi/podporovateľkami, dobrovoľníkmi/dobrovoľníčkami,  alebo osobami, ktoré majú záujem o našu činnosť; a",
+                "item3": "správy našej webovej stránky a našich účtov na sociálnych  sieťach, s cieľom zobraziť obsah stránky a účtov čo  najefektívnejšie, na základe testovaní a analýzy dát."
+            },
+            "heading3": "Komu sprístupňujeme Vaše osobné údaje?",
+            "text3": "vaše osobné údaje môžeme zverejniť alebo sprístupniť na základe  rozhodnutia súdu resp. iných štátnych orgánov oprávnených  požadovať ich zverejnenie a/alebo sprístupnenie a na základe resp.  v súlade s povinnosťou uloženou príslušnými právnymi predpismi.",
+            "heading4": "Aký je právny základ pre naše spracúvanie Vašich osobných údajov?",
+            "text4": "vaše osobné údaje spracúvame predovšetkým na základe súhlasu,  ktorý ste nám udelili pred začatím spracúvania. možnosti ako  odvolať súhlas so spracúvaním uvádzame nižšie v tomto dokumente.",
+            "text5": "Ak je to potrebné, Vaše osobné údaje môžeme ďalej spracúvať v prípade:",
+            "list2": {
+                "item1": "ak ste s nami uzatvorili alebo plánujete uzatvoriť zmluvu,  nevyhnutnosti plnenia zmluvy, alebo v súvislosti s predzmluvnými  rokovaniami pred uzavretím takejto zmluvy; alebo",
+                "item2": "nevyhnutnosti plnenia našich zákonných povinností."
+            }
+        },
+        "where": {
+            "heading": "Kde spracúvame Vaše osobné údaje?",
+            "text1": "vaše osobné údaje spracúvame najmä na území európskej únie, resp.  na území štátov, ktoré sú zmluvnou stranou dohody o európskom  hospodárskom priestore.",
+            "text2": "napriek tomu niektorí naši dodávatelia, a to predovšetkým osoby,  ktorých služby využívame na prevádzku našej webovej stránky, môžu  spracúvať rôzne dáta aj na území spojených štátov amerických  (usa), pričom medzi týmito dátami môžu byť spracúvané aj osobné  údaje.",
+            "text3": "prenos osobných údajov do usa je možné uskutočniť na základe  vykonávacieho rozhodnutia komisie (eú) 2016/1250 z 12. júla 2016 o  primeranosti ochrany poskytovanej štítom na ochranu osobných  údajov medzi eú a usa (tzv. eu-u.s. privacy shield).",
+            "heading2": "Ako dlho spracúvame Vaše osobné údaje?",
+            "text4": "vaše osobné údaje spracúvame len na dobu nevyhnutnú na dosiahnutie  účelu, pre ktorý boli vaše osobné údaje získané. osobné údaje,  ktoré spracúvame na základe vášho súhlasu môžeme spracúvať počas  celej doby trvania platnosti vášho súhlasu, ktorá je päť rokov od  jeho udelenia.",
+            "text5": "po uplynutí tejto doby budú vaše osobné údaje vymazané, s výnimkou  prípadov kedy je ich ďalšie spracúvanie potrebné za účelom  zabezpečenia súladu s našimi zákonnými povinnosťami alebo z iných  oprávnených dôvodov v súlade so všeobecne záväznými právnymi  predpismi.",
+            "heading3": "Aké sú Vaše práva?",
+            "text6": "V súvislosti so spracúvaním Vašich osobných údajov máte nasledovné práva:",
+            "list": {
+                "item1": "Máte právo požiadať nás o prístup k Vašim osobným údajom, ktoré spracúvame.",
+                "item2": "Máte právo požiadať nás o opravu nesprávnych osobných údajov, ktoré spracúvame.",
+                "item3": "Máte právo požiadať nás o vymazanie Vašich osobných údajov, ktoré spracúvame.",
+                "item4": "Máte právo odvolať súhlas so spracúvaním vašich osobných údajov;  po doručení odvolania nebudeme vaše osobné údaje ďalej  spracúvať. odvolanie vášho súhlasu nemá vplyv na zákonnosť  spracúvania, ktoré sme vykonávali pred jeho odvolaním.",
+                "item5": "Máte právo podať sťažnosť na nezákonné spracúvanie osobných  údajov. s vašou sťažnosťou sa môžete kedykoľvek obrátiť na nás,  alebo ju môžete podať na úrad na ochranu osobných údajov  slovenskej republiky."
+            }
+        },
+        "howTo": {
+            "heading": "Ako uplatniť Vaše práva v súvislosti so spracovaním osobných údajov?",
+            "text1": "Ktorékoľvek z vyššie uvedených práv môžete uplatniť zaslaním správy na náš e-mail spravodlivost.politicka.strana@gmail.com alebo na našu adresu:",
+            "text2": "SPRAVODLIVOSŤ",
+            "text3": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+            "text4": "Prosíme berte na vedomie, že pred tým, ako vám v tejto súvislosti  poskytneme akékoľvek informácie, sme za účelom overenia vašej  totožnosti oprávnení požiadať vás o doplnenie údajov a informácií.",
+            "heading2": "Úrad na ochranu osobných údajov Slovenskej republiky",
+            "text5": "Úrad na ochranu osobných údajov slovenskej republiky je orgánom  štátnej správy, ktorý vykonáva dozor nad ochranou osobných údajov  na území slovenskej republiky.",
+            "text6": "Úrad je oprávnený zaoberať sa vašimi sťažnosťami týkajúcimi sa  spracúvania vašich osobných údajov. zároveň vám úrad môže  poskytnúť ďalšie informácie o vašich právach a povinnostiach v  súvislosti s vašimi osobnými údajmi."
+        }
+    },
+    "category": {
+        "header": "",
+        "categoriesHeader": "Kategórie",
+        "readMoreHeader": "Prečítajte si ešte",
+        "searchPlaceholder": "Vyhľadávanie",
+        "notFound": "Neboli najdené žiadne články."
+    },
+    "404": {
+        "heading": "404 - Stránka nebola najdená",
+        "text": "Ľutujeme. Stránku sa nepodarilo nájsť.",
+        "readMoreHeading": "Prečítajte si ešte",
+        "noArticles": "Neboli najdené žiadne články."
+    },
+    "mandatory": {
+        "heading": "Povinne zverejňované informácie",
+        "text": "Povinne zverejňované informácie od 2.5.2023"
+    },
+    "mandatoryFrom": {
+        "heading": "Povinne zverejňované informácie od 2.5.2023",
+        "text": "Povinne zverejňované informácie do 1.5.2023"
+    },
+    "mandatoryTo": {
+        "heading1": "Povinne zverejňované informácie do 1.5.2023",
+        "text1": "Informácia zverejnená podľa § 22 ods. 5 zákona č. 85/2005 Z.z. o politických stranách a politických hnutiach v znení neskorších právnych predpisov:",
+        "text2": "Informácia zverejnená podľa § 22 ods. 5 zákona č. 85/2005 Z.z. o politických stranách a politických hnutiach v znení neskorších právnych predpisov:",
+        "text3": "1. politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916",
+        "text4": "neprijala v kalendárnom roku 2019",
+        "text5": "príspevky od žiadnych osôb, ktoré by prispeli na jej činnosť",
+        "text6": "členským príspevkom",
+        "text7": ", ktorých suma je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia;",
+        "text8": "politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916",
+        "text9": "neprijala v kalendárnom roku 2019",
+        "text10": "príspevky od žiadnych osôb, ktoré by prispeli na jej činnosť",
+        "text11": "nepeňažným darom",
+        "text12": ", ktorých suma je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia;",
+        "text13": "politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916",
+        "text14": "prijala v kalendárnom roku 2019",
+        "text15": "príspevky od nižšie uvedených osôb, ktoré prispeli na jej činnosť",
+        "text16": "peňažným darom",
+        "text17": "politická strana 99%-občiansky hlktorých suma je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia:as, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916",
+        "text18": "Ing. Pavel Weiss, Vysoká 7116/16, 811 06 Bratislava – Staré Mesto, výška peňažného daru: 5.000 eur",
+        "text19": "Ing. JUDr. Soňa Snopková, Anízova 20409/25, 821 04 Bratislava – Vrakuňa, výška peňažného daru: 3.000 eur",
+        "text20": "RNDr. Ferdinand Búci, Hrobákova 9, 851 02 Bratislava, výška peňažného daru: 3.000 eur",
+        "text21": "Ing. Martin Halás, Baltská 33, 821 07 Bratislava, výška peňažného daru: 3.000 eur",
+        "text22": "JUDr. Ester Tvrdoň Flóra, Bratislavská 53/31, 900 21 Svätý Jur, výška peňažného daru: 3.000 eur",
+        "text23": "Empire Services s.r.o., Trnavská 6/c, 821 08 Bratislava, IČO: 35 835 346, výška peňažného daru: 2.000 eur.",
+        "text24": "4. politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916 prijala v kalendárnom roku 2019 iné bezodplatné plnenie, ktorého hodnota je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia od Mgr. Ivana Weissa, Mikulášska 7015/25, 811 01 Bratislava vo výške 8.031 eur (hodnota bezodplatného plnenia) ako hodnotu obvyklého úroku pri bezúročnej pôžičke (predmet bezodplatného plnenia).",
+        "text25": "Informácia zverejnená: 18.3.2020",
+        "text26": "1. Informácia zverejnená podľa § 22 ods. 5 zákona č. 85/2005 Z.z. o politických stranách a politických hnutiach v znení neskorších právnych predpisov:",
+        "text27": "a.) politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916 neprijala v kalendárnom roku 2018 príspevky od žiadnych osôb, ktoré by prispeli na jej činnosť peňažným darom alebo členským príspevkom, ktorých suma je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia.",
+        "text28": "a.) politická strana 99%-občiansky hlas, b.) politická strana 99%-občiansky hlas, Klariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916 prijala v kalendárnom roku 2018 iné bezodplatné plnenie, ktorého hodnota je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatiaKlariská 330/1, 811 03 Bratislava, IČO: 42257441, zapísaná registri politických strán vedenom MV SR dňa 06.12.2011 pod č. OVVS 3 – 2011/029916 neprijala v kalendárnom roku 2018 príspevky od žiadnych osôb, ktoré by prispeli na jej činnosť peňažným darom alebo členským príspevkom, ktorých suma je vyššia ako dvojnásobok minimálnej mzdy zamestnanca odmeňovaného mesačnou mzdou platnej v čase ich prijatia.",
+        "text29": "od Mgr. Ivana Weissa, Mikulášska 7015/25, 811 01 Bratislava vo výške 8031 eur (hodnota bezodplatného plnenia) ako hodnotu obvyklého úroku pri bezúročnej pôžičke (predmet bezodplatného plnenia).",
+        "text30": "Informácia zverejnená: 29.3.2019",
+        "text31": "2. Správa o prostriedkoch použitých na predvolebnú kampaň",
+        "text32": "Správa o prostriedkoch použitých na predvolebnú kampaň – voľby do orgánov samosprávy obcí 2018",
+        "text33": "Správa o prostriedkoch vynaložený na volebnú kampaň politickou stranou pre voľby do orgánov samosprávy v roku 2022",
+        "docText": {
+            "text1": "3. Informácia o Zozname darcov na základe ustanovenia § 23 ods. 4 zákona NR SR č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov:",
+            "text2": "V I. štvrťroku 2016 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text3": "Informácia zverejnená: 30.4.2016",
+            "text4": "V II. štvrťroku 2016 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text5": "Informácia zverejnená: 30.7.2016",
+            "text6": "V III. štvrťroku 2016 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text7": "Informácia zverejnená: 30.10.2016",
+            "text8": "V IV. štvrťroku 2016 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text9": "Informácia zverejnená: 26.1.2017",
+            "text10": "V I. štvrťroku 2017 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text11": "Informácia zverejnená: 28.4.2017",
+            "text12": "V II. štvrťroku 2017 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text13": "Informácia zverejnená: 27.7.2017",
+            "text14": "V III. štvrťroku 2017 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text15": "Informácia zverejnená: 26.10.2017",
+            "text16": "V IV. štvrťroku 2017 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text17": "Informácia zverejnená: 26.01.2018",
+            "text18": "V I. štvrťroku 2018 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text19": "Informácia zverejnená: 25.04.2018",
+            "text20": "V II. štvrťroku 2018 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text21": "Informácia zverejnená: 25.07.2018",
+            "text22": "V III. štvrťroku 2018 politická strana 99% – občiansky hlas neprijala dar a ani neúčtovala o prijatom dare.",
+            "text23": "Informácia zverejnená: 29.10.2018",
+            "text24": "Posledná aktualizácia zoznamu darcov: 29.10.2018"
+        }
+    },
+    "articles": {
+        "readMoreHeading": "Prečítajte si ešte"
+    },
+    "article": {
+        "readMoreHeading": "Prečítajte si ešte",
+        "readMoreHeadingBtn": "Prečítaj viac",
+        "addedBy": "Pridal",
+        "onDay": "dňa",
+        "resource": "Zdroj",
+        "fixedBy": "Upravené",
+        "home": "Domov"
+    }
+}

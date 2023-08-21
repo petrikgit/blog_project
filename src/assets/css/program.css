@@ -1,0 +1,25 @@
+/* #header-main-id-program{
+    color: #252525 !important;
+} */
+
+@media (max-width: 767px) {
+    #text-id-1{
+        text-align: left !important;
+    }
+    #text-id-2{
+        text-align: left !important;
+    }
+    #text-id-3{
+        text-align: left !important;
+    }
+    #text-id-4{
+        text-align: left !important;
+    }
+    #text-id-5{
+        text-align: left !important;
+    }
+}
+
+p{
+    font-size: 19px !important;
+}

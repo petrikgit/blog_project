@@ -1,0 +1,73 @@
+
+@font-face {
+    font-family: 'Titillium Web', sans-serif;
+  }
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+#home .col-md-4 {
+    min-height: 80vh;
+}
+
+#page-container {
+    display: flex;
+    flex-direction: column;
+  
+    background-color: #0c141b;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.custom-select:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    
+}
+
+.custom-select{
+    background: #37b9cc !important;
+}
+
+.action-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+#program-logo-transparent-id{
+    width: 350px;
+    height: 350px;
+}
+
+.container{
+    max-width: 1200px !important;
+}
+
+.not-found-page-text-id:hover{
+    opacity: 0.4;
+}
+
+.list-items-hover:hover{
+    opacity: 0.4;
+}
+
+#search-button{
+    background-color: rgb(182, 182, 182) !important;
+    border-color: rgb(182, 182, 182) !important;
+}
+
+.pagination-li-button{
+    background-color: rgb(182, 182, 182) !important;
+    border-color: rgb(182, 182, 182) !important;
+}
+
+.page-link.pagination-li-button-non-active{
+    background-color: white !important;
+    border-color: white !important;
+    color: rgb(182, 182, 182) !important;
+}

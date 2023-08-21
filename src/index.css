@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+html body {
+  padding: 0;
+  margin: 0;
+  overflow-x: inherit;
+  background-color: rgb(253, 253, 253) !important;
+}
+
+p, a{
+  color: rgb(173 173 173) !important;
+}
+
+h1, h2,h3, h4, h5{
+  color: rgb(211 211 211) !important;
+}
+
+li a{
+  color: rgb(211 211 211) !important;
+  /* color: rgb(173 173 173) !important; */
+}
+
+span{
+  color: rgb(211 211 211) !important;
+}

@@ -1,0 +1,689 @@
+{
+    "header": {
+        "todayIs": "Ma van",
+        "namedayHas": "névnapja van",
+        "blog": "Blog",
+        "aboutUs": "Rólunk",
+        "electoralProgram": "Választási program",
+        "contact": "Kapcsolat",
+        "elections": "Választások 2023",
+        "schoolUI": "Mesterséges intelligencia az oktatásban",
+        "financeUI": "Mesterséges intelligencia a közpénzügyekben",
+        "healthcareUI": "Mesterséges intelligencia az egészségügyben",
+        "sportUI": "Mesterséges intelligencia a sportban"
+    },
+    "footer": {
+        "stranaSpravodlivost": "Politikai párt Spravodlivosť",
+        "allRights": "Minden jog fenntartva.",
+        "privacy": "Adatvédelem",
+        "mandatory": "Kötelező információk nyilvánosságra hozatala"
+    },
+    "home": {
+        "heading": "IGAZSÁG",
+        "findOutMore": "Tudj meg többet",
+        "text": "Üdvözöljük a Justice politikai párt honlapján - az első politikai párt Szlovákiában, amely mesterséges intelligenciát használ a fejlődés és az innováció eléréséhez. Meg vagyunk győződve arról, hogy a fejlődést nem lehet megállítani, ezért szeretnénk felkészülni az új korszakra. A mesterséges intelligencia erőteljes eszköze lehet társadalmunk javításának, ha készen állunk rá. Csatlakozzon hozzánk.",
+        "healthcare": {
+            "heading": "EGÉSZSÉGÜGY",
+            "text": "Az mesterséges intelligencia jelentősen hozzájárulhat a diagnózisok és kezelések hatékonyságához és pontosságához. A gépi tanulás algoritmusok például képesek elemzőni hatalmas mennyiségű orvosi adatot, az emberi szem számára láthatatlan mintázatokat azonosítani és betegségek fejlődését vagy a kezelés reakcióját előre jelezni. Az AI képes automatizálni az adminisztratív feladatokat, így a orvosok több időt szentelhetnek a betegekkel való foglalkozásra."
+        },
+        "school": {
+            "heading": "OKTATÁS",
+            "text": "Az mesterséges intelligencia jelentősen hozzájárulhat az oktatás személyre szabásához. Az intelligens oktatási rendszerek képesek az egyes diákok igényeihez és képességeihez igazítani az oktatás tartalmát és tempóját, azonosítani azokat a területeket, ahol a diákoknak javítaniuk kell a képességeiket, és visszajelzést nyújtani a tanároknak a diákok fejlődéséről."
+        },
+        "finance": {
+            "heading": "KÖZFINANSZÍROZÁS",
+            "text": "Az mesterséges intelligencia lehetővé teszi a bevételek és kiadások pontosabb előrejelzését a hatékonyabb költségvetés kialakításához. Támogatja a transzparenciát a csalások és a korrupció felderítésével a tranzakciókban. Segít optimalizálni a kiadásokat és hatékonyabban allokálni az erőforrásokat. Az adminisztratív feladatok automatizálása időt szabadít fel a tisztviselők számára. Az AI így támogatja a közforrások hatékonyabb kezelését és az állampolgárok szolgálását."
+        },
+        "anyQuestions": "Van bármilyen kérdése?",
+        "faqTitle": "Gyakran Ismételt Kérdések",
+        "faq1": {
+            "heading": "Mi az Igazságosság Pártja?",
+            "text": "Az Igazságosság Pártja egy politikai párt, amely a fejlődést a tájékozott döntéshozatal, az etikus mesterséges intelligencia használat, a transzparencia és az objektivitás révén valósítja meg a nyilvános kommunikációban."
+        },
+        "faq2": {
+            "heading": "Mit szeretnének elérni?",
+            "text": "Célunk az egészségügy, az oktatás és a közpénzek javítása hatékony reformok és optimális beruházások által a fejlődés és a jobb jövő érdekében."
+        },
+        "faq3": {
+            "heading": "Mi a politikai programjuk?",
+            "text": "Politikai programunk magában foglalja az egészségügy, az oktatás és a közpénzek terén történő javításokat. A hangsúly a tátranszparencián, az objektivitáson és az etikus mesterséges intelligencia használatán van a tájékozott döntéshozatalhoz, a jóléthez és az igazságossághoz."
+        },
+        "faq4": {
+            "heading": "Mi a 'Justice' politikai párt fő célja?",
+            "text": "Fő célunk egy átlátható és hatékonyan kormányzott Szlovákia létrehozása a modern technológiák, konkrétabban az mesterséges intelligencia (MI) felhasználásával az oktatás, az egészségügy, a közpénzek és a sport területein."
+        },
+        "faq5": {
+            "heading": "Miért választjátok az mesterséges intelligencia használatát a döntéshozatalban?",
+            "text": "Az mesterséges intelligencia gyorsabb, objektívabb és adatalapú döntéshozatalt kínál. Azt valljuk, hogy használata lehetővé fogja tenni számunkra a közösségi erőforrások optimalizálását, a pazarlás csökkentését és az innováció ösztönzését."
+        },
+        "faq6": {
+            "heading": "Hogyan kezelitek azt a tényt, hogy az mesterséges intelligencia gyorsan fejlődik és így nehezen ellenőrizhető lehet?",
+            "text": "Való igaz, hogy az mesterséges intelligencia fejlődése rendkívül dinamikus. Mint párt, mindig törekszünk arra, hogy lépéselőnyben legyünk, hogy a legjobban kihasználhassuk az új technológiai lehetőségeket, miközben biztosítjuk, hogy azok összhangban legyenek az etikai elvekkel és szabványokkal. Nagyra értékeljük az együttműködést az MI szakértőkkel, és mindig nyitottak vagyunk arra, hogy további szakembereket is üdvözöljünk, akik szívesen együttműködnének velünk ezen a kihíváson."
+        },
+        "faq7": {
+            "heading": "Milyen fő előnyei vannak az mesterséges intelligencia használatának az oktatás területén?",
+            "text": "Az MI hozzájárulhat az oktatás személyre szabásához, a diákok igényeinek azonosításához, a tantervek optimalizálásához és a tanítás hatékonyságának növeléséhez."
+        },
+        "faq8": {
+            "heading": "Hogyan járulhat hozzá az mesterséges intelligencia az egészségügy javításához?",
+            "text": "Az mesterséges intelligencia támogathatja a betegségdiagnózist, optimalizálhatja az egészségügyi ellátás terjesztését, azonosíthatja a páciensek igényeit, és elősegítheti a gyógyászat terén a kutatást és fejlesztést."
+        },
+        "faq9": {
+            "heading": "Hogyan tervezitek megújítani a sport területét az mesterséges intelligencia segítségével?",
+            "text": "Az terveink közé tartozik az MI felhasználása a sportolók teljesítményének elemzéséhez, a képzési tervek optimalizálásához és a sportesemények szervezésének javításához a polgárok számára."
+        },
+        "faq10": {
+            "heading": "Hogyan segíthet az mesterséges intelligencia a közpénzügyek kezelésének javításában?",
+            "text": "Az MI azonosíthatja a pazarló költéseket, optimalizálhatja a költségvetési kiadásokat, megjósolhatja a pénzügyi trendeket és fokozhatja a közösségi erőforrások feletti ellenőrzést."
+        },
+        "faq11": {
+            "heading": "Hogyan tehetek hozzá vagy lehetek részese a Justice párt tevékenységeinek?",
+            "text": "Üdvözöljük mindazokat, akik szeretnének részt venni és hozzájárulni a küldetésünkhöz. Kapcsolatba léphetsz velünk weboldalunkon vagy közösségi média felületeinken keresztül, hogy többet megtudj a jelenlegi együttműködési lehetőségekről."
+        },
+        "faq12": {
+            "heading": "Terveztek együttműködni nemzetközi MI szakértőkkel?",
+            "text": "Abszolút. Felismerjük, hogy az mesterséges intelligencia egy globális terület, és szeretnénk kihasználni a legfrissebb ismereteket és tapasztalatokat a nemzetközi szakértőktől. Ha szakértő vagy az MI területén, vagy ismersz valakit, aki érdekes lehet az együttműködésünkhöz, ne habozz kapcsolatba lépni velünk."
+        },
+        "services": {
+            "heading": "A közszféra és a mesterséges intelligencia"
+        },
+        "AI": {
+            "heading1": "Miért ne féljenek az emberek az AI-tól?",
+            "heading2": "Mi az az AI?",
+            "heading3": "Hogyan segíthet az AI",
+            "text1": "Az embereknek nem kell félniük az AI-tól, mert ez egy eszköz, amely pozitív hatást gyakorolhat a társadalomra. Az AI javíthatja az hatékonyságot, az innovációt és a komplex problémák megoldását. Azonban fontos biztosítani ennek a technológiának az etikus és felelősségteljes felhasználását.",
+            "text2": "Az Mesterséges Intelligencia (AI) egy olyan technológiai koncepció, ahol a gépek és rendszerek szimulálják az emberi intelligenciát, mint például a tanulás, döntéshozatal és problémamegoldás. Ezek a rendszerek algoritmusokra és adatokra támaszkodnak a feladatok elvégzéséhez, amelyek emberi intelligenciát igényelnének. Az AI széles körű hatással bír az önvezető járművektől a hangalapú asszisztenseken át a orvosi diagnózisokig.",
+            "text3": "Az AI segíthet a diagnosztikai pontosság javításában az egészségügyben a betegadatok hatalmas mennyiségének elemzésével és mintázatok azonosításával. A közpénzek területén az AI elemzheti a gazdasági adatokat és előrejelzéseket készíthet a fejleményekre, ami segíthet hatékony pénzügyi politikák kialakításában. Az oktatás területén az AI személyre szabott tanterveket készíthet és eszközöket nyújthat a tanároknak a diákok teljesítményének jobb nyomon követéséhez és javításához."
+        }
+    },
+    "about": {
+        "heading": "Rólunk",
+        "text": "Üdvözöljük a Justice családban!",
+        "text2": "Pártunkat egyértelmű céllal alapítottuk - hogy igazságot, átláthatóságot és innovációt hozzunk a magyar politikába. Értékeljük a demokrácia, a szabadság és az egyenlőség elveit, és hiszünk abban, hogy közös erőfeszítéssel jobb jövőt teremthetünk minden magyar polgár számára.",
+        "text3": "Víziónk: Magyarországot szeretnénk, ahol:",
+        "text4": "Mindenki egyenlő esélyt kap arra, hogy elérje a potenciálját, függetlenül a származásától, oktatásától vagy társadalmi státuszától.",
+        "text5": "A közpénzek igazságosan és hatékonyan kerülnek elosztásra.",
+        "text6": "Az oktatás, a sport, a tudomány és a kutatás a társadalom kulcsfontosságú pillérei.",
+        "text7": "A technológia és az mesterséges intelligencia használata a polgárok életének javítására és a fenntartható növekedés elérésére szolgál.",
+        "text8": "Értékeink:",
+        "text9before": "Igazságosság",
+        "text9": ": Minden, amit teszünk, etikai és igazságos alapelvek szerint történik.",
+        "text10": "Átláthatóság: Hisszünk a nyitottságban és a becsületességben minden cselekedetünk során.",
+        "text11before": "Átláthatóság",
+        "text11": ": Hisszünk a nyitottságban és a becsületességben minden cselekedetünk során.",
+        "text12before": "Innováció",
+        "text12": ": Nyitottak vagyunk az új ötletek felé, és üdvözöljük a társadalom javát szolgáló fejlődést.",
+        "text13before": "Együttműködés",
+        "text13": ": Tiszteletben tartjuk minden egyéni véleményét és támogatását, és együttműködünk a társadalom minden rétegével a közös célok eléréséért.",
+        "text14": "A fejlődés elválaszthatatlanul összekapcsolódik az emberi történelemmel - a tűz felfedezésétől és a mezőgazdaság kezdetétől a írás kialakulásáig, egészen a digitális forradalomig. Ez tükrözi az állandó vágyunkat a tudás, az innováció és az alkalmazkodás iránt.",
+        "text15": "Az AI nemcsak egy technológiai eszköz; ez utalás képességünkre, hogy olyan rendszereket hozzunk létre, amelyek tudnak gondolkodni, tanulni és növekedni olyan módon, amelyet korábban elképzelni sem tudtunk. Az AI segíthet nekünk a korunk néhány legbonyolultabb problémájának megoldásában, a klímaváltozástól a gyógyászati kihívásokig.",
+        "text16": "Fejlődési útjaink azt mutatják, hogy minden új innovációval új lehetőségek és perspektívák érkeznek. Az mesterséges intelligencia nemcsak a technológiai sikereink tükröződése, hanem tanúsága annak végtelen vágyunknak is, hogy az emberi ismeret és képességek határait kitágítsuk. Szeretettel meghívjuk Önöket, hogy részesei legyenek ennek az izgalmas kornak, amikor együtt felfedezzük és alakítjuk a jövőt egy olyan világban, ahol a lehetőségek végtelenek."
+    },
+    "electoralProgram": {
+        "heading": "Választási program",
+        "point1": {
+            "heading": "1. Mesterséges intelligencia irányította közszolgáltatások:",
+            "text": "Az AI technológiák bevezetése a közszolgáltatások optimalizálására, ideértve az egészségügyet, az oktatást és a közlekedést, hogy biztosítsák az igazságos hozzáférést és az erőforrások hatékony elosztását."
+        },
+        "point2": {
+            "heading": "2. Adatalapú döntéshozatal:",
+            "text": "Az AI algoritmusok és az adatelemzés felhasználása a bizonyítékokon alapuló politikák kialakításához, hogy a döntések pontos információkon és átlátható folyamatokon alapuljanak."
+        },
+        "point3": {
+            "heading": "3. Előrejelző egészségügy:",
+            "text": "Az AI és a prediktív modellezés felhasználása az egészségügyi kockázatok és tendenciák azonosítására, hogy proaktív intézkedéseket lehessen hozni a betegségek megelőzésére, a közegészségügy javítására és az egészségügyi erőforrások hatékony elosztására."
+        },
+        "point4": {
+            "heading": "4. Intelligens infrastruktúra tervezés:",
+            "text": "Az AI által hajtott rendszerek felhasználása városi területek tervezéséhez, a közlekedés irányításához és az infrastruktúra fejlesztéséhez a hatékonyság növelése, a közlekedési dugók csökkentése és a fenntartható és egészséges környezet támogatása érdekében."
+        },
+        "point5": {
+            "heading": "5. Környezetvédelem monitorozása és védelme:",
+            "text": "Az AI által hajtott rendszerek bevezetése a környezeti adatok monitorozásához és elemzéséhez, amelyek lehetővé teszik hatékony intézkedések meghozatalát a szennyezés elleni küzdelemben, az ökoszisztémák védelmében és a fenntartható fejlődés támogatásában."
+        },
+        "point6": {
+            "heading": "6. Polgárok bevonása és visszacsatolás:",
+            "text": "Mesterséges intelligenciával hajtott platformok fejlesztése a polgárok bevonására, lehetővé téve a valós idejű visszajelzést, részvételt a döntéshozatali folyamatokban és támogatva az inkluzív és érzékeny kormányzást."
+        },
+        "point7": {
+            "heading": "7. Etikai irányelvek az AI számára:",
+            "text": "Világos irányelveket és előírásokat bevezetni az etikus mesterséges intelligencia fejlesztéséhez és bevezetéséhez, amelyek biztosítják a magánélet védelmét, a biztonságot és védelmet az algoritmikus elfogultsággal vagy diszkriminációval szemben."
+        },
+        "point8": {
+            "heading": "8. Oktatás és képzés:",
+            "text": "Támogassátok az AI területén való jártasságot, és nyújtsatok oktatási programokat az állampolgárok és kormányzati alkalmazottak számára, hogy megszerezzék a szükséges képességeket az AI-alapú rendszerek megértéséhez és hatékony bekapcsolódásához."
+        },
+        "point9": {
+            "heading": "9. Digitális inklúzió:",
+            "text": "Áthidalni a digitális szakadékot, biztosítva az AI technológiák és digitális infrastruktúra hozzáférhetőségét minden polgár számára, függetlenül társadalmi-gazdasági helyzetüktől, és támogatást nyújtani a marginalizált közösségeknek."
+        },
+        "point10": {
+            "heading": "10. Együttműködésen alapuló partnerségek:",
+            "text": "Támogatni az együttműködést a kormány, az akadémia és az ipar között azzal a céllal, hogy támogassák az AI alkalmazások innovációját, kutatását és fejlesztését a közügyek irányítása terén, miközben biztosítják a felelős és inkluzív gyakorlatokat."
+        },
+        "point11": {
+            "heading": "11. Sportfinanszírozás optimalizálása AI segítségével:",
+            "text": "Az egyik kulcskérdés Szlovákia sportágának hatékonyságban és átláthatóságban rejlik a különböző sportágak, klubok és egyéni sportolók közötti pénzügyi megosztás terén. Létrehozunk egy olyan modellt, amely képes lesz elemző módon értékelni a sportolók teljesítményét, az egyes sportágak szükségleteit, az aktuális trendeket és a növekedési potenciált. Ez a modell képes lesz értékelni a sportra eddig befektetett források hatékonyságát, azonosítani azokat a területeket, amelyek több finanszírozásra szorulnak, és javaslatot tenni a források legjobb elosztására."
+        },
+        "paragraph": "* Fontos megjegyezni, hogy az AI bevezetését a közügyek irányításába erős jogi kereteknek, hatékony irányítási mechanizmusoknak és folyamatos monitorozásnak és értékelésnek kell kísérnie annak érdekében, hogy a lehetséges kockázatokat kezeljük, és biztosítsuk, hogy a technológia etikusan, átláthatóan és minden polgár legjobb érdekében kerüljön felhasználásra."
+    },
+    "educationUI": {
+        "title": "Mesterséges Intelligencia a Szlovákiai Oktatásban",
+        "heading1": "Bevezetés",
+        "text1": "Az Igazságosság oldalán meg vagyunk győződve arról, hogy a mesterséges intelligencia (AI) óriási potenciállal rendelkezik a szlovákiai oktatás átalakítására. A 21. század világában, ahol a technológia gyorsan fejlődik, az oktatás így elérheti a hatékonyabb és innovatívabb szintet. Hangsúlyozzuk az AI etikus felhasználását, és világosan meghatároztuk az új technológia kockázatait és lehetőségeit.",
+        "heading2": "Jelenlegi Helyzet a Szlovákiai Oktatásban",
+        "text2": "A nemzetközi értékelések szerint a szlovák oktatás minősége közepes vagy alacsony:",
+        "text3": "PISA 2022: 43. hely 79 ország közül.",
+        "text4": "TIMSS 2019: 46. hely 64 ország közül.",
+        "text5": "PIRLS 2016: 44. hely 50 ország közül.",
+        "text6": "Az Oktatás Reformjának Okai:",
+        "text7": "Gyakorlati lehetőségek az AI felhasználására az oktatásban:",
+        "text8": {
+            "bold": "Személyre szabott oktatás:",
+            "bulletText": "Az AI képes elemezni minden diák tanulási stílusát és igényeit, hogy személyre szabott oktatási forrásokat és példákat nyújtson neki."
+        },
+        "text9": {
+            "bold": "Automatizált értékelés:",
+            "bulletText": "Gyors és objektív értékelés a diákok munkáiról és teszteiről az AI algoritmusok segítségével."
+        },
+        "text10": {
+            "bold": "Virtuális laboratóriumok és szimulációk:",
+            "bulletText": "A diákok digitális környezetben kísérleteket végezhetnek és helyzeteket modellezhetnek."
+        },
+        "text11": {
+            "bold": "Tanársegéd alkalmazások:",
+            "bulletText": "Digitális asszisztensek segíthetik a tanárokat az órák előkészítésében vagy az adminisztratív feladatok megoldásában."
+        },
+        "text12": {
+            "bold": "Diák sikerének előrejelzése:",
+            "bulletText": "Az AI képes előre jelezni a diákok eredményeit és azonosítani azokat a diákokat, akik esetleg további segítségre lehetnek szorulva."
+        },
+        "heading3": "Javasolt Megoldások:",
+        "text13": {
+            "bold": "Etikai szabályozás:",
+            "bulletText": "Biztosítani a gyanúsított és felelősséget a AI használatakor. Készíteni etikai irányelveket az iskoláknak és a programozóknak."
+        },
+        "text14": {
+            "bold": "Tanárképzés:",
+            "bulletText": "Szervezni tréningeket a tanárok számára a technológiák és azok oktatási folyamatokban való felhasználásának területén."
+        },
+        "text15": {
+            "bold": "Adatbiztonság:",
+            "bulletText": "Készíteni szabványokat a diákok adatainak védelme és biztonságos tárolása érdekében."
+        },
+        "text16": {
+            "bold": " Integráció az állami oktatási tervbe:",
+            "bulletText": "Az AI alapú alkalmazások integrálása az oktatási tananyagba és alkalmazkodásuk a szlovák oktatási rendszer igényeihez."
+        },
+        "heading4": "Az AI Finanszírozása az Oktatásban:",
+        "text17": "Az AI felhasználása az oktatásban költségigényes beruházás lehet, ugyanakkor hosszú távú pénzügyi előnyöket hozhat a megtakarítások és hatékonyság tekintetében. Itt vannak a pénzügyi források és potenciális megtakarítások biztosítására vonatkozó javaslataink:",
+        "text18": {
+            "bold": "Költségvetés átcsoportosítása:",
+            "bulletText": "A jelenlegi oktatási költségvetés felülvizsgálatából körülbelül 5%-ot lehetne átcsoportosítani az AI alapú technológiák bevezetésére. Ez körülbelül 25 millió eurós éves összeget jelenthetne."
+        },
+        "text19": {
+            "bold": "Automatizációval elérhető megtakarítások:",
+            "bulletText": "Az AI segítségével a közigazgatási költségek mintegy 15%-kal csökkenthetők. A jelenlegi 50 millió eurós közigazgatási költségvetés esetén ez éves szinten 7,5 millió eurós megtakarítást eredményezne."
+        },
+        "text20": {
+            "bold": "Technológiai cégekkel kötött partnerségek:",
+            "bulletText": "Partnerségek kezdeményezése olyan technológiai cégekkel, amelyek támogatást vagy technikai segítséget nyújthatnak cserébe a reklámozási lehetőségekért vagy kutatásért. Ebből várhatóan évente körülbelül 10 millió eurós bevétel származna."
+        },
+        "text21": {
+            "bold": "EU-s támogatás:",
+            "bulletText": "Tekintettel a technológia és az innováció fontosságára az oktatásban, pályázhatunk támogatásokra az Európai Uniótól. A várható támogatás összege akár 15 millió euróra is rúghat a következő 5 év során."
+        },
+        "text22": {
+            "bold": "Digitális oktatásból származó megtakarítások:",
+            "bulletText": "Digitális tankönyvek és anyagok használatával körülbelül 20%-kal csökkenthetőek a nyomtatott anyagok költségei. Ez éves szinten körülbelül 3 millió eurós megtakarítást jelentene."
+        },
+        "text23": "Összesített várható finanszírozás és megtakarítások:",
+        "text24": "Költségvetés átcsoportosítása: +25 millió euró",
+        "text25": "Automatizációs megtakarítások: +7,5 millió euró",
+        "text26": "Partnerségek: +10 millió euró",
+        "text27": "EU-s támogatás: +15 millió euró (5 év alatt)",
+        "text28": "Nyomtatott anyagok megtakarításai: +3 millió euró",
+        "text29": {
+            "bold": "Összesen:",
+            "text": "Körülbelül 60,5 millió euró az első évben (az EU-s támogatások növekedésével a következő években)."
+        },
+        "text30": "Ezekkel a pénzügyi forrásokkal és megtakarításokkal úgy véljük, hogy sikeresen integrálhatjuk az AI-t az oktatási rendszerünkbe, és modern és hatékony megoldásokat hozhatunk minden szlovák diák számára.",
+        "text31": "Kockázatok és lehetőségek:",
+        "text32": {
+            "bold": "Kockázatok:",
+            "bulletText1": "Lehetséges hibás diákadatok felhasználása.",
+            "bulletText2": "Túlzott technológiafüggőség az emberi tényező rovására.",
+            "bulletText3": "Lehetséges munkahelyek elvesztése az oktatási területen."
+        },
+        "text33": {
+            "bold": "Lehetőségek::",
+            "bulletText1": "Az oktatási rendszer modernizálása.",
+            "bulletText2": "Hatékonyabb erőforrásfelhasználás.",
+            "bulletText3": "Az oktatás minőségének javítása és az egyéni diákigényekhez való alkalmazkodás."
+        },
+        "text34": "Hiszünk abban, hogy a mesterséges intelligencia megfelelő felhasználásával elérhetjük az oktatási rendszert, amely jobban reagál a diákok igényeire és felkészíti őket a 21. század kihívásaira. Az Igazságosság párt kötelezettséget vállal arra, hogy átláthatóan dolgozik és az etikai elveket szem előtt tartja ezeknek a technológiáknak a bevezetésekor."
+    },
+    "healthUI": {
+        "title": "Mesterséges Intelligencia az Egészségügyben",
+        "heading1": "Bevezetés",
+        "text1": "Az Igazságosság Pártjában úgy véljük, hogy a mesterséges intelligencia (MI) forradalmat hozhat az egészségügy területén. Víziónk egy átláthatóbb, hatékonyabb és az állampolgárok igényeire jobban szabott egészségügyi rendszer. De a nagy potenciállal járnak kihívások és kockázatok is. Ebben a szakaszban áttekintést nyújtunk Önnek arról, hogyan látjuk az egészségügy jövőjét MI bevonásával, milyen lehetőségek, kockázatok és megoldási javaslatok állnak rendelkezésre.",
+        "heading2": "A MI Gyakorlati Felhasználási Lehetőségei az Egészségügyben:",
+        "text2": {
+            "bold": "Diagnosztika és Kezelés",
+            "text": ": A MI gyorsabban és pontosabban tudja elemezni a páciensek klinikai adatait, segítve ezzel az orvosokat a diagnózis felállításában és a legjobb kezelés meghatározásában."
+        },
+        "text3": {
+            "bold": "Személyre Szabott Orvoslás",
+            "text": ": A genetikai információk alapján a MI testreszabott kezeléseket javasolhat az egyedi páciensek számára."
+        },
+        "text4": {
+            "bold": "Kórházak Működésének Optimalizálása",
+            "text": ": A MI segítségével jobban kezelhetjük a kórházak készleteit, személyzetét és felszerelését, csökkentve a költségeket és a várakozási időt a páciensek számára."
+        },
+        "text5": {
+            "bold": "Virtuális Egészségügyi Asszisztensek",
+            "text": ": A páciensek hozzáférhetnek virtuális asszisztensekhez, akik tanácsokat nyújtanak a kezeléssel, gyógyszerekkel vagy életmóddal kapcsolatban."
+        },
+        "text6": {
+            "bold": "Magas Pontosságú Diagnosztika",
+            "text": ": A MI magasabb pontossággal képes azonosítani betegségeket, mint az emberi orvosok, például mellrákot 99%-os pontossággal."
+        },
+        "text7": {
+            "bold": "Költségmegtakarítás",
+            "text": ": Becslések szerint a MI akár 2030-ig éves szinten akár 1 milliárd eurót is megtakaríthat az egészségügyi ellátás költségeiből Szlovákiában."
+        },
+        "text8": {
+            "bold": "Adminisztrációs Teher Csökkentése",
+            "text": ": Az automatizált feladatok akár 50%-kal is csökkenthetik az orvosok adminisztrációs terheit."
+        },
+        "heading3": "Kockázatok és Kihívások:",
+        "text9": {
+            "bold": "Adatvédelem",
+            "text": ": A sensitív egészségügyi adatok védelme kulcsfontosságú. Biztosítanunk kell, hogy ezek az adatok ne kerüljenek visszaélésre vagy kompromittálásra."
+        },
+        "text10": {
+            "bold": "Technológiai Függőség",
+            "text": ": Nem szabad teljes mértékben az MI-re hagyatkozni az emberi ítélőképesség és interakció rovására."
+        },
+        "text11": {
+            "bold": "Etikai Dilemmák",
+            "text": ": Az MI morális és etikai kérdéseket is felvet, például a genetikai módosítás területén."
+        },
+        "heading4": "Megoldási Javaslatok:",
+        "text12": {
+            "bold": "Szabályozási Keretrendszer Kialakítása",
+            "text": ": Aktívan dolgozni fogunk azon, hogy olyan jogszabályi környezetet hozzunk létre, amely biztosítja, hogy az MI használata az egészségügyben biztonságos, átlátható és etikus legyen."
+        },
+        "text13": {
+            "bold": "Együttműködés Szakértőkkel",
+            "text": ": Együtt fogunk működni orvosokkal, tudósokkal és más szakértőkkel, hogy biztosítsuk, hogy a technológia összhangban legyen az orvosi gyakorlattal."
+        },
+        "text14": {
+            "bold": "Oktatás és Felvilágosítás",
+            "text": ": Felvilágosítjuk a nyilvánosságot az MI egészségügyi előnyeiről és kockázatairól, és támogatjuk az egészségügyi személyzet oktatását az új technológiák terén."
+        },
+        "heading5": "Finanszírozás és Hatékony Forrásfelhasználás:",
+        "text15": "A mesterséges intelligencia nem csak klinikai előnyöket kínál, hanem lehetőséget is nyújt az egészségügyi pénzügyi hatékonyság javítására. Az alábbiakban bemutatjuk, hogy hogyan tervezzük finanszírozni az MI megoldások fejlesztését és bevezetését, valamint hol látunk lehetőséget a megtakarításra.",
+        "text16": {
+            "heading": "Finanszírozási Források:",
+            "bold1": "EU Alapokból",
+            "text1": ": Kutatásaink alapján számos európai támogatás létezik az egészségügyi innováció területén, amelyekből akár 15 millió eurót is szerezhetünk be.",
+            "bold2": "Magánszektori Partnerség",
+            "text2": ": Technológiai vállalatokkal és kutató laboratóriumokkal való partnerség révén közös finanszírozást szerezhetünk projektjeinkhez. Az elkövetkező három évben körülbelül 10 millió euróra számítunk.",
+            "bold3": "Nemzeti Kutatási és Fejlesztési Alapok",
+            "text3": ": Az ezekből a forrásokból becsülhetően 5 millió eurót szerezhetünk."
+        },
+        "text17": {
+            "heading": "Várható Megtakarítások és Hatékonyság:",
+            "bold1": "Kórház Működésének Optimalizálása",
+            "text1": ": Az MI bevezetésével a kórházi erőforrások kezelésének optimalizálásával 8 millió euró megtakarításra számítunk három év alatt, a pazarlás csökkentésével és az erőforrások hatékonyabb kihasználásával.",
+            "bold2": "Diagnosztikai Hatékonyság",
+            "text2": ": A gyorsabb és pontosabb diagnózissal rövidebb kórházi tartózkodást és a felesleges vizsgálatok költségének csökkentését érhetjük el, ami évente mintegy 5 millió euró megtakarítást eredményezhet.",
+            "bold3": "Személyre Szabott Orvoslás",
+            "text3": ": A genetikai információk alapján az MI segítségével személyre szabott, olcsóbb kezeléseket javasolhat. Ebben a területen becsült megtakarítás évente 4 millió euró lehet."
+        },
+        "text18": "A három év alatt összesen várhatóan kb. 50 millió eurós megtakarítás érhető el. Ezeket a megtakarításokat aztán visszaforgatnánk az egészségügyi rendszerbe, további kutatásokba és innovációkba, különösen a betegellátás javítására.",
+        "text19": "Az Igazságosság Pártjában elkötelezettek vagyunk a nyilvános források átlátható és felelős felhasználása iránt. Az MI segítségével valós lehetőséget látunk Szlovákia számára, hogy az egészségügyi innováció terén vezető szerepet vállaljon, miközben hatékonyan kezeli és használja a pénzügyi erőforrásokat minden állampolgár javára."
+    },
+    "financeUI": {
+        "title": "Mesterséges Intelligencia a Közfinanszírozásban",
+        "text1": "Üdvözöljük a szakaszban, amely a mesterséges intelligencia (AI) forradalmi területének és potenciáljának szentelődik a közfinanszírozás kezelésében. Az Igazságosság Pártja átláthatóságot, hatékonyságot és jobb életet hirdet minden polgár számára. Ebben a szakaszban elolvashatja, hogyan segíthet nekünk az AI ebben.",
+        "heading1": "Az AI gyakorlati felhasználási lehetőségei:",
+        "text2": {
+            "bold": "Előrejelző elemzés",
+            "text": ": Az AI képes előre jelezni a jövőbeli állami költségvetési kiadásokat és bevételeket a történelem és a jelenlegi trendek alapján, ezáltal jobb tervezést és forrásallokációt tesz lehetővé."
+        },
+        "text3": {
+            "bold": "Csalások felderítése",
+            "text": ": Az AI képes ezreket vizsgálni és elemmezni másodpercenként, hogy észlelje a szokatlan mintákat vagy gyanús tevékenységeket, ezáltal segítve a közpénzek védelmét."
+        },
+        "text4": {
+            "bold": "Költségvetési optimalizálás",
+            "text": ": Az algoritmusok segítségével optimalizálhatjuk a költségvetési allokációkat, hogy azok megfeleljenek a polgárok igényeinek és a befektetett pénz legnagyobb értékét nyújtsák."
+        },
+        "text5": {
+            "bold": "Automatizált ügyintézés",
+            "text": ": Sok rutin és időigényes feladat automatizálható, amely csökkenti a költségeket és növeli a hatékonyságot."
+        },
+        "heading2": "Megoldásjavaslatok:",
+        "text6": {
+            "bold": "Átláthatóság és ellenőrzés",
+            "text": ": Létrehozunk egy platformot, ahol a polgárok valós időben követhetik, hogyan használják a közpénzeket, és visszajelzést adhatnak."
+        },
+        "text7": {
+            "bold": "Etikus AI-használat",
+            "text": ": Szigorú etikai irányelveket vezetünk be az AI közfinanszírozásban való használatára, hogy védelmet nyújtsunk a polgárok személyes adatainak és biztosítsuk az igazságosságot."
+        },
+        "text8": {
+            "bold": "Oktatás",
+            "text": ": Beruházunk az oktatásba és képzési programokba a tisztviselők számára, hogy megértsék az AI-t és hatékonyan tudják használni."
+        },
+        "text9": {
+            "bold": "Együttműködés szakértőkkel",
+            "text": ": Együtt fogunk működni a mesterséges intelligencia tudósokkal és szakértőkkel, hogy biztosítsuk, hogy megoldásaink a technológiai fejlődés élén legyenek."
+        },
+        "heading3": "Pénzügyezés és hatékonyság az AI által",
+        "text10": "Az egyik fő cél a mesterséges intelligencia használatával a közfinanszírozásban az erőforrások hatékonyabb felhasználása és allokációja. Az alábbiakban konkrét területekre összpontosítunk, ahol úgy véljük, hogy az UI révén jelentős megtakarításokat vagy bevételnövekedést érhetünk el.",
+        "text11": "Megtakarítási lehetőségek:",
+        "text12": {
+            "bold": "Rutinszerű feladatok automatizálása",
+            "text": ": A manuális munka csökkentésével akár 15%-os költségmegtakarítást érhetünk el az adminisztrációs költségekből, ami évente akár 50 millió eurós megtakarítást is jelenthet."
+        },
+        "text13": {
+            "bold": "Csalások és törvényellenes tranzakciók felderítése",
+            "text": ": Becsléseink szerint a fejlett csalásfelismerő algoritmusoknak köszönhetően akár 20%-kal is csökkenthetjük a csalásokat. Ez lehetővé teheti, hogy évente akár 100 millió euró visszakerüljön az állami kincstárba."
+        },
+        "text14": {
+            "bold": "Nyilvános megbízások optimalizálása",
+            "text": ": Az MI segíthet az alábecsült megbízások azonosításában és a közbeszerzési folyamat hatékonyságának javításában, ami potenciálisan több száz millió euró megtakarítás lehet."
+        },
+        "text15": "Bevételnövelési lehetőségek:",
+        "text16": {
+            "bold": "Adóbevételek előrejelzése",
+            "text": ": Az MI segítségével pontosabban előrejelzéseket készíthetünk az adóbevételekről, és alkalmazkodhatunk a gazdasági ingadozásokhoz. Ez akár 5%-os adóbehajtási hatékonyságnövelést és évente akár 200 millió euró bevételnövekedést eredményezhet."
+        },
+        "text17": {
+            "bold": "Automatizált adófizetők figyelése",
+            "text": ": Az MI segíthet azoknak a vállalatoknak és egyéneknek azonosításában, akik elkerülik az adófizetési kötelezettségeket, ami további 50 millió euró bevételt hozhat évente."
+        },
+        "text18": "Összességében az előnyök és lehetőségek révén, amelyeket az mesterséges intelligencia kínál, becsléseink szerint akár évente 400 millió eurós megtakarítást és bevételnövekedést is elérhetünk. Ezeket a forrásokat aztán újra befektethetjük a kulcsfontosságú területeken, mint az oktatás, az egészségügy és a sport, hogy minden polgár életminősége javuljon.",
+        "heading4": "Kockázatok és lehetőségek:",
+        "text19": "Az MI felhasználásakor a közpénzügyek terén fontos felismerni a kockázatokat és lehetőségeket. Habár a technológia hatalmas lehetőségeket kínál az hatékonyság és átláthatóság terén, óvatosnak kell lennünk a potenciális visszaélésekkel, az algoritmusok elfogultságával vagy adataink helytelen értelmezésével szemben. Célunk az AI erős oldalainak ötvözése az etikai alapelvekkel és a polgárok aktív részvételével, hogy közösen erős és igazságos közpénzügyi rendszert hozzunk létre.",
+        "text20": "Csatlakozzon hozzánk erőfeszítéseinkhez egy átláthatóbb és hatékonyabb Szlovákia érdekében az mesterséges intelligencia segítségével."
+    },
+    "sportUI": {
+        "title": "Mesterséges Intelligencia a Sportban",
+        "heading1": "Bevezetés",
+        "text1": "A Justice Partyban hiszünk abban, hogy a mesterséges intelligencia (MI) hatalmas potenciállal rendelkezik a társadalmi élet számos területének fejlesztésére. Amikor a sportról beszélünk, ez a technológia segíthet az edzésprogramok optimalizálásában, a sportolók teljesítményének elemzésében, valamint a résztvevők egészségének és biztonságának javításában. Mindezt szilárd etikai elvek irányítják, és törekedünk a teljes átláthatóságra minden cselekedetünk során.",
+        "heading2": "A MI Gyakorlati Felhasználási Lehetőségei a Sportban:",
+        "text2": {
+            "bold": "Teljesítmény Elemzés",
+            "text": ": Az MI segítségével részletesen elemmezhetjük a sportolók mozgását, technikáját és állóképességét. Ezek az adatok alapján testreszabhatjuk az edzésprogramokat, hogy kiaknázzuk a potenciált."
+        },
+        "text3": {
+            "bold": "Személyre Szabott Edzésprogramok",
+            "text": ": Az MI elemmezheti minden sportoló egyedi fizikai tulajdonságait és képességeit, lehetővé téve az egyéni edzésprogramok létrehozását."
+        },
+        "text4": {
+            "bold": "Sérülések és Megelőzés",
+            "text": ": Az MI előrejelzést nyújthat a sportolók adatainak és edzési rutinjainak elemzésével a sérülés kockázatáról, lehetővé téve az edzőknek és orvosoknak a beavatkozást és a sérülések kockázatának minimalizálását."
+        },
+        "text5": {
+            "bold": "Interaktív Döntéshozatal",
+            "text": ": Az MI használata segíthet a bíróknak pontosabb döntéshozatalban kontroverziális helyzetekben, például labdarúgásban, jégkorongban vagy teniszben."
+        },
+        "heading3": "Megoldások Javaslatok:",
+        "text6": {
+            "bold": "Adatok Használatának Átláthatósága",
+            "text": ": Kötelezettséget vállalunk arra, hogy minden sportolótól származó adatot maximális tisztelettel és biztonsággal kezelünk."
+        },
+        "text7": {
+            "bold": "Oktatási Programok",
+            "text": ": Gondoskodunk róla, hogy az edzők, sportolók és minden érintett hozzáférjenek az oktatáshoz arról, hogy az MI hogyan működik, és hogyan lehet azt a javukra használni."
+        },
+        "text8": {
+            "bold": "Etikus MI Felhasználás",
+            "text": ": Az MI megoldások fejlesztése és implementálása során szigorúan betartjuk az etikai normákat és elveket."
+        },
+        "text9": {
+            "bold": "Együttműködés a Társadalommal",
+            "text": ": Aktívan meghallgatjuk a sportközösségek és mesterséges intelligencia szakértők véleményét annak érdekében, hogy megoldásaink valódi szükségletekhez és érdekekhez igazodjanak."
+        },
+        "heading4": "Konkrét Finanszírozási Megoldás",
+        "text10": {
+            "bold": "AI-alapú Sportalap Létrehozása",
+            "text": ": Az alap forrásait közösségi forrásokból, szponzori szerződésekből és más bevételi forrásokból teremtenénk meg. Az MI ezután elemzi, mely sportágak és sportolók rendelkeznek a legnagyobb potenciállal a nemzetközi színtéren, és hol térülhetnek meg az befektetések a sikerek és Szlovákia pozitív megítélése formájában. Ezzel biztosítanánk, hogy a pénz oda irányuljon, ahol a legnagyobb hatása van."
+        },
+        "text11": {
+            "bold": "Bevétel Részleges Átirányítása Szerencsejátékokból",
+            "text": ": Olyan jogszabályok bevezetése, amelyek a nemzeti lottókból és más szerencsejátékokból származó bevétel egy részét közvetlenül a sportalapra irányítják. Sok országban sikeresen alkalmazzák ezt a modellt."
+        },
+        "text12": {
+            "bold": "Sport Lottó",
+            "text": ": Egy különleges sport lottó bevezetése, amelynek bevételei közvetlenül a sport támogatására fordulnának."
+        },
+        "text13": {
+            "bold": "Az Alkohol és Dohányzás Adóinak Emelése",
+            "text": ": Kismértékű emelés az alkohol és dohánytermékek fogyasztási adóján, amelyek kapcsolódnak az egészségtelen életmódhoz. Ezeket az extra bevételeket közvetlenül a sport és az egészséges életmód támogatására fordítanák."
+        },
+        "text14": {
+            "bold": "Partnerkapcsolat a magánszektorral",
+            "text": ": A magánszféra aktív partnerkapcsolatának aktiválása támogatás, reklám és kereskedelmi jogok révén a nagy sporteseményekkel kapcsolatban."
+        },
+        "text15": {
+            "bold": "Ökológiai Díjak",
+            "text": ": A vállalatok által fizetett környezeti díjak egy részéből a sporttevékenységek támogatására irányuló összeg is származhat, amelyek hozzájárulnak az egészségesebb életmódhoz és így a jobb környezethez is."
+        },
+        "text16": {
+            "bold": "Idegenforgalmi Adó",
+            "text": ": A turizmusadó bevételeinek egy részéből támogatás nyújtható olyan sportinfrastruktúrákhoz, amelyek több turistát vonzanak, például kerékpárutak, turistaösvények, sportlétesítmények stb."
+        },
+        "heading5": "Závěr",
+        "text17": "Az Igazságosság Pártjában számtalan lehetőséget látunk azon a területen, hogy a mesterséges intelligencia (MI) előnyöket hozzon a sportágba. Ugyanakkor tisztában vagyunk a kockázatokkal, és azon dolgozunk, hogy átláthatóan és etikusan dolgozzunk, hogy a hasznot maximalizáljuk, és minimalizáljuk a lehetséges hátrányokat. Hiszünk abban, hogy az MI helyes alkalmazásával a sportban hozzájárulhatunk egy jobb és egészségesebb környezethez minden szlovák polgár számára."
+    },
+    "contact": {
+        "heading": "Lépjen kapcsolatba velünk",
+        "street": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+        "text": "SPRAVODLIVOSŤ, egy politikai párt, bejegyezve a Szlovák Köztársaság Belsőügyi Minisztériumában a OVVS 3 - 2011/029916 regisztrációs szám alatt, székhely: Tomášikova 3/A, 821 01 Bratislava-Ružinov, Szlovák Köztársaság, Azonosítószám (IČO): 42 257 441, Adóazonosító Szám (DIČ): 2820011898, bankszámla kapcsolat: Tatra banka, a.s., bankszámlaszám: SK68 1100 0000 0029 2086 6869, e-mail: spravodlivost.politicka.strana@gmail.com"
+    },
+    "privacy": {
+        "heading": "ADATVÉDELEM",
+        "whatFor": {
+            "heading": "Mire szolgálnak ezek az adatok?",
+            "text": "Ezek az információk a személyes adatainak feldolgozásáról és védelméről magyarázzák el, hogy kik vagyunk, miért és hogyan dolgozzuk fel a személyes adatokat, milyen jogai vannak, ha érintettje ennek a feldolgozásnak, és hogyan léphet kapcsolatba velünk szükség esetén."
+        },
+        "whoAreWe": {
+            "heading": "Kik vagyunk?",
+            "text": "Mi vagyunk a SPRAVODLIVOSŤ politikai párt, székhellyel a 821 01 Bratislava-Ružinov, Tomášikova 3/A, Szlovák Köztársaság, Azonosítószám (IČO): 42 257 441, a Szlovák Köztársaság Belügyminisztériuma által nyilvántartott Politikai Pártok Nyilvántartásában OVVS 3 – 2011/029916. Mi vagyunk az úgynevezett 'adatkezelő', jogosultak vagyunk a személyes adatainak kezelésére a vonatkozó jogszabályok, különösen a személyes adatok védelméről szóló 18/2018 számú törvény és ezek az információk szerint. Személyes adatait az érvényes jogszabályoknak megfelelően dolgozzuk fel. Kapcsolattartási adataink: [adjon meg kapcsolattartási adatokat].",
+            "text2": "SPRAVODLIVOSŤ, egy politikai párt, bejegyezve a Szlovák Köztársaság Belsőügyi Minisztériumában a OVVS 3 - 2011/029916 regisztrációs szám alatt.",
+            "text3": "Cím: 821 01 Bratislava-Ružinov, Tomášikova 3/A, Szlovák Köztársaság",
+            "text4": "IČO: 42 257 441",
+            "text5": "DIČ: 2820011898",
+            "text6": "Bankszámla kapcsolat: Tatra banka, a.s.",
+            "text7": "Bankszámlaszám: SK68 1100 0000 0029 2086 6869",
+            "text8": "E-mail: spravodlivost.politicka.strana@gmail.com"
+        },
+        "when": {
+            "heading": "Mikor dolgozzuk fel személyes adatait?",
+            "text": "A személyes adatait az alábbi esetekben dolgozhatjuk fel:",
+            "list": {
+                "item1": "Regisztrált a weboldalainkon.",
+                "item2": "Feliratkozott hírlevelünkre.",
+                "item3": "Részt vett eseményeinken.",
+                "item4": "Aláírta petícióinkat vagy íveinket a mozgalom támogatására.",
+                "item5": "Tagjainkká, önkéntesekké vagy támogatókká vált, vagy érdeklődik ezek iránt.",
+                "item6": "Megjegyzéseket ír, 'like'-ol vagy más interakciókat végez tartalmainkkal a weboldalainkon vagy a közösségi hálózatokon kialakított profiljainkon, ideértve a választási vezetőink személyes profiljait is."
+            },
+            "text2": "Ezekben az esetekben személyes adatait közvetlenül tőle kaphattuk, például weboldalunkon keresztül, közösségi média fiókjainkon keresztül, személyesen kitöltött kérdőíven vagy más alkalmakkor."
+        },
+        "whatKind": {
+            "heading": "Hogyan dolgozzuk fel a személyes adatait?",
+            "text": "A feldolgozott személyes adatok főként a következőket tartalmazzák:",
+            "list": {
+                "item1": "A neve és vezetékneve;",
+                "item2": "Születési dátuma és nemzetisége, ha tagjainkká vált vagy érdeklődik a tagság iránt;",
+                "item3": "Elérhetőségi adatai, ideértve állandó lakcímét, telefonszámát, e-mail címét, közösségi média fiókjait és más személyes vagy munkával kapcsolatos elérhetőségi információit.",
+                "item4": "Adatok, amelyek kapcsolódnak a tetszésnyilvánításokhoz, hozzászólásokhoz vagy más interakciókhoz a közösségi média profiljainkon (úgynevezett fanpage-ek) vagy weboldalainkon."
+            },
+            "heading2": "Az egymás közötti kommunikációból származó információk",
+            "text2": "A személyes adatok mellett más adatokat és információkat is szerezhetünk és később dolgozhatunk fel, amelyeket Ön rendelkezésünkre bocsát, vagy amelyek az egymás közötti kommunikációnk eredményei a telefonon, e-mailen, weboldalunkon, közösségi hálózatokon vagy más eszközökön keresztül."
+        },
+        "information": {
+            "heading": "Cookie-k használatából származó információk.",
+            "text1": "Weboldalunk ún. cookie-kat (sütiket) használ. A cookie-k kisméretű szöveges fájlok, amelyeket számítógépén tárolnak, és webböngészője menthet azért, hogy azonosítsa eszközét és technikailag javítsa vagy testreszabja a weboldalunk működését, valamint statisztikai és elemzési adatokat szerezhessen be. A weboldalunkon használt cookie-k nem teszik lehetővé az egyedi felhasználók azonosítását, és a cookie-kból származó adatok általában összesített formában kerülnek gyűjtésre.",
+            "text2": "A cookie-k elfogadása nem szükséges feltétel ahhoz, hogy látogathassa weboldalunkat. A legtöbb internetes böngésző automatikusan elfogadja a cookie-kat, de a böngésző beállításait szabadon módosíthatja. Ha úgy dönt, hogy nem fogadja el a cookie-kat, előfordulhat, hogy weboldalunk egyes funkciói nem működnek megfelelően.",
+            "text3": "A leggyakrabban használt cookie-k általunk adatai ideiglenes cookie-k (úgynevezett munkamenet cookie-k), amelyeket a böngészőmunkamenet befejezése után törölnek. Ezenkívül vannak tartós cookie-k is, amelyek lehetővé teszik számunkra, hogy felismerjük az eszközét, amelyről korábban látogatott weboldalunkra. A cookie-k nem okoznak kárt az eszközén, és nem tartalmaznak vírust vagy kártékony kódot.",
+            "text4": "Weboldalunk kizárólag harmadik féltől származó cookie-kat használ, amelyek szolgáltatásokat biztosítanak számunkra, és bővebb információkat talál róluk az alábbi oldalakon:",
+            "list": {
+                "item1": "Google Analytics;",
+                "item2": "Facebook;",
+                "item3": "eTarget;",
+                "item4": "Nation Builder;",
+                "item5": "Quorum."
+            }
+        },
+        "informationSocialMedia": {
+            "heading": "Információk a közösségi hálózatokon való interakciókból",
+            "text1": "A marketing tevékenységekhez csak a fent említett személyes adatok rendes kategóriáit dolgozzuk fel. Ezekre a célokra nem dolgozunk fel semmilyen különleges kategóriájú személyes adatot. A potenciális szimpátiákról, kifejezett érdeklődésről és az online tartalmainkkal való interakciókról a politikai véleményeink vagy politikai meggyőződésünk nem minősülnek politikai véleményeknek, mivel úgy véljük, hogy mind a támogatóink, mind a politikai ellenfeleink követnek bennünket az online térben. A politikai vezetőink vagy jelöltjeink személyes profiljai a SPRAVODLIVOSŤ által végzett feldolgozás részét képezik.",
+            "heading2": "Hogyan dolgozzuk fel a személyes adatait?",
+            "text2": "A személyes adatait az alábbi célokra dolgozzuk fel:",
+            "list": {
+                "item1": "Információk nyújtása tevékenységeinkről, ideértve az e-mailek, SMS-ek vagy telefonhívások küldését híreinkről és/vagy közvetlenül nekünk küldött kérdésekre adott válaszokat;",
+                "item2": "Tagjainkkal, támogatóinkkal, önkénteseinkkel vagy tevékenységeink iránt érdeklődő személyekkel való kapcsolatok kezelése és szervezése; és",
+                "item3": "Weboldalunk és közösségi média fiókjaink kezelése, hogy a tartalmat hatékonyan jelenítsük meg, tesztelés és adatelemzés alapján."
+            },
+            "heading3": "Kinek adhatjuk át a személyes adatait?",
+            "text3": "A személyes adatait a bíróság vagy más állami hatóságok döntése alapján adhatjuk át vagy teszi hozzáférhetővé, amelyek jogosultak a kiszolgálásukra irányuló kérelem benyújtására és/vagy hozzáférhetőségükre, valamint az érvényes jogszabályok által előírt kötelezettségeknek megfelelően.",
+            "heading4": "Mi a személyes adatai feldolgozásának jogalapja?",
+            "text4": "A személyes adatait elsősorban az Ön előzetes hozzájárulása alapján dolgozzuk fel, amelyet a feldolgozás megkezdése előtt megadott. A feldolgozásra vonatkozó hozzájárulás visszavonásának lehetőségei ebben a dokumentumban kerülnek leírásra.",
+            "text5": "Szükség esetén további személyes adatait a következő esetekben dolgozhatjuk fel:",
+            "list2": {
+                "item1": "Ha velünk szerződést kötött vagy tervez kötni, a szerződés teljesítésének vagy ilyen szerződés megkötése előtti előszerződéses tárgyalásokkal összefüggésben; vagy",
+                "item2": "A jogszabályi kötelezettségeink teljesítésének szükségessége miatt."
+            }
+        },
+        "where": {
+            "heading": "Hol dolgozzuk fel a személyes adatait?",
+            "text1": "A személyes adatait elsősorban az Európai Unió területén vagy az Európai Gazdasági Térség egyezményének részét képező államok területén dolgozzuk fel.",
+            "text2": "Azonban néhány beszállítónk, különösen azok, akiknek szolgáltatásait weboldalunk működtetéséhez használjuk, különböző adatokat dolgozhatnak fel az Amerikai Egyesült Államokban (USA), ideértve a személyes adatokat is.",
+            "text3": "A személyes adatok átadása az USA-ba az Európai Bizottság (EU) 2016/1250 végrehajtási határozatának megfelelően lehetséges, amelyet 2016. július 12-én fogadtak el az EU-USA adatvédelmi pajzs megfelelőségéről.",
+            "heading2": "Mennyi ideig dolgozzuk fel a személyes adatait?",
+            "text4": "A személyes adatait csak annyi ideig dolgozzuk fel, amennyi szükséges a személyes adatainak megszerzése céljának eléréséhez. Az Ön hozzájárulása alapján feldolgozott személyes adatokat az Ön hozzájárulásának érvényességi ideje alatt feldolgozhatjuk, amely öt évig tart a megadásának dátumától számítva.",
+            "text5": "Ez az időszak leteltével a személyes adatait töröljük, kivéve azokat az eseteket, amikor további feldolgozás szükséges a jogi kötelezettségeink betartásának biztosításához, vagy más jogos indokok miatt, a hatályos jogszabályoknak megfelelően.",
+            "heading3": "Milyen jogai vannak?",
+            "text6": "A személyes adatainak feldolgozásával kapcsolatosan az alábbi jogai vannak:",
+            "list": {
+                "item1": "Joga van kérni a személyes adataihoz való hozzáférést, amelyeket feldolgozunk.",
+                "item2": "Joga van kérni a feldolgozott pontatlan személyes adatainak helyesbítését.",
+                "item3": "Joga van kérni a feldolgozott személyes adatai törlését.",
+                "item4": "Joga van visszavonni a személyes adatainak feldolgozására adott hozzájárulását; hozzájárulásának visszavonása után nem dolgozzuk fel tovább a személyes adatait. A hozzájárulás visszavonása nem érinti a visszavonása előtt végrehajtott feldolgozás jogszerűségét.",
+                "item5": "Joga van panaszt benyújtani a személyes adatok jogellenes feldolgozása miatt. Panaszát bármikor címünkre küldheti vagy benyújthatja azt a Szlovák Köztársaság Személyes Adatvédelmi Hivatalához."
+            }
+        },
+        "howTo": {
+            "heading": "Hogyan gyakorolhatja személyes adatainak feldolgozásával kapcsolatos jogait?",
+            "text1": "A fent említett jogok bármelyikét gyakorolhatja a következő e-mail címünkre küldött üzenet révén: spravodlivost.politicka.strana@gmail.com, vagy postai címünkre küldött levéllel:",
+            "text2": "SPRAVODLIVOSŤ",
+            "text3": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+            "text4": "Felhívjuk figyelmét, hogy mielőtt bármilyen információt ezzel kapcsolatban szolgáltatnánk Önnek, jogosultak vagyunk kérni további adatokat és információkat Öntől azonosítása ellenőrzése céljából.",
+            "heading2": "Szlovák Köztársaság Személyes Adatvédelmi Hivatala",
+            "text5": "A Szlovák Köztársaság Személyes Adatvédelmi Hivatala egy kormányzati hatóság, amely felelős a személyes adatok védelmének felügyeletéért a Szlovák Köztársaság területén.",
+            "text6": "A Hivatal jogosult foglalkozni panaszaival kapcsolatban, amelyek a személyes adatainak feldolgozásával kapcsolatosak. Ezenkívül a Hivatal további információkat is nyújthat a jogairól és kötelezettségeiről a személyes adataival kapcsolatban."
+        }
+    },
+    "category": {
+        "header": "",
+        "categoriesHeader": "Kategóriák",
+        "readMoreHeader": "További információk",
+        "searchPlaceholder": "Keresés",
+        "notFound": "Nem találhatók cikkek."
+    },
+    "404": {
+        "heading": "404 - Az oldal nem található",
+        "text": "Elnézést kérünk. Az oldal nem található.",
+        "readMoreHeading": "További információk",
+        "noArticles": "Nem találhatók cikkek."
+    },
+    "mandatory": {
+        "heading": "További kötelező információk",
+        "text": "Kötelezően közzétett információk 2023. május 2-től"
+    },
+    "mandatoryFrom": {
+        "heading": "Kötelezően közzétett információk 2023. május 2-tól",
+        "text": "Kötelezően közzétett információk 2023. május 1-ig"
+    },
+    "mandatoryTo": {
+        "heading1": "Kötelezően közzétett információk 2023. május 1-ig",
+        "text1": "Információk közzététele a 85/2005 számú törvény 22. § (5) bekezdése alapján a Politikai Pártokról és Politikai Mozgalmakról szóló jogszabályokkal módosított állapotban:",
+        "text2": "Információk közzététele a 85/2005 számú törvény 22. § (5) bekezdése alapján a Politikai Pártokról és Politikai Mozgalmakról szóló jogszabályokkal módosított állapotban:",
+        "text3": "1. A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt.",
+        "text4": "nem kapott pénzbeli hozzájárulást azoktól az egyénektől, akik hozzájárultak tevékenységéhez.",
+        "text5": "pénzügyi formában",
+        "text6": "amelynek összege meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt a elfogadás időpontjában;",
+        "text7": "A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt.",
+        "text8": "nem kapott pénzbeli hozzájárulást azoktól az egyénektől, akik hozzájárultak tevékenységéhez.",
+        "text9": "pénzügyi formában",
+        "text10": "amelynek összege meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt a elfogadás időpontjában;",
+        "text11": "A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt.",
+        "text12": "a 2019-es naptári évben nem pénzbeli hozzájárulást kapott azoktól az egyénektől, akik hozzájárultak tevékenységéhez.",
+        "text13": "nem pénzügyi formában",
+        "text14": "amelynek összege meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt a elfogadás időpontjában;",
+        "text15": "A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt.",
+        "text16": "a 2019-es naptári évben a következő egyénektől kapott hozzájárulást, akik hozzájárultak tevékenységéhez",
+        "text17": "pénzügyi formában",
+        "text18": "Ing. Pavel Weiss, Vysoká 7116/16, 811 06 Bratislava - Staré Mesto, pénzbeli adomány összege: 5 000 euró",
+        "text19": "Ing. JUDr. Soňa Snopková, Anízova 20409/25, 821 04 Bratislava - Vrakuňa, pénzbeli adomány összege: 3 000 euró",
+        "text20": "RNDr. Ferdinand Búci, Hrobákova 9, 851 02 Bratislava, pénzbeli adomány összege: 3 000 euró",
+        "text21": "Ing. Martin Halás, Baltská 33, 821 07 Bratislava, pénzbeli adomány összege: 3 000 euró",
+        "text22": "JUDr. Ester Tvrdoň Flóra, Bratislavská 53/31, 900 21 Svätý Jur, pénzbeli adomány összege: 3 000 euró",
+        "text23": "Empire Services s.r.o., Trnavská 6/c, 821 08 Bratislava, Azonosítószám: 35 835 346, pénzbeli adomány összege: 2 000 euró.",
+        "text24": "4. A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt a 2019-es naptári évben más ingyenes előnyöket is kapott, amelyek értéke meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt az elfogadás időpontjában Mgr. Ivan Weiss, Mikulášska 7015/25, 811 01 Bratislava-tól, 8 031 eurós összegben (az ingyenes előny értéke) az érdektelen kamatok értékére egy kamatmentes kölcsönszerződés keretében (az ingyenes előny tárgya).",
+        "text25": "Információk közzétéve: 2020. március 18.",
+        "text26": "1. Információk a támogatói lista alapján a Szlovák Köztársaság Országgyűlésének 85/2005. évi törvényének 23. § (4) bekezdése értelmében:",
+        "text27": "a.) A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt a 2018-as naptári évben nem kapott olyan hozzájárulást, amelyet egyének adtak tevékenységéhez pénzügyi támogatásként vagy tagsági hozzájárulásként, amelynek összege meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt az elfogadás időpontjában.",
+        "text28": "a.) A 99% - Civic Voice nevű politikai párt, b.) A 99% - Civic Voice nevű politikai párt, székhelye: Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt a 2018-as naptári évben más ingyenes előnyöket is kapott, amelyek értéke meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt az elfogadás időpontjában, Klariská 330/1, 811 03 Bratislava, Azonosítószám: 42257441, bejegyezve a Szlovák Köztársaság Belügyminisztériuma által vezetett Politikai Pártok Nyilvántartásában 2011. december 6-án, az OVVS 3 - 2011/029916 szám alatt nem kapott hozzájárulást olyan egyénektől, akik pénzbeli adományt vagy tagsági hozzájárulást nyújtottak tevékenységéhez, amelynek összege meghaladta a kétszeres minimálbér összegét, amely a foglalkoztatott havi fizetésére alkalmazott minimálbér volt az elfogadás időpontjában.",
+        "text29": "Mgr. Ivan Weiss-től, Mikulášska 7015/25, 811 01 Bratislava-tól, 8 031 eurós összegben (az ingyenes előny értéke) az érdektelen kamatok értékére egy kamatmentes kölcsönszerződés keretében (az ingyenes előny tárgya).",
+        "text30": "Információk közzétéve: 2019. március 29.",
+        "text31": "2. Jelentés az előválasztási kampányban felhasznált forrásokról",
+        "text32": "Jelentés az előválasztási kampányban felhasznált forrásokról - az önkormányzati testületek választásai 2018-ban",
+        "text33": "Jelentés a politikai párt választási kampányában felhasznált forrásokról az önkormányzati testületek választásaihoz a 2022-es évben",
+        "docText": {
+            "text1": "3. Információk a támogatói lista alapján a Szlovák Köztársaság Országgyűlésének 85/2005. évi törvényének 23. § (4) bekezdése értelmében:",
+            "text2": "2016 első negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text3": "Információk közzétéve: 2016. április 30.",
+            "text4": "2016 második negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text5": "Információk közzétéve: 2016. július 30.",
+            "text6": "2016 harmadik negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text7": "Információk közzétéve: 2016. október 30.",
+            "text8": "2016 negyedik negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text9": "Információk közzétéve: 2017. január 26.",
+            "text10": "2017 első negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text11": "Információk közzétéve: 2017. április 28.",
+            "text12": "2017 második negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text13": "Információk közzétéve: 2017. július 27.",
+            "text14": "2017 harmadik negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text15": "Információk közzétéve: 2017. október 26.",
+            "text16": "2017 negyedik negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text17": "Információk közzétéve: 2018. január 26.",
+            "text18": "2018 első negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text19": "Információk közzétéve: 2018. április 25.",
+            "text20": "2018 második negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text21": "Információk közzétéve: 2018. július 25.",
+            "text22": "2018 harmadik negyedévében a 99% - Civic Voice politikai párt nem kapott ajándékot, és nem számolt el kapott ajándékokkal.",
+            "text23": "Információk közzétéve: 2018. október 29.",
+            "text24": "A támogatói lista utolsó frissítése: 2018. október 29."
+        }
+    },
+    "articles": {
+        "readMoreHeading": "További információk"
+    },
+    "article": {
+        "readMoreHeading": "További információk",
+        "readMoreHeadingBtn": "További információk",
+        "addedBy": "Hozzáadta",
+        "onDay": "nap",
+        "resource": "Forrás",
+        "fixedBy": "Módosította",
+        "home": "Kezdőlap"
+    }
+}

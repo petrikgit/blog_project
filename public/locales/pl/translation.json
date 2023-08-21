@@ -1,0 +1,688 @@
+{
+    "header": {
+        "todayIs": "Dzisiaj jest",
+        "namedayHas": "imieniny ma",
+        "blog": "Blog",
+        "aboutUs": "O nas",
+        "electoralProgram": "Program wyborczy",
+        "contact": "Kontakt",
+        "elections": "Wybory 2023",
+        "schoolUI": "Sztuczna inteligencja w edukacji",
+        "financeUI": "Sztuczna inteligencja w finansach publicznych",
+        "healthcareUI": "Sztuczna inteligencja w opiece zdrowotnej",
+        "sportUI": "Sztuczna inteligencja w sporcie"
+    },
+    "footer": {
+        "stranaSpravodlivost": "Partia polityczna Spravodlivosť",
+        "allRights": "Wszelkie prawa zastrzeżone.",
+        "privacy": "Prywatność",
+        "mandatory": "Obowiązkowe ujawnienie informacji"
+    },
+    "home": {
+        "heading": "SPRAWIEDLIWOŚĆ",
+        "findOutMore": "Dowiedz się więcej",
+        "text": "Witamy na stronie partii politycznej Sprawiedliwość - pierwszej partii politycznej na Słowacji, która wykorzystuje sztuczną inteligencję do osiągnięcia postępu i innowacji. Jesteśmy przekonani, że postęp nie może zostać zatrzymany, dlatego chcemy być przygotowani na nową erę. Sztuczna inteligencja może być potężnym narzędziem do poprawy naszego społeczeństwa, o ile będziemy gotowi. Dołącz do nas.",
+        "healthcare": {
+            "heading": "OCHRONA ZDROWIA",
+            "text": "Sztuczna inteligencja może znacząco przyczynić się do efektywności i precyzji diagnoz i leczenia. Algorytmy uczenia maszynowego mogą na przykład analizować ogromne ilości danych medycznych, identyfikować wzorce, które są niewidoczne dla ludzkiego oka, oraz przewidywać rozwój chorób lub reakcję na leczenie. Sztuczna inteligencja może również automatyzować zadania administracyjne, uwalniając czas lekarzom do skoncentrowania się na pacjentach."
+        },
+        "school": {
+            "heading": "EDUKACJA",
+            "text": "Sztuczna inteligencja może znacząco pomóc w personalizacji nauczania. Inteligentne systemy edukacyjne mogą dostosowywać treści i tempo nauczania do potrzeb i umiejętności każdego ucznia, identyfikować obszary, w których uczniowie potrzebują poprawy swoich umiejętności i dostarczać nauczycielom informacje zwrotne o postępach uczniów."
+        },
+        "finance": {
+            "heading": "FINANSE PUBLICZNE",
+            "text": "Sztuczna inteligencja umożliwia bardziej precyzyjne prognozowanie przychodów i wydatków dla bardziej efektywnego budżetowania. Wspiera transparentność poprzez wykrywanie oszustw i korupcji w transakcjach. Pomaga zoptymalizować wydatki i efektywniej alokować zasoby. Automatyzacja zadań administracyjnych uwalnia czas urzędnikom. Sztuczna inteligencja wspiera tym samym bardziej efektywne zarządzanie zasobami publicznymi i obsługę obywateli."
+        },
+        "anyQuestions": "Masz jakieś pytania?",
+        "faqTitle": "Najczęściej Zadawane Pytania",
+        "faq1": {
+            "heading": "Czym jest Partia Sprawiedliwości?",
+            "text": "Partia Sprawiedliwości to partia polityczna skupiająca się na postępie poprzez podejmowanie świadomych decyzji, etycznym wykorzystaniu sztucznej inteligencji, przejrzystości i obiektywności w komunikacji publicznej."
+        },
+        "faq2": {
+            "heading": "Czego chcecie dokonać?",
+            "text": "Chcemy poprawić opiekę zdrowotną, edukację i finanse publiczne poprzez skuteczne reformy i optymalne inwestycje dla postępu i lepszej przyszłości."
+        },
+        "faq3": {
+            "heading": "Jaki jest wasz program polityczny?",
+            "text": "Nasz program polityczny obejmuje poprawę opieki zdrowotnej, edukacji i finansów publicznych. Nacisk kładziony jest na przejrzystość, obiektywność i etyczne wykorzystanie sztucznej inteligencji dla podejmowania świadomych decyzji, dobrobytu i sprawiedliwości."
+        },
+        "faq4": {
+            "heading": "Jaki jest główny cel politycznej partii 'Justice'?",
+            "text": "Naszym głównym celem jest stworzenie przejrzystej i sprawnie zarządzanej Słowacji przy użyciu nowoczesnych technologii, konkretnie sztucznej inteligencji (SI), w obszarach edukacji, opieki zdrowotnej, finansów publicznych i sportu."
+        },
+        "faq5": {
+            "heading": "Dlaczego wybieracie korzystanie z sztucznej inteligencji w podejmowaniu decyzji?",
+            "text": "Sztuczna inteligencja oferuje szybsze, bardziej obiektywne i oparte na danych podejmowanie decyzji. Wierzymy, że jej użycie pozwoli nam zoptymalizować wykorzystanie zasobów publicznych, zmniejszyć marnotrawstwo i promować innowacje."
+        },
+        "faq6": {
+            "heading": "Jak radzicie sobie z faktem, że sztuczna inteligencja szybko się rozwija i może być trudna do kontrolowania?",
+            "text": "To prawda, że rozwój w dziedzinie sztucznej inteligencji jest niezwykle dynamiczny. Jako partia dążymy do tego, aby zawsze być krokiem do przodu, aby jak najlepiej wykorzystać nowe możliwości technologiczne, jednocześnie dbając o to, aby były zgodne z zasadami etycznymi i standardami. Bardzo ceni nasza współpracę z ekspertami ds. SI i zawsze jesteśmy otwarci na przyjęcie kolejnych profesjonalistów, którzy chcieliby współpracować z nami nad tym wyzwaniem."
+        },
+        "faq7": {
+            "heading": "Jakie są główne korzyści z wykorzystania sztucznej inteligencji w dziedzinie edukacji?",
+            "text": "SI może pomagać w personalizacji edukacji, identyfikacji potrzeb uczniów, optymalizacji programów nauczania i poprawie efektywności nauczania."
+        },
+        "faq8": {
+            "heading": "Jak sztuczna inteligencja może przyczynić się do poprawy opieki zdrowotnej?",
+            "text": "Sztuczna inteligencja może wspierać diagnozowanie chorób, optymalizować dystrybucję opieki zdrowotnej, identyfikować potrzeby pacjentów oraz zwiększać badania i rozwój w dziedzinie medycyny."
+        },
+        "faq9": {
+            "heading": "Jak planujecie wprowadzić innowacje w dziedzinie sportu przy pomocy sztucznej inteligencji?",
+            "text": "Planujemy wykorzystać SI do analizy osiągnięć sportowców, optymalizacji planów treningowych i poprawy organizacji wydarzeń sportowych dla obywateli."
+        },
+        "faq10": {
+            "heading": "W jaki sposób sztuczna inteligencja może pomóc w zarządzaniu finansami publicznymi?",
+            "text": "SI może identyfikować marnotrawienie środków, optymalizować wydatki budżetowe, przewidywać trendy finansowe oraz wzmacniać kontrolę nad zasobami publicznymi."
+        },
+        "faq11": {
+            "heading": "Jak mogę przyczynić się lub zaangażować się w działalność partii 'Justice'?",
+            "text": "Witamy wszystkich, którzy chcą zaangażować się i przyczynić się do naszej misji. Możesz skontaktować się z nami za pośrednictwem naszej strony internetowej lub mediów społecznościowych, aby dowiedzieć się więcej o aktualnych możliwościach współpracy."
+        },
+        "faq12": {
+            "heading": "Czy planujecie współpracować z międzynarodowymi ekspertami ds. sztucznej inteligencji?",
+            "text": "Oczywiście. Rozpoznajemy, że sztuczna inteligencja to dziedzina globalna, i chcielibyśmy wykorzystać najnowszą wiedzę i doświadczenia od międzynarodowych ekspertów. Jeśli jesteś ekspertem w dziedzinie SI albo znasz kogoś, kto mógłby być interesujący dla naszej współpracy, nie wahaj się się z nami skontaktować."
+        },
+        "services": {
+            "heading": "Sektor publiczny i AI"
+        },
+        "AI": {
+            "heading1": "Dlaczego ludzie nie powinni bać się AI?",
+            "heading2": "Czym jest AI?",
+            "heading3": "Jak AI może pomóc?",
+            "text1": "Ludzie nie powinni bać się AI, ponieważ jest to narzędzie, które może przynieść pozytywny wpływ na społeczeństwo. AI może poprawić efektywność, innowacje i rozwiązywanie skomplikowanych problemów. Ważne jednak jest zapewnienie etycznego i odpowiedzialnego wykorzystania tej technologii.",
+            "text2": "Sztuczna inteligencja (AI) to koncepcja technologiczna, w której maszyny i systemy symulują ludzką inteligencję, taką jak nauka, podejmowanie decyzji i rozwiązywanie problemów. Te systemy opierają się na algorytmach i danych do wykonywania zadań, które wymagałyby ludzkiej inteligencji. AI ma szeroki zakres od autonomicznych pojazdów po asystentów głosowych i diagnozowanie medyczne.",
+            "text3": "AI może pomóc w poprawie precyzji diagnoz medycznych poprzez analizę ogromnej ilości danych pacjentów i identyfikację wzorców. W dziedzinie finansów publicznych AI może analizować dane ekonomiczne i przewidywać rozwój, co pomaga w tworzeniu efektywnej polityki fiskalnej. W dziedzinie edukacji AI może personalizować programy nauczania i dostarczać nauczycielom narzędzia do lepszego śledzenia i poprawy osiągnięć uczniów."
+        }
+    },
+    "about": {
+        "heading": "O nas",
+        "text": "Witamy w rodzinie Justice!",
+        "text2": "Nasza partia została założona z jasnym celem - przynieść sprawiedliwość, przejrzystość i innowację do polskiej polityki. Cenimy sobie zasady demokracji, wolności i równości, i wierzymy, że poprzez wspólny wysiłek możemy stworzyć lepszą przyszłość dla każdego obywatela Polski.",
+        "text3": "Nasza wizja: Chcemy, aby Polska była miejscem, gdzie:",
+        "text4": "Każdy ma równą szansę osiągnąć swój potencjał, niezależnie od pochodzenia, wykształcenia czy statusu społecznego.",
+        "text5": "Finanse publiczne są sprawiedliwie i efektywnie rozdzielane.",
+        "text6": "Edukacja, sport, nauka i badania są kluczowymi filarami społeczeństwa.",
+        "text7": "Technologia i sztuczna inteligencja są wykorzystywane do poprawy życia obywateli i osiągnięcia zrównoważonego wzrostu.",
+        "text8": "Nasze wartości:",
+        "text9before": "Sprawiedliwość",
+        "text9": ": Wszystko, co robimy, jest kierowane przez etyczne i sprawiedliwe zasady.",
+        "text10": "Przejrzystość: Wierzymy w otwartość i uczciwość we wszystkich naszych działaniach.",
+        "text11before": "Przejrzystość",
+        "text11": ": Wierzymy w otwartość i uczciwość we wszystkich naszych działaniach.",
+        "text12before": "Innowacja",
+        "text12": ": Akceptujemy nowe pomysły i witamy postęp na korzyść społeczeństwa.",
+        "text13before": "Współpraca",
+        "text13": ": Szanujemy opinie i wsparcie każdego jednostki oraz współpracujemy ze wszystkimi warstwami społeczeństwa, aby osiągnąć wspólne cele.",
+        "text14": "Postęp jest nierozerwalnie związany z historią ludzkości - od odkrycia ognia, poprzez początki rolnictwa, powstanie piśmiennictwa, aż do rewolucji cyfrowej. Odzwierciedla nasze trwałe pragnienie wiedzy, innowacji i adaptacji.",
+        "text15": "Sztuczna inteligencja to nie tylko narzędzie technologiczne; to odzwierciedlenie naszej zdolności do tworzenia systemów, które mogą myśleć, uczyć się i rosnąć w sposób, o jakim wcześniej nie mogliśmy nawet marzyć. SI może pomóc nam w rozwiązaniu niektórych z najbardziej skomplikowanych problemów naszych czasów, począwszy od zmian klimatycznych, a skończywszy na wyzwaniach medycznych.",
+        "text16": "Nasze drogi postępu pokazują, że z każdą nową innowacją pojawiają się nowe możliwości i perspektywy. Sztuczna inteligencja nie jest tylko odzwierciedleniem naszych sukcesów technologicznych, ale także świadectwem naszego nieskończonego pragnienia poszerzania granic ludzkiej wiedzy i umiejętności. Zachęcamy was do bycia częścią tego ekscytującego okresu, podczas którego wspólnie odkrywamy i kształtujemy przyszłość w świecie, gdzie możliwości są nieograniczone."
+    },
+    "electoralProgram": {
+        "heading": "Program wyborczy",
+        "point1": {
+            "heading": "1. Usługi publiczne zarządzane sztuczną inteligencją:",
+            "text": "Wprowadzenie technologii AI w celu optymalizacji dostarczania usług publicznych, w tym opieki zdrowotnej, edukacji, transportu, zapewni sprawiedliwy dostęp i efektywne alokowanie zasobów."
+        },
+        "point2": {
+            "heading": "2. Decyzje oparte na danych:",
+            "text": "Wykorzystanie algorytmów AI i analizy danych do tworzenia polityk opartych na dowodach, co zapewni, że decyzje będą opierać się na dokładnych informacjach i transparentnych procesach."
+        },
+        "point3": {
+            "heading": "3. Opieka zdrowotna oparta na przewidywaniach:",
+            "text": "Wykorzystanie AI i modelowania przewidywań do identyfikacji ryzyka zdrowotnego i trendów, co umożliwi podejmowanie proaktywnych działań w celu zapobiegania wybuchowi chorób, poprawy zdrowia publicznego i efektywnego alokowania zasobów opieki zdrowotnej."
+        },
+        "point4": {
+            "heading": "4. Inteligentne planowanie infrastruktury:",
+            "text": "Wykorzystanie systemów napędzanych sztuczną inteligencją do planowania obszarów, zarządzania ruchem drogowym i rozwoju infrastruktury w celu zwiększenia efektywności, redukcji korków drogowych oraz wspierania zrównoważonego i zdrowego środowiska."
+        },
+        "point5": {
+            "heading": "5. Monitorowanie i ochrona środowiska naturalnego:",
+            "text": "Wprowadzenie systemów opartych na sztucznej inteligencji do monitorowania i analizy danych dotyczących środowiska naturalnego ułatwi skuteczne działania w walce z zanieczyszczeniem, ochronie ekosystemów i wspieraniu zrównoważonego rozwoju."
+        },
+        "point6": {
+            "heading": "6. Zaangażowanie obywateli i opinia publiczna: ",
+            "text": "Rozwijanie platform napędzanych sztuczną inteligencją, aby zaangażować obywateli, umożliwiając im udzielanie informacji zwrotnych w czasie rzeczywistym, uczestniczenie w procesach podejmowania decyzji i wspieranie inkluzywnego oraz odpowiedniego zarządzania."
+        },
+        "point7": {
+            "heading": "7. Etyczne wytyczne dotyczące sztucznej inteligencji: ",
+            "text": "Wprowadzenie jasnych wytycznych i przepisów dotyczących etycznego rozwoju i wdrażania technologii sztucznej inteligencji, które zapewnią prywatność, bezpieczeństwo i ochronę przed uprzedzeniami lub dyskryminacją algorytmiczną."
+        },
+        "point8": {
+            "heading": "8. Edukacja i podnoszenie kwalifikacji: ",
+            "text": "Wspieraj umiejętność korzystania z sztucznej inteligencji i zapewnij programy edukacyjne, aby obywatele i pracownicy państwowi zdobyli niezbędne umiejętności do zrozumienia i skutecznego zaangażowania się w systemy oparte na sztucznej inteligencji."
+        },
+        "point9": {
+            "heading": "9. Cyfrowa inkluzja: ",
+            "text": "Zmniejszenie przepaści cyfrowej poprzez zapewnienie dostępu do technologii AI i infrastruktury cyfrowej dla wszystkich obywateli, niezależnie od ich statusu społeczno-ekonomicznego, oraz wsparcie dla marginalizowanych społeczności."
+        },
+        "point10": {
+            "heading": "10. Partnerstwa oparte na współpracy: ",
+            "text": "Wspieranie współpracy między rządem, środowiskiem akademickim i przemysłem w celu wspierania innowacji, badań i rozwoju aplikacji AI dla zarządzania sprawami publicznymi, jednocześnie zapewniając odpowiedzialne i włączające praktyki."
+        },
+        "point11": {
+            "heading": "11. Optymalizacja finansowania sportu za pomocą sztucznej inteligencji:",
+            "text": "Jednym z kluczowych wyzwań sektora sportowego na Słowacji jest efektywne i transparentne podział finansów między różnymi dyscyplinami sportowymi, klubami i poszczególnymi sportowcami. Stworzymy model, który będzie zdolny do analizy osiągnięć sportowców, potrzeb poszczególnych dyscyplin, obecnych trendów i potencjału wzrostu. Ten model będzie także w stanie ocenić efektywność dotychczasowych inwestycji w sport, zidentyfikować obszary wymagające większego finansowania i zarekomendować najlepszy sposób alokacji środków."
+        },
+        "paragraph": "* Ważne jest zauważenie, że wdrażanie AI w zarządzaniu sprawami publicznymi powinno być wspierane przez solidne ramy prawne, silne mechanizmy zarządzania oraz ciągłe monitorowanie i ocenianie w celu rozwiązania potencjalnych ryzyk i zapewnienia, że technologia jest używana w sposób etyczny, przejrzysty i we wspólnym interesie wszystkich obywateli."
+    },
+    "educationUI": {
+        "title": "Sztuczna Inteligencja w Słowackim Systemie Edukacyjnym",
+        "heading1": "Wprowadzenie",
+        "text1": "Na naszej stronie, Sprawiedliwość, jesteśmy przekonani, że sztuczna inteligencja (AI) ma ogromny potencjał do transformacji systemu edukacyjnego na Słowacji. W XXI wieku, gdzie technologia szybko się rozwija, edukacja może osiągnąć wyższy poziom efektywności i innowacji dzięki takiemu wykorzystaniu. Podkreślamy etyczne wykorzystanie AI oraz jasno zdefiniowaliśmy ryzyka i możliwości związane z tą nową technologią.",
+        "heading2": "Obecny Stan Edukacji na Słowacji",
+        "text2": "Według międzynarodowych ocen, jakość słowackiego systemu edukacyjnego jest średnia do niższej:",
+        "text3": "PISA 2022: 43 miejsce spośród 79 krajów.",
+        "text4": "TIMSS 2019: 46 miejsce spośród 64 krajów.",
+        "text5": "PIRLS 2016: 44 miejsce spośród 50 krajów.",
+        "text6": "Powody do Reformy Edukacji:",
+        "text7": "Praktyczne możliwości wykorzystania AI w edukacji:",
+        "text8": {
+            "bold": "Personalizowana edukacja:",
+            "bulletText": "AI może analizować styl nauki i potrzeby każdego ucznia, aby dostarczyć mu dostosowane źródła edukacyjne i przykłady."
+        },
+        "text9": {
+            "bold": "Automatyczna ocena:",
+            "bulletText": "Szybka i obiektywna ocena prac uczniów oraz testów przy użyciu algorytmów AI."
+        },
+        "text10": {
+            "bold": "Wirtualne laboratoria i symulacje:",
+            "bulletText": "Uczniowie mogą przeprowadzać eksperymenty i modelować sytuacje w środowisku cyfrowym."
+        },
+        "text11": {
+            "bold": "Asystenci wspomagający nauczycieli:",
+            "bulletText": "Cyfrowi asystenci mogą pomagać nauczycielom w przygotowywaniu lekcji lub rozwiązywaniu zadań administracyjnych."
+        },
+        "text12": {
+            "bold": "Prognozowanie sukcesu uczniów:",
+            "bulletText": "AI może prognozować wyniki uczniów oraz identyfikować tych, którzy mogą potrzebować dodatkowej pomocy."
+        },
+        "heading3": "Zapropowaną Rozwiązania:",
+        "text13": {
+            "bold": "Etyczna regulacja:",
+            "bulletText": "Zabezpieczenie przejrzystości i odpowiedzialności przy wykorzystaniu AI. Stworzenie etycznych wytycznych dla szkół i programistów."
+        },
+        "text14": {
+            "bold": "Profesjonalne przygotowanie nauczycieli:",
+            "bulletText": "Organizowanie szkoleń dla nauczycieli z zakresu technologii oraz ich wykorzystania w procesie edukacyjnym."
+        },
+        "text15": {
+            "bold": "Zabezpieczenie danych:",
+            "bulletText": "Utworzenie standardów ochrony danych uczniów oraz ich bezpiecznego przechowywania."
+        },
+        "text16": {
+            "bold": "Integracja z planami państwowego systemu edukacji:",
+            "bulletText": "Wprowadzenie aplikacji opartych na AI do programów nauczania i dostosowanie ich do potrzeb słowackiego systemu edukacyjnego."
+        },
+        "heading4": "Finansowanie AI w Edukacji:",
+        "text17": "Wykorzystanie sztucznej inteligencji w edukacji może wiązać się z kosztami, ale z drugiej strony przynosi długoterminowe korzyści finansowe z uwagi na oszczędności i efektywność. Oto nasze propozycje dotyczące zabezpieczenia środków finansowych i potencjalnych oszczędności:",
+        "text18": {
+            "bold": "Przeredagowanie budżetu:",
+            "bulletText": "Z rewizji obecnego budżetu edukacyjnego możemy przekierować około 5% niepotrzebnych wydatków na implementację technologii opartych na AI. Mogłoby to wynosić około 25 milionów euro rocznie."
+        },
+        "text19": {
+            "bold": "Oszczędności z automatyzacji administracji:",
+            "bulletText": "Dzięki wykorzystaniu AI możemy zmniejszyć koszty administracyjne o około 15%. Przy obecnym budżecie administracji wynoszącym 50 milionów euro, oznaczałoby to oszczędność w wysokości 7,5 miliona euro rocznie."
+        },
+        "text20": {
+            "bold": "Partnerstwa z firmami technologicznymi:",
+            "bulletText": "Rozpoczęcie partnerstw z firmami technologicznymi, które mogłyby oferować sponsoring lub wsparcie techniczne w zamian za przestrzeń reklamową lub badania. Oczekujemy dochodów w wysokości około 10 milionów euro rocznie."
+        },
+        "text21": {
+            "bold": "Dotacje z UE:",
+            "bulletText": "Ze względu na znaczenie technologii i innowacji w edukacji, możemy starać się o dotacje z Unii Europejskiej. Szacowana suma dotacji może wynieść do 15 milionów euro w ciągu kolejnych 5 lat."
+        },
+        "text22": {
+            "bold": "Oszczędności z edukacji cyfrowej:",
+            "bulletText": "Dzięki cyfrowym podręcznikom i materiałom możemy zmniejszyć koszty materiałów drukowanych o około 20%. Oznaczałoby to oszczędność w wysokości około 3 milionów euro rocznie."
+        },
+        "text23": "Ogólne przewidywane finansowanie i oszczędności:",
+        "text24": "Przeredagowanie budżetu: +25 mln euro",
+        "text25": "Oszczędności z administracji: +7,5 mln euro",
+        "text26": "Partnerstwa: +10 mln euro",
+        "text27": "Dotacje z UE: +15 mln euro (w ciągu 5 lat)",
+        "text28": "Oszczędności na materiałach drukowanych: +3 mln euro",
+        "text29": {
+            "bold": "Razem:",
+            "text": "Ok. 60,5 mln euro na pierwszy rok (z stopniowym wzrostem dotacji UE w kolejnych latach)."
+        },
+        "text30": "Dzięki tym źródłom finansowym i oszczędnościom wierzymy, że możemy skutecznie zintegrować AI w naszym systemie edukacyjnym i przynieść nowoczesne i skuteczne rozwiązania dla wszystkich uczniów na Słowacji.",
+        "text31": "Ryzyka i Możliwości:",
+        "text32": {
+            "bold": "Ryzyka:",
+            "bulletText1": "Możliwe niewłaściwe wykorzystanie danych uczniów.",
+            "bulletText2": "Nadmierna zależność od technologii kosztem ludzkiego czynnika.",
+            "bulletText3": "Potencjalna utrata miejsc pracy w dziedzinie edukacji."
+        },
+        "text33": {
+            "bold": "Możliwości:",
+            "bulletText1": "Modernizacja systemu edukacyjnego.",
+            "bulletText2": "Efektywniejsze wykorzystanie zasobów.",
+            "bulletText3": "Poprawa jakości edukacji i dostosowanie się do indywidualnych potrzeb uczniów."
+        },
+        "text34": "Wierzymy, że odpowiednie wykorzystanie sztucznej inteligencji pozwoli nam osiągnąć system edukacyjny, który lepiej odpowie na potrzeby uczniów i przygotuje ich do wyzwań XXI wieku. Nasza partia, Sprawiedliwość, zobowiązuje się do pracy w sposób transparentny i z naciskiem na zasady etyczne podczas wprowadzania tych technologii."
+    },
+    "healthUI": {
+        "title": "Sztuczna Inteligencja w Ochronie Zdrowia",
+        "heading1": "Wprowadzenie",
+        "text1": "W partii Sprawiedliwość wierzymy, że sztuczna inteligencja (AI) może przynieść rewolucję w dziedzinie ochrony zdrowia. Nasza wizja to system opieki zdrowotnej, który jest bardziej przejrzysty, bardziej efektywny i bardziej dostosowany do potrzeb obywateli. Jednak z dużym potencjałem wiążą się również wyzwania i ryzyka. W tej sekcji przedstawimy przegląd tego, jak widzimy przyszłość ochrony zdrowia z udziałem AI, jakie są możliwości, zagrożenia i nasze propozycje rozwiązań.",
+        "heading2": "Praktyczne możliwości wykorzystania AI w ochronie zdrowia:",
+        "text2": {
+            "bold": "Diagnoza i leczenie",
+            "text": ": Sztuczna inteligencja może analizować dane kliniczne pacjentów szybciej i dokładniej, pomagając lekarzom w diagnozowaniu oraz wyborze najlepszego leczenia."
+        },
+        "text3": {
+            "bold": "Medycyna personalizowana",
+            "text": ": Na podstawie informacji genetycznych AI może proponować spersonalizowane leczenie dla każdego pacjenta."
+        },
+        "text4": {
+            "bold": "Optymalizacja funkcjonowania szpitali",
+            "text": ": Dzięki AI możemy lepiej zarządzać zapasami, personelem i wyposażeniem szpitali, co pozwala zmniejszyć koszty i skrócić czas oczekiwania pacjentów."
+        },
+        "text5": {
+            "bold": "Wirtualni asystenci zdrowotni",
+            "text": ": Pacjenci mogą mieć dostęp do wirtualnych asystentów zdrowotnych, którzy udzielą porad dotyczących leczenia, leków lub stylu życia."
+        },
+        "text6": {
+            "bold": "Wysoka precyzja diagnozy",
+            "text": ": AI może identyfikować choroby z większą precyzją niż lekarze ludzcy, na przykład rak piersi z precyzją 99%."
+        },
+        "text7": {
+            "bold": "Oszczędności kosztów",
+            "text": ": Szacuje się, że do 2030 roku AI może zmniejszyć koszty opieki zdrowotnej na Słowacji nawet o 1 miliard euro rocznie."
+        },
+        "text8": {
+            "bold": "Redukcja Administracji",
+            "text": ": Automatyzacja zadań może zmniejszyć obciążenie administracyjne lekarzy nawet o 50%."
+        },
+        "heading3": "Ryzyka i Wyzwania:",
+        "text9": {
+            "bold": "Ochrona Danych",
+            "text": ": Zabezpieczenie wrażliwych informacji zdrowotnych jest kluczowe. Musimy zagwarantować, że te dane nie zostaną wykorzystane ani nie zostaną naruszone."
+        },
+        "text10": {
+            "bold": "Zależność od Technologii",
+            "text": ": Nie możemy całkowicie polegać na AI kosztem ludzkiej oceny i interakcji."
+        },
+        "text11": {
+            "bold": "Dylematy Etyczne",
+            "text": ": AI może stwarzać pytania dotyczące moralności i etyki, na przykład w dziedzinie inżynierii genetycznej."
+        },
+        "heading4": "Nasze Propozycje Rozwiązań:",
+        "text12": {
+            "bold": "Utworzenie Ram Regulacyjnych",
+            "text": ": Będziemy aktywnie pracować nad stworzeniem ustawodawstwa, które zapewni, że wykorzystanie AI w ochronie zdrowia będzie bezpieczne, przejrzyste i etyczne."
+        },
+        "text13": {
+            "bold": "Współpraca z Ekspertami",
+            "text": ": Będziemy współpracować z lekarzami, naukowcami i innymi ekspertami, aby zapewnić, że technologia jest zgodna z praktyką medyczną."
+        },
+        "text14": {
+            "bold": "Edukacja i Oświata",
+            "text": ": Informujemy społeczeństwo o korzyściach i ryzykach sztucznej inteligencji w dziedzinie opieki zdrowotnej oraz wspieramy edukację personelu medycznego w zakresie nowych technologii."
+        },
+        "heading5": "Finansowanie i Efektywne Wykorzystanie Środków:",
+        "text15": "Sztuczna inteligencja oferuje nie tylko korzyści kliniczne, ale także możliwości poprawy efektywności finansowej w ochronie zdrowia. Niżej przedstawiamy, jak planujemy finansować rozwój i wdrożenie rozwiązań opartych na SI oraz gdzie widzimy szanse na oszczędności.",
+        "text16": {
+            "heading": "Źródła finansowania:",
+            "bold1": "Z funduszy UE",
+            "text1": ": Na podstawie naszych badań istnieje kilka europejskich dotacji skierowanych na innowacje w dziedzinie opieki zdrowotnej, z których moglibyśmy pozyskać nawet 15 milionów EUR.",
+            "bold2": "Partnerstwo z sektorem prywatnym",
+            "text2": ": Poprzez współpracę z firmami technologicznymi i laboratoriami badawczymi moglibyśmy pozyskać współfinansowanie projektów. Przewidujemy sumę około 10 milionów EUR na przyszłe trzy lata.",
+            "bold3": "Narodowe dotacje na badania i rozwój",
+            "text3": ": Z tych źródeł szacujemy pozyskanie 5 milionów EUR."
+        },
+        "text17": {
+            "heading": "Oczekiwane oszczędności i efektywność:",
+            "bold1": "Optymalizacja działania szpitali",
+            "text1": ": Dzięki wdrożeniu SI w zarządzaniu zasobami szpitalnymi przewidujemy oszczędności w wysokości 8 milionów EUR przez trzy lata, dzięki zmniejszeniu marnotrawstwa i efektywniejszemu wykorzystaniu zasobów.",
+            "bold2": "Efektywność diagnoz",
+            "text2": ": Dzięki szybszym i dokładniejszym diagnozom możemy skrócić czas hospitalizacji oraz zmniejszyć koszty związane z nadmiernymi testami, co mogłoby prowadzić do oszczędności w wysokości około 5 milionów EUR rocznie.",
+            "bold3": "Medycyna personalizowana",
+            "text3": ": Celowane leczenie na podstawie informacji genetycznych może zmniejszyć potrzebę drogich leków i procedur. Szacowana oszczędność w tym obszarze wynosi 4 miliony EUR rocznie."
+        },
+        "text18": "Całkowite oczekiwane oszczędności przez trzy lata mogą wynosić około 50 milionów EUR. Te oszczędności mogłyby zostać następnie reinwestowane w system opieki zdrowotnej, dalsze badania i innowacje, a przede wszystkim w poprawę opieki nad pacjentami.",
+        "text19": "W ramach Partii Sprawiedliwości zobowiązujemy się do przejrzystego i odpowiedzialnego wykorzystania środków publicznych. Dzięki wsparciu sztucznej inteligencji widzimy realną szansę dla Słowacji na przywództwo w innowacjach w dziedzinie opieki zdrowotnej, jednocześnie skutecznie zarządzając i wykorzystując zasoby finansowe na korzyść wszystkich obywateli."
+    },
+    "financeUI": {
+        "title": "Sztuczna Inteligencja w Finansach Publicznych",
+        "text1": "Witaj w sekcji poświęconej rewolucyjnej dziedzinie sztucznej inteligencji (SI) i jej potencjału w zarządzaniu finansami publicznymi. Partia Sprawiedliwość opowiada się za przejrzystością, efektywnością i lepszym życiem dla wszystkich obywateli. W tej sekcji dowiesz się, w jaki sposób SI może nam pomóc w osiągnięciu tych celów.",
+        "heading1": "Praktyczne Zastosowania SI:",
+        "text2": {
+            "bold": "Analiza Predykcyjna",
+            "text": ": SI może przewidywać przyszłe wydatki i wpływy budżetu państwa na podstawie historii i obecnych trendów, umożliwiając lepsze planowanie i alokację zasobów."
+        },
+        "text3": {
+            "bold": "Wykrywanie Nadużyć",
+            "text": ": SI może skanować i analizować tysiące transakcji na sekundę, wykrywając nietypowe wzorce lub podejrzane działania, co pomaga chronić środki publiczne."
+        },
+        "text4": {
+            "bold": "Optymalizacja Budżetu",
+            "text": ": Za pomocą algorytmów możemy zoptymalizować alokacje budżetowe, aby zaspokajały potrzeby obywateli i zapewniały najwyższą wartość za zainwestowane środki."
+        },
+        "text5": {
+            "bold": "Zautomatyzowane Zarządzanie",
+            "text": ": Wiele rutynowych i czasochłonnych zadań może być zautomatyzowanych, co obniża koszty i zwiększa efektywność."
+        },
+        "heading2": "Propozycje Rozwiązań:",
+        "text6": {
+            "bold": "Przejrzystość i Nadzór",
+            "text": ": Stworzymy platformę, na której obywatele będą mogli śledzić w czasie rzeczywistym, w jaki sposób wykorzystywane są środki publiczne, i udzielać opinii zwrotnej."
+        },
+        "text7": {
+            "bold": "Etyczne Wykorzystanie SI",
+            "text": ": Wprowadzamy ścisłe wytyczne etyczne dotyczące wykorzystania SI w finansach publicznych w celu ochrony danych osobowych obywateli i zapewnienia sprawiedliwości."
+        },
+        "text8": {
+            "bold": "Edukacja",
+            "text": ": Inwestujemy w szkolenia i programy edukacyjne dla urzędników, aby zrozumieli SI i umieli ją skutecznie wykorzystywać."
+        },
+        "text9": {
+            "bold": "Współpraca z Ekspertami",
+            "text": ": Będziemy współpracować z naukowcami i ekspertami ds. SI, aby zapewnić, że nasze rozwiązania pozostają na czele postępu technologicznego."
+        },
+        "heading3": "Finansowanie i Efektywność Dzięki SI",
+        "text10": "Jednym z głównych celów wykorzystania sztucznej inteligencji w finansach publicznych jest osiągnięcie bardziej efektywnego wykorzystania i alokacji zasobów. Poniżej skupiamy się na konkretnych obszarach, w których wierzymy, że dzięki SI można osiągnąć znaczne oszczędności lub zwiększyć wpływy.",
+        "text11": "Możliwości oszczędności:",
+        "text12": {
+            "bold": "Automatyzacja rutynowych zadań",
+            "text": ": Poprzez redukcję pracy manualnej możemy oszczędzić około 15% kosztów administracyjnych, co mogłoby przynieść oszczędności do 50 milionów EUR rocznie."
+        },
+        "text13": {
+            "bold": "Wykrywanie oszustw i nielegalnych transakcji",
+            "text": ": Szacujemy, że za pomocą zaawansowanych algorytmów wykrywania oszustw możemy zmniejszyć oszustwa nawet o 20%. To mogłoby umożliwić zwrot do państwowej kasy nawet 100 milionów EUR rocznie."
+        },
+        "text14": {
+            "bold": "Optymalizacja zamówień publicznych",
+            "text": ": SI może pomóc zidentyfikować przeszacowane zamówienia i usprawnić proces zamówień publicznych, co mogłoby potencjalnie zaoszczędzić setki milionów EUR."
+        },
+        "text15": "Możliwości zwiększenia dochodów:",
+        "text16": {
+            "bold": "Analiza predykcyjna dochodów podatkowych",
+            "text": ": Dzięki SI możemy lepiej przewidywać dochody podatkowe i dostosowywać się do fluktuacji gospodarczych. To mogłoby zwiększyć efektywność poboru podatków i przyczynić się do wzrostu dochodów o 5%, co mogłoby stanowić zwiększenie dochodów o 200 milionów EUR rocznie."
+        },
+        "text17": {
+            "bold": "Zautomatyzowane monitorowanie niepłacących podatków",
+            "text": ": SI może pomóc zidentyfikować firmy i jednostki, które unikają opodatkowania, co potencjalnie mogłoby przynieść dodatkowe 50 milionów EUR rocznie."
+        },
+        "text18": "W sumie, dzięki korzyściom i możliwościom oferowanym przez sztuczną inteligencję, szacujemy, że możemy osiągnąć oszczędności i zwiększyć dochody nawet o 400 milionów EUR rocznie. Te środki mogłyby następnie zostać reinwestowane w kluczowe obszary, takie jak edukacja, ochrona zdrowia i sport, dla poprawy życia wszystkich obywateli.",
+        "heading4": "Ryzyko i możliwości:",
+        "text19": "Podczas wykorzystywania SI w finansach publicznych ważne jest rozpoznanie ryzyk i możliwości. Chociaż technologia oferuje ogromne możliwości zwiększenia efektywności i przejrzystości, musimy być czujni na możliwe nadużycia, uprzedzenia w algorytmach lub niewłaściwą interpretację danych. Naszym celem jest połączenie mocnych stron SI z zasadami etycznymi i aktywnym zaangażowaniem obywateli, aby wspólnie stworzyć silny i sprawiedliwy system zarządzania finansami publicznymi.",
+        "text20": "Dołącz do nas w naszych wysiłkach na rzecz bardziej przejrzystej i efektywnej Słowacji za pomocą sztucznej inteligencji."
+    },
+    "sportUI": {
+        "title": "Sztuczna Inteligencja w Sporcie",
+        "heading1": "Wstęp",
+        "text1": "W partii Sprawiedliwość wierzymy, że sztuczna inteligencja (AI) ma ogromny potencjał do poprawy wielu obszarów naszego życia społecznego. Mówiąc o sporcie, ta technologia może pomóc nam optymalizować programy treningowe, analizować wydajność sportowców oraz poprawić zdrowie i bezpieczeństwo uczestników. Wszystko to opieramy na solidnych zasadach etycznych i dążymy do przejrzystości we wszystkich naszych działaniach.",
+        "heading2": "Praktyczne Możliwości Wykorzystania AI w Sporcie:",
+        "text2": {
+            "bold": "Analiza Wydajności",
+            "text": ": Przy użyciu AI można dokładnie analizować ruch, technikę i wytrzymałość sportowców. Na podstawie tych danych możemy dostosować plany treningowe, aby maksymalizować ich potencjał."
+        },
+        "text3": {
+            "bold": "Spersonalizowane Programy Treningowe",
+            "text": ": AI może analizować unikalne cechy fizyczne i umiejętności każdego sportowca, co umożliwia tworzenie spersonalizowanych programów treningowych."
+        },
+        "text4": {
+            "bold": "Urazy i Zapobieganie Im",
+            "text": ": AI może pomóc przewidzieć ryzyko urazów poprzez analizę danych sportowca i rutyn treningowych, umożliwiając trenerom i lekarzom dostosowanie procedur i minimalizowanie ryzyka urazów."
+        },
+        "text5": {
+            "bold": "Interaktywne Decyzje",
+            "text": ": Wykorzystanie AI może pomóc sędziom w dokładniejszym podejmowaniu decyzji w kontrowersyjnych sytuacjach, np. w piłce nożnej, hokeju lub tenisie."
+        },
+        "heading3": "Propozycje Rozwiązań:",
+        "text6": {
+            "bold": "Przejrzystość w Używaniu Danych",
+            "text": ": Zobowiązujemy się do przetwarzania wszystkich danych uzyskanych od sportowców z maksymalnym szacunkiem dla prywatności i bezpieczeństwa."
+        },
+        "text7": {
+            "bold": "Programy Edukacyjne",
+            "text": ": Zabezpečíme, že tréneri, športovci a všetci zainteresovaní budú mať prístup k vzdelávaniu o tom, ako UI funguje a ako ju môžu využiť vo svoj prospech."
+        },
+        "text8": {
+            "bold": "Etyczne Wykorzystanie AI",
+            "text": ": Przy opracowywaniu i wdrażaniu rozwiązań opartych na sztucznej inteligencji będziemy ściśle przestrzegać norm i zasad etycznych."
+        },
+        "text9": {
+            "bold": "Współpraca z Społecznością",
+            "text": ": Aktywnie będziemy słuchać opinii społeczności sportowych oraz ekspertów ds. sztucznej inteligencji, aby zagwarantować, że nasze rozwiązania są zgodne z rzeczywistymi potrzebami i interesami."
+        },
+        "heading4": "Konkretne Rozwiązanie Finansowania",
+        "text10": {
+            "bold": "Utworzenie Funduszu Sportowego opartego na AI",
+            "text": ": Fundusz byłby zasilany środkami z źródeł publicznych, umów sponsorskich i innych wpływów. Następnie AI analizowałoby, które dyscypliny sportowe i sportowcy mają największy potencjał na arenie międzynarodowej oraz gdzie inwestycje przyniosłyby zwrot w postaci sukcesów i pozytywnego wizerunku Słowacji. W ten sposób zapewnilibyśmy, że środki trafiają tam, gdzie mają największy wpływ."
+        },
+        "text11": {
+            "bold": "Przekierowanie Części Dochodów z Gier Hazardowych",
+            "text": ": Wprowadzenie przepisów prawnych, które przekierowałyby część dochodów z państwowych loterii i innych gier hazardowych bezpośrednio do Funduszu Sportowego. Ten model jest skutecznie wykorzystywany w wielu krajach."
+        },
+        "text12": {
+            "bold": "Loteria Sportowa",
+            "text": ": Utworzenie specjalnej loterii sportowej, z której wpływy trafiałyby bezpośrednio na wsparcie sportu."
+        },
+        "text13": {
+            "bold": "Podwyższenie Podatków od Alkoholu i Tytoniu",
+            "text": ": Niewielkie podwyższenie podatku akcyzowego od produktów związanych z niezdrowym stylem życia, takich jak alkohol i wyroby tytoniowe. Te dodatkowe wpływy byłyby bezpośrednio przeznaczone na budżet wsparcia sportu i zdrowego stylu życia."
+        },
+        "text14": {
+            "bold": "Partnerstwo z Sektor Prywatny",
+            "text": ": Aktywacja partnerstw z sektorem prywatnym poprzez sponsoring, reklamę i prawa komercyjne związane z dużymi wydarzeniami sportowymi."
+        },
+        "text15": {
+            "bold": "Opłaty Ekologiczne",
+            "text": ": Część opłat ekologicznych, które firmy płacą za produkcję odpadów lub zanieczyszczenie, mogłaby być przeznaczona na wsparcie aktywności sportowych, przyczyniających się do zdrowszego stylu życia i tym samym lepszego środowiska."
+        },
+        "text16": {
+            "bold": "Podatek Turystyczny",
+            "text": ": Część dochodów z podatku turystycznego mogłaby być przeznaczona na wsparcie infrastruktury sportowej przyciągającej więcej turystów, takiej jak trasy rowerowe, ścieżki turystyczne, obiekty sportowe itp."
+        },
+        "heading5": "Podsumowanie",
+        "text17": "W partii Sprawiedliwość dostrzegamy niezliczone możliwości, jakie sztuczna inteligencja może przynieść sektorowi sportowemu. Jednocześnie jesteśmy świadomi ryzyka i dążymy do pracy transparentnej i etycznej, aby z maksymalizować korzyści i zminimalizować potencjalne niekorzystne skutki. Wierzymy, że właściwe wykorzystanie AI w sporcie, prowadzone zgodnie z zasadami, może przyczynić się do lepszego i zdrowszego środowiska sportowego dla wszystkich obywateli Słowacji."
+    },
+    "contact": {
+        "heading": "Skontaktuj się z nami",
+        "street": "Tomášikova 3/A, 821 01 Bratysława-Ružinov",
+        "text": "SPRAVODLIVOSŤ, polityczna partia zarejestrowana w Ministerstwie Spraw Wewnętrznych Republiki Słowackiej pod numerem rejestracyjnym OVVS 3 – 2011/029916, siedziba: Tomášikova 3/A, 821 01 Bratysława-Ružinov, Republika Słowacka, Numer identyfikacji (IČO): 42 257 441, Numer identyfikacji podatkowej (DIČ): 2820011898, połączenie bankowe: Tatra banka, a.s., numer konta: SK68 1100 0000 0029 2086 6869, email: spravodlivost.politicka.strana@gmail.com"
+    },
+    "privacy": {
+        "heading": "PRYWATNOŚĆ",
+        "whatFor": {
+            "heading": "Do czego służą te informacje?",
+            "text": "Te informacje dotyczące przetwarzania i ochrony Twoich danych osobowych wyjaśniają, kim jesteśmy, dlaczego i w jaki sposób przetwarzamy dane osobowe, jakie prawa przysługują Ci w przypadku, gdy jesteś osobą dotkniętą tym przetwarzaniem, oraz jak możesz się z nami skontaktować w razie potrzeby."
+        },
+        "whoAreWe": {
+            "heading": "Kim jesteśmy?",
+            "text": "Jesteśmy partią polityczną SPRAVODLIVOSŤ, mającą siedzibę przy ul. Tomášikova 3/A, 821 01 Bratysława-Ružinov, Republika Słowacka, Numer identyfikacji (IČO): 42 257 441, zarejestrowaną w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej pod numerem OVVS 3 – 2011/029916. Jesteśmy tzw. 'administratorem danych', uprawnionym do przetwarzania Twoich danych osobowych zgodnie z obowiązującymi przepisami, w szczególności Ustawą nr 18/2018 Coll. w sprawie ochrony danych osobowych, oraz niniejszymi informacjami. Przetwarzamy Twoje dane osobowe zgodnie z obowiązującymi przepisami prawnymi. Nasze dane kontaktowe to: [podaj dane kontaktowe].",
+            "text2": "SPRAVODLIVOSŤ, partia polityczna zarejestrowana w Ministerstwie Spraw Wewnętrznych Republiki Słowackiej pod numerem rejestracyjnym OVVS 3 – 2011/029916.",
+            "text3": "Adres: Tomášikova 3/A, 821 01 Bratysława-Ružinov, Republika Słowacka",
+            "text4": "IČO: 42 257 441",
+            "text5": "DIČ: 2820011898",
+            "text6": "Połączenie bankowe: Tatra banka, a.s.",
+            "text7": "Numer konta: SK68 1100 0000 0029 2086 6869",
+            "text8": "Email: spravodlivost.politicka.strana@gmail.com"
+        },
+        "when": {
+            "heading": "Kiedy przetwarzamy Twoje dane osobowe?",
+            "text": "Możemy przetwarzać Twoje dane osobowe w następujących przypadkach:",
+            "list": {
+                "item1": "Zarejestrowałeś się na naszych stronach internetowych.",
+                "item2": "Zasubskrybowałeś otrzymywanie naszych biuletynów w formie newslettera.",
+                "item3": "Brałeś udział w naszych wydarzeniach.",
+                "item4": "Podpisałeś nasze petycje lub listy poparcia dla utworzenia ruchu.",
+                "item5": "Zostałeś lub jesteś zainteresowany zostaniem naszym członkiem, wolontariuszem lub donatorem.",
+                "item6": "Komentujesz, 'lubisz' lub podejmujesz inne interakcje z naszymi treściami na naszych stronach internetowych lub profilach na portalach społecznościowych, w tym osobistych profilach naszych liderów wyborczych."
+            },
+            "text2": "We wszystkich tych przypadkach mogliśmy uzyskać Twoje dane osobowe bezpośrednio od Ciebie, na przykład za pośrednictwem naszej strony internetowej, naszych kont w mediach społecznościowych, poprzez wypełnienie osobistego kwestionariusza lub w innych okolicznościach."
+        },
+        "whatKind": {
+            "heading": "Jak przetwarzamy Twoje dane osobowe?",
+            "text": "Głównie przetwarzamy dane osobowe obejmujące:",
+            "list": {
+                "item1": "Twoje imię i nazwisko;",
+                "item2": "Twój data urodzenia i narodowość, jeśli zostałeś naszym członkiem lub jesteś zainteresowany zostaniem nim;",
+                "item3": "Twoje dane kontaktowe, w tym stały adres zamieszkania, numer telefonu, adres e-mail, konta w mediach społecznościowych i inne dane kontaktowe osobiste lub związane z pracą.",
+                "item4": "Dane związane z wyrażaniem sympatii, komentarzami lub innymi interakcjami z treściami na naszych profilach w mediach społecznościowych (tzw. fanpage) lub na naszych stronach internetowych."
+            },
+            "heading2": "Informacje uzyskane w wyniku wzajemnej komunikacji",
+            "text2": "Oprócz danych osobowych możemy uzyskać i przetwarzać również inne dane i informacje, które nam przekazujesz lub wynikają z naszej wzajemnej komunikacji za pośrednictwem telefonu, e-maila, naszej strony internetowej, portali społecznościowych lub innych środków komunikacji."
+        },
+        "information": {
+            "heading": "Informacje uzyskane z wykorzystaniem plików cookie.",
+            "text1": "Nasza strona internetowa wykorzystuje tzw. pliki cookie. Pliki cookie to niewielkie pliki tekstowe przechowywane na Twoim komputerze, które mogą być zapisywane przez przeglądarkę internetową w celu identyfikacji Twojego urządzenia i poprawy technicznej funkcjonowania naszej strony oraz uzyskania danych statystycznych i analitycznych. Wykorzystywane przez nas pliki cookie nie pozwalają na utożsamienie konkretnej osoby, a dane uzyskiwane z plików cookie są zazwyczaj zbierane w formie zagregowanej.",
+            "text2": "Zgoda na pliki cookie nie jest koniecznym wymogiem, aby pozwolić Ci odwiedzić naszą stronę internetową. Większość przeglądarek internetowych automatycznie akceptuje pliki cookie, jednak możesz swobodnie dostosować te ustawienia w swojej przeglądarce. Jeśli zdecydujesz się nie akceptować plików cookie, niektóre funkcje naszej strony mogą nie działać poprawnie.",
+            "text3": "Najczęściej używanymi przez nas plikami cookie są pliki cookie tymczasowe (tzw. sesyjne), które zostaną usunięte po zakończeniu sesji przeglądarki. Ponadto istnieją również pliki cookie trwałe, które pozwalają nam rozpoznać urządzenie, z którego wcześniej odwiedziłeś naszą stronę. Pliki cookie nie powodują żadnych szkód na Twoim urządzeniu i nie zawierają wirusów ani szkodliwego oprogramowania.",
+            "text4": "Nasza strona internetowa wykorzystuje wyłącznie pliki cookie pochodzące od stron trzecich, które dostarczają nam usługi, a więcej informacji na ich temat znajdziesz na następujących stronach:",
+            "list": {
+                "item1": "Google Analytics;",
+                "item2": "Facebook;",
+                "item3": "eTarget;",
+                "item4": "Nation Builder;",
+                "item5": "Quorum."
+            }
+        },
+        "informationSocialMedia": {
+            "heading": "Informacje uzyskane z interakcji w mediach społecznościowych",
+            "text1": "W ramach działań marketingowych przetwarzamy tylko zwykłe kategorie danych osobowych, o których wspomniano powyżej. Nie przetwarzamy żadnych szczególnych kategorii danych osobowych w tych celach. Dane dotyczące potencjalnych sympatii, wyrażonych zainteresowań i interakcji z treściami cyfrowymi dotyczącymi naszej partii politycznej SPRAVODLIVOSŤ nie są uważane za Twoje poglądy polityczne ani przekonania polityczne, ponieważ uważamy, że zarówno nasi zwolennicy, jak i przeciwnicy polityczni śledzą nas w przestrzeni internetowej. Profile osobiste naszych liderów politycznych lub kandydatów są uważane za część przetwarzania prowadzonego przez SPRAVODLIVOSŤ.",
+            "heading2": "Jak przetwarzamy Twoje dane osobowe?",
+            "text2": "Przetwarzamy Twoje dane osobowe w celu:",
+            "list": {
+                "item1": "Dostarczenia informacji o naszych działaniach, w tym wysyłania wiadomości e-mail, wiadomości SMS lub telefonów dotyczących naszych wiadomości i/lub odpowiadania na pytania, które bezpośrednio do nas przesłałeś;",
+                "item2": "Zarządzania i organizowania naszych relacji z członkami, zwolennikami, wolontariuszami lub osobami zainteresowanymi naszymi działaniami; oraz",
+                "item3": "Zarządzania naszą stroną internetową i kontami w mediach społecznościowych w celu jak najbardziej efektywnego wyświetlania treści na podstawie testów i analiz danych."
+            },
+            "heading3": "Komu udostępniamy Twoje dane osobowe?",
+            "text3": "Możemy ujawnić lub udostępnić Twoje dane osobowe na podstawie decyzji sądu lub innych organów państwowych uprawnionych do żądania ich ujawnienia i/lub dostępności oraz zgodnie z obowiązkami wynikającymi z odpowiednich przepisów prawnych.",
+            "heading4": "Jaka jest podstawa prawna przetwarzania Twoich danych osobowych?",
+            "text4": "Przetwarzamy Twoje dane osobowe przede wszystkim na podstawie Twojej zgody, którą udzieliłeś przed rozpoczęciem przetwarzania. Opcje odwołania zgody na przetwarzanie opisane są poniżej w niniejszym dokumencie.",
+            "text5": "Jeśli jest to konieczne, możemy dalej przetwarzać Twoje dane osobowe w następujących przypadkach:",
+            "list2": {
+                "item1": "Jeśli zawarłeś lub planujesz zawrzeć umowę z nami, w celu wykonania umowy lub w związku z negocjacjami przed zawarciem takiej umowy; lub",
+                "item2": "W celu spełnienia naszych obowiązków prawnych."
+            }
+        },
+        "where": {
+            "heading": "Gdzie przetwarzamy Twoje dane osobowe?",
+            "text1": "Przede wszystkim przetwarzamy Twoje dane osobowe na terenie Unii Europejskiej lub w państwach będących stronami umowy o Europejskim Obszarze Gospodarczym.",
+            "text2": "Jednakże niektórzy z naszych dostawców, zwłaszcza ci, których usługi wykorzystujemy do działania naszej strony internetowej, mogą przetwarzać różne dane w Stanach Zjednoczonych Ameryki (USA), w tym dane osobowe.",
+            "text3": "Przekazywanie danych osobowych do USA jest możliwe na podstawie decyzji wykonawczej Komisji Europejskiej (UE) 2016/1250 z dnia 12 lipca 2016 r. w sprawie odpowiedniości ochrony zapewnianej przez Tarczę Prywatności UE-USA.",
+            "heading2": "Jak długo przetwarzamy Twoje dane osobowe?",
+            "text4": "Przetwarzamy Twoje dane osobowe tylko przez czas niezbędny do osiągnięcia celu, w jakim zostały uzyskane Twoje dane osobowe. Dane osobowe przetwarzane na podstawie Twojej zgody mogą być przetwarzane przez cały czas ważności Twojej zgody, która wynosi pięć lat od daty jej udzielenia.",
+            "text5": "Po tym okresie Twoje dane osobowe zostaną usunięte, chyba że dalsze przetwarzanie jest konieczne dla zapewnienia zgodności z naszymi obowiązkami prawymi lub z innych uzasadnionych powodów zgodnie z obowiązującymi przepisami.",
+            "heading3": "Jakie są Twoje prawa?",
+            "text6": "W związku z przetwarzaniem Twoich danych osobowych przysługują Ci następujące prawa:",
+            "list": {
+                "item1": "Masz prawo żądać dostępu do Twoich danych osobowych, które przetwarzamy.",
+                "item2": "Masz prawo żądać poprawienia nieprawidłowych danych osobowych, które przetwarzamy.",
+                "item3": "Masz prawo żądać usunięcia Twoich danych osobowych, które przetwarzamy.",
+                "item4": "Masz prawo wycofania swojej zgody na przetwarzanie Twoich danych osobowych; po otrzymaniu wycofania nie będziemy już przetwarzać Twoich danych osobowych. Wycofanie zgody nie wpływa na zgodność z przetwarzaniem dokonanym przed jej wycofaniem.",
+                "item5": "Masz prawo złożyć skargę dotyczącą niezgodnego z prawem przetwarzania danych osobowych. Możesz skierować swoją skargę do nas w dowolnym czasie lub złożyć ją do Urzędu Ochrony Danych Osobowych Republiki Słowackiej."
+            }
+        },
+        "howTo": {
+            "heading": "Jak skorzystać z Twoich praw dotyczących przetwarzania danych osobowych?",
+            "text1": "Możesz skorzystać z dowolnego z wyżej wymienionych praw, wysyłając wiadomość na nasz adres e-mail: spravodlivost.politicka.strana@gmail.com lub na nasz adres pocztowy:",
+            "text2": "SPRAVODLIVOSŤ",
+            "text3": "Tomášikova 3/A, 821 01 Bratislava-Ružinov",
+            "text4": "Prosimy zauważyć, że przed udzieleniem Ci jakichkolwiek informacji w tej sprawie, mamy prawo zażądać od Ciebie dodatkowych danych i informacji w celu potwierdzenia Twojej tożsamości.",
+            "heading2": "Urząd Ochrony Danych Osobowych Republiki Słowackiej",
+            "text5": "Urząd Ochrony Danych Osobowych Republiki Słowackiej to organ rządowy odpowiedzialny za nadzorowanie ochrony danych osobowych na terenie Republiki Słowackiej.",
+            "text6": "Urząd ma prawo rozpatrywać Twoje skargi związane z przetwarzaniem Twoich danych osobowych. Ponadto, Urząd może udzielić Ci dodatkowych informacji dotyczących Twoich praw i obowiązków dotyczących Twoich danych osobowych."
+        }
+    },
+    "category": {
+        "header": "",
+        "categoriesHeader": "Kategorie",
+        "readMoreHeader": "Czytaj więcej",
+        "searchPlaceholder": "Szukaj",
+        "notFound": "Nie znaleziono artykułów."
+    },
+    "404": {
+        "heading": "404 - Strona nie znaleziona",
+        "text": "Przepraszamy. Strona nie została znaleziona.",
+        "readMoreHeading": "Czytaj więcej",
+        "noArticles": "Nie znaleziono artykułów."
+    },
+    "mandatory": {
+        "heading": "Wymagane dodatkowe informacje",
+        "text": "Obowiązkowe opublikowane informacje od 2 maja 2023 roku"
+    },
+    "mandatoryFrom": {
+        "heading": "Obowiązkowe opublikowane informacje od 2 maja 2023 roku",
+        "text": "Obowiązkowe opublikowane informacje do 1 maja 2023 roku"
+    },
+    "mandatoryTo": {
+        "heading1": "Obowiązkowe opublikowane informacje do 1 maja 2023 roku",
+        "text1": "Informacje opublikowane zgodnie z § 22 ust. 5 Ustawy Nr 85/2005 z dnia 5 września 2005 r. o partii politycznych i ruchach politycznych, z późniejszymi zmianami prawnymi:",
+        "text2": "Informacje opublikowane zgodnie z § 22 ust. 5 Ustawy Nr 85/2005 z dnia 5 września 2005 r. o partii politycznych i ruchach politycznych, z późniejszymi zmianami prawnymi:",
+        "text3": "1. Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916",
+        "text4": "nie otrzymała żadnych dotacji od osób, które przyczyniły się do jej działalności",
+        "text5": "w formie pieniężnej",
+        "text6": "których suma przekroczyła dwukrotnie minimalne wynagrodzenie pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia;",
+        "text7": "Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916",
+        "text8": "nie otrzymała żadnych dotacji od osób, które przyczyniły się do jej działalności",
+        "text9": "w formie pieniężnej",
+        "text10": "których suma przekroczyła dwukrotnie minimalne wynagrodzenie pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia;",
+        "text11": "Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916",
+        "text12": "otrzymała, w roku kalendarzowym 2019, dotacje od osób, które przyczyniły się do jej działalności",
+        "text13": "w formie niepieniężnej",
+        "text14": "których suma przekroczyła dwukrotnie minimalne wynagrodzenie pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia;",
+        "text15": "Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916",
+        "text16": "otrzymała, w roku kalendarzowym 2019, dotacje od następujących osób, które przyczyniły się do jej działalności",
+        "text17": "w formie pieniężnej",
+        "text18": "Ing. Pavel Weiss, Vysoká 7116/16, 811 06 Bratysława - Staré Mesto, kwota darowizny pieniężnej: 5 000 euro",
+        "text19": "Ing. JUDr. Soňa Snopková, Anízova 20409/25, 821 04 Bratysława - Vrakuňa, kwota darowizny pieniężnej: 3 000 euro",
+        "text20": "RNDr. Ferdinand Búci, Hrobákova 9, 851 02 Bratysława, kwota darowizny pieniężnej: 3 000 euro",
+        "text21": "Ing. Martin Halás, Baltská 33, 821 07 Bratysława, kwota darowizny pieniężnej: 3 000 euro",
+        "text22": "JUDr. Ester Tvrdoň Flóra, Bratislavská 53/31, 900 21 Svätý Jur, kwota darowizny pieniężnej: 3 000 euro",
+        "text23": "Empire Services s.r.o., Trnavská 6/c, 821 08 Bratysława, Numer identyfikacyjny: 35 835 346, kwota darowizny pieniężnej: 2 000 euro.",
+        "text24": "4. Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916, otrzymała, w roku kalendarzowym 2019, inne bezpłatne korzyści, których wartość przekroczyła dwukrotnie minimalne wynagrodzenie pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia, od Mgr. Ivana Weissa, Mikulášska 7015/25, 811 01 Bratysława, w kwocie 8 031 euro (wartość korzyści bezpłatnej) jako wartość zwyczajnych odsetek od pożyczki bez odsetek (przedmiot korzyści bezpłatnej).",
+        "text25": "Informacja opublikowana: 18 marca 2020 r.",
+        "text26": "1. Informacja dotycząca Listy Dawców na podstawie przepisu § 23 ust. 4 ustawy Rady Narodowej Republiki Słowackiej nr 85/2005 Zb. o partii politycznych i ugrupowaniach politycznych w brzmieniu zmienionym przepisami ustawowymi:",
+        "text27": "a) Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916, nie otrzymała żadnych darowizn od osób fizycznych w roku kalendarzowym 2018, które przyczyniły się do jej działalności w formie darowizny pieniężnej lub składki członkowskiej, których suma przekroczyła dwukrotność minimalnego wynagrodzenia pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia.",
+        "text28": "b) Partia polityczna 99% - Civic Voice, Klariská 330/1, 811 03 Bratysława, Numer identyfikacyjny: 42257441, zarejestrowana w Rejestrze Partii Politycznych prowadzonym przez Ministerstwo Spraw Wewnętrznych Republiki Słowackiej w dniu 6 grudnia 2011 r. pod numerem OVVS 3 - 2011/029916 otrzymała, w roku kalendarzowym 2018, inne bezpłatne korzyści, których wartość przekroczyła dwukrotność minimalnego wynagrodzenia pracownika otrzymującego miesięczne wynagrodzenie obowiązujące w chwili przyjęcia, od Mgr. Ivana Weissa, Mikulášska 7015/25, 811 01 Bratysława, w kwocie 8 031 euro (wartość korzyści bezpłatnej) jako wartość zwyczajnych odsetek od pożyczki bez odsetek (przedmiot korzyści bezpłatnej).",
+        "text29": "Informacja opublikowana: 29 marca 2019 r.",
+        "text31": "2. Raport dotyczący wykorzystania funduszy na kampanię przedwyborczą",
+        "text32": "Raport dotyczący wykorzystania funduszy na kampanię przedwyborczą – wybory do organów samorządu lokalnego w 2018 roku",
+        "text33": "Raport dotyczący wydatków na kampanię wyborczą przez partię polityczną na wybory do organów samorządu lokalnego w roku 2022",
+        "docText": {
+            "text1": "3. Informacje dotyczące Listy Ofiarodawców na podstawie przepisu § 23 ust. 4 ustawy Rady Narodowej Republiki Słowackiej nr 85/2005 o Partiach Politycznych i Ruchach Politycznych w brzmieniu obowiązującym po późniejszych zmianach:",
+            "text2": "W pierwszym kwartale 2016 roku, partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie dokonała żadnych przyjętych darowizn.",
+            "text3": "Informacja opublikowana: 30 kwietnia 2016 roku",
+            "text4": "W drugim kwartale 2016 roku, partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie dokonała żadnych przyjętych darowizn.",
+            "text5": "Informacja opublikowana: 30 lipca 2016 roku",
+            "text6": "W trzecim kwartale 2016 roku, partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie dokonała żadnych przyjętych darowizn.",
+            "text7": "Informacja opublikowana: 30 października 2016 roku",
+            "text8": "W czwartym kwartale 2016 roku, partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie dokonała żadnych przyjętych darowizn.",
+            "text9": "Informacja opublikowana: 26 stycznia 2017 roku",
+            "text10": "W pierwszym kwartale 2017 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text11": "Informacja opublikowana: 28 kwietnia 2017 roku",
+            "text12": "W drugim kwartale 2017 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text13": "Informacja opublikowana: 27 lipca 2017 roku",
+            "text14": "W trzecim kwartale 2017 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text15": "Informacja opublikowana: 26 października 2017 roku",
+            "text16": "W czwartym kwartale 2017 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text17": "Informacja opublikowana: 26 stycznia 2018 roku",
+            "text18": "W pierwszym kwartale 2018 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text19": "Informacja opublikowana: 25 kwietnia 2018 roku",
+            "text20": "W drugim kwartale 2018 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text21": "Informacja opublikowana: 25 lipca 2018 roku",
+            "text22": "W trzecim kwartale 2018 roku partia polityczna 99% - Civic Voice nie otrzymała żadnych darowizn i nie rozliczyła się z otrzymanych darowizn.",
+            "text23": "Informacja opublikowana: 29 października 2018 roku",
+            "text24": "Ostatnia aktualizacja listy darczyńców: 29 października 2018 roku"
+        }
+    },
+    "articles": {
+        "readMoreHeading": "Czytaj więcej"
+    },
+    "article": {
+        "readMoreHeading": "Czytaj więcej",
+        "readMoreHeadingBtn": "Czytaj więcej",
+        "addedBy": "Dodane przez",
+        "onDay": "dnia",
+        "resource": "Źródło",
+        "fixedBy": "Zmodyfikowane przez",
+        "home": "Strona główna"
+    }
+}
